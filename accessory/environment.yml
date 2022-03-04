@@ -1,0 +1,14 @@
+name: environment
+channels:
+- conda-forge
+- defaults
+- BjornFJohansson
+dependencies:
+- python=3.8
+- pydna
+- pygenome
+
+- pytest
+- nbval
+- ipycache
+- joblib
