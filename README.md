@@ -1,4 +1,4 @@
-# Lastname et al. 2020
+# Pozdniakova et al. 2022
 
 This repository contains Jupyter notebooks describing cloning using
 [Python](https://www.python.org),
