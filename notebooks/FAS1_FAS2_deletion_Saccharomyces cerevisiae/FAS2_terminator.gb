@@ -1,0 +1,29 @@
+LOCUS       name                     996 bp    DNA     linear   UNK 01-JAN-1980
+DEFINITION  BK006949.2 REGION: 114316..115311
+            SEGUID_E6Obk0rQ88I6gRExwdWso99asEw.
+ACCESSION   id
+VERSION     id
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 agagagcact acgtagtccc tcttttaata tgtaacgtgt cgcttctatt tatcagacat
+       61 aatagtaatt actttgttat ttttctatcg tttccttact ttagcctctg atttcgatct
+      121 ggcctaatca ttgtgtacgt ctataatcat atggccctga gcgtacacac cgttcaattc
+      181 ttctatttgg tcggcccaca caaattcgcg cgggggcata ttgacgcgtg gaagaataga
+      241 agtccgcgta gcagctctgg ggtaattagg cttttacgat atcggctggc ccagcaccgg
+      301 tttttattcc tcccgtggtt gttgtctcta ccgtgaggag gggaaagggt cagggacggc
+      361 cggtagttat gttgtctcaa cgattactgc catctattgt ttacaccaat cgcgtggggc
+      421 aaggggctgg aaggctgtgg tgtacagaat agggtctaat acccgatgcg cgacgctcct
+      481 gcgactggtt gtgtgagcca ccccttgatc gcctctgcca aatactcagg gaagagaaaa
+      541 atcgcgaagg tggacgagtg cccttaaaga accagcatcc tcgatcgccg ctgccgttcg
+      601 ccctggctta gcggtgggaa gcatcctttg gctttcgaat tctccgccgt tgagtccccc
+      661 taagggcctt atttatcccc tctatttttt tttagaaaat gttttctttt tcaagatttg
+      721 tttgctcctt cacggcttcc cccttaaccg ttcaacagtc ttccgtatat aacaatctca
+      781 atccactctt attgcctata attttgatta attcttattc atcccggcag ataaagtttc
+      841 gtcttgtttt gaaagagaca ggagttcttg gctgcagtat tttgcaacag cttcattaac
+      901 catgtatgta aagaaaaaat ctggagcgac ttactggctt agcttttttt actaacacat
+      961 aaataatact gtgataagat aagaaaaaaa cacgaa
+//

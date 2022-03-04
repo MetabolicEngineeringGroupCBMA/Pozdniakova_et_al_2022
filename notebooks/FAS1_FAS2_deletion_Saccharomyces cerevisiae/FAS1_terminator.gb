@@ -1,0 +1,21 @@
+LOCUS       name                     489 bp    DNA     linear   UNK 01-JAN-1980
+DEFINITION  BK006944.2 REGION: 106827..107315
+            SEGUID_VLnTNEeOWdq391Czn-B8D_f8Xjo.
+ACCESSION   id
+VERSION     id
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tttcttaagt gattatataa ccgtaagaaa tatttaactt tgaaactcct gtatactaat
+       61 gtttaatata gctggcttat gattttagtt ctcttctcct attataaata gatacattga
+      121 ttaggtattt ttataatata cttgggatta acagatgcta tatgaatttt tttttccgcc
+      181 gcaagccctc gctagggcgg ggcagatgct gaagaaaaaa ttttctgttc cattgggtta
+      241 tgtttaaaaa tcaacgatat tcgaacataa tcgatgacct tgatgattag cgaagttctg
+      301 ctctaaagaa attagcttta aaaacagctc cattattagt gtaaactgct acttcaactc
+      361 tttactcgaa aagttgaaac aagtgtctat tccgcacatc tctgcaataa ccgaaccttc
+      421 acgatttagc tacaatccca catctgcaga ttctaccgtt taatagtctt aatttgaaga
+      481 gaaataaaa
+//
