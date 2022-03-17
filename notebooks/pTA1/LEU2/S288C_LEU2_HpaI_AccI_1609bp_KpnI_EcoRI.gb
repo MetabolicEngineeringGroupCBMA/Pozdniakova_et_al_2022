@@ -1,0 +1,87 @@
+LOCUS       S288C_LEU2_HpaI_        1609 bp    DNA     linear       17-MAR-2022
+DEFINITION  .
+ACCESSION   
+VERSION     
+SOURCE      .
+  ORGANISM  .
+COMMENT     LEU2 YCL018W SGDID:S000000523, chrIII:91324..92418+/- 1kb 
+COMMENT     s288c
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     misc_feature    412..1506
+                     /locus_tag="LEU2 ORF"
+                     /label="LEU2 ORF"
+                     /ApEinfo_label="LEU2 ORF"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     protein_bind    1048..1053
+                     /locus_tag="EcoRI"
+                     /label="EcoRI"
+                     /ApEinfo_label="EcoRI"
+                     /ApEinfo_fwdcolor="#dcff28"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     protein_bind    658..663
+                     /locus_tag="KpnI"
+                     /label="KpnI"
+                     /ApEinfo_label="KpnI"
+                     /ApEinfo_fwdcolor="#e0ff3e"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     misc_feature    1..6
+                     /locus_tag="HpaI"
+                     /label="HpaI"
+                     /ApEinfo_label="HpaI"
+                     /ApEinfo_fwdcolor="#cbff51"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     misc_feature    1604..1609
+                     /locus_tag="AccI"
+                     /label="AccI"
+                     /ApEinfo_label="AccI"
+                     /ApEinfo_fwdcolor="#d4ff3e"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     unsure          213..214
+                     /locus_tag="New Feature"
+                     /label="New Feature"
+                     /ApEinfo_label="New Feature"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+ORIGIN
+        1 GTTAACTGTG GGAATACTCA GGTATCGTAA GATGCAAGAG TTCGAATCTC TTAGCAACCA
+       61 TTATTTTTTT CCTCAACATA ACGAGAACAC ACAGGGGCGC TATCGCACAG AATCAAATTC
+      121 GATGACTGGA AATTTTTTGT TAATTTCAGA GGTCGCCTGA CGCATATACC TTTTTCAACT
+      181 GAAAAATTGG GAGAAAAAGG AAAGGTGAGA GCGCCGGAAC CGGCTTTTCA TATAGAATAG
+      241 AGAAGCGTTC ATGACTAAAT GCTTGCATCA CAATACTTGA AGTTGACAAT ATTATTTAAG
+      301 GACCTATTGT TTTTTCCAAT AGGTGGTTAG CAATCGTCTT ACTTTCTAAC TTTTCTTACC
+      361 TTTTACATTT CAGCAATATA TATATATATA TTTCAAGGAT ATACCATTCT AATGTCTGCC
+      421 CCTAAGAAGA TCGTCGTTTT GCCAGGTGAC CACGTTGGTC AAGAAATCAC AGCCGAAGCC
+      481 ATTAAGGTTC TTAAAGCTAT TTCTGATGTT CGTTCCAATG TCAAGTTCGA TTTCGAAAAT
+      541 CATTTAATTG GTGGTGCTGC TATCGATGCT ACAGGTGTTC CACTTCCAGA TGAGGCGCTG
+      601 GAAGCCTCCA AGAAGGCTGA TGCCGTTTTG TTAGGTGCTG TGGGTGGTCC TAAATGGGGT
+      661 ACaGGTAGTG TTAGACCTGA ACAAGGTTTA CTAAAAATCC GTAAAGAACT TCAATTGTAC
+      721 GCCAACTTAA GACCATGTAA CTTTGCATCC GACTCTCTTT TAGACTTATC TCCAATCAAG
+      781 CCACAATTTG CTAAAGGTAC TGACTTCGTT GTTGTCAGAG AATTAGTGGG AGGTATTTAC
+      841 TTTGGTAAGA GAAAGGAAGA CGATGGTGAT GGTGTCGCTT GGGATAGTGA ACAATACACC
+      901 GTTCCAGAAG TGCAAAGAAT CACAAGAATG GCCGCTTTCA TGGCCCTACA ACATGAGCCA
+      961 CCATTGCCTA TTTGGTCCTT GGATAAAGCT AATGTTTTGG CCTCTTCAAG ATTATGGAGA
+     1021 AAAACTGTGG AGGAAACCAT CAAGAACGAA TTtCCTACAT TGAAGGTTCA ACATCAATTG
+     1081 ATTGATTCTG CCGCCATGAT CCTAGTTAAG AACCCAACCC ACCTAAATGG TATTATAATC
+     1141 ACCAGCAACA TGTTTGGTGA TATCATCTCC GATGAAGCCT CCGTTATCCC AGGTTCCTTG
+     1201 GGTTTGTTGC CATCTGCGTC CTTGGCCTCT TTGCCAGACA AGAACACCGC ATTTGGTTTG
+     1261 TACGAACCAT GCCACGGTTC TGCTCCAGAT TTGCCAAAGA ATAAGGTCAA CCCTATCGCC
+     1321 ACTATCTTGT CTGCTGCAAT GATGTTGAAA TTGTCATTGA ACTTGCCTGA AGAAGGTAAG
+     1381 GCCATTGAAG ATGCAGTTAA AAAGGTTTTG GATGCAGGTA TCAGAACTGG TGATTTAGGT
+     1441 GGTTCCAACA GTACCACCGA AGTCGGTGAT GCTGTCGCCG AAGAAGTTAA GAAAATCCTT
+     1501 GCTTAAAAAG ATTCTCTTTT TTTATGATAT TTGTACATAA ACTTTATAAA TGAAATTCAT
+     1561 AATAGAAACG ACACGAAATT ACAAAATGGA ATATGTTCAT AGGGTAGAC 
+//

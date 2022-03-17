@@ -1,0 +1,112 @@
+LOCUS       SYNECOABC               1993 bp    DNA     circular SYN 27-APR-1993
+DEFINITION  Synthetic plasmid (for E.coli) DNA.
+ACCESSION   M34519
+VERSION     M34519.1
+KEYWORDS    b-galactosidase; beta-lactamase; bla gene; lacZ gene; promoter
+            region.
+SOURCE      unidentified cloning vector
+  ORGANISM  unidentified cloning vector
+            other sequences; artificial sequences; vectors.
+REFERENCE   1  (bases 1 to 1993)
+  AUTHORS   Mandecki,W., Hayden,M.A., Shallcross,M.A. and Stotland,E.
+  TITLE     A totally synthetic plasmid for general cloning, gene expression and
+            mutagenesis in Escherichia coli
+  JOURNAL   Gene 94 (1), 103-107 (1990)
+   PUBMED   2227445
+COMMENT     Original source text: Synthetic DNA.
+            Draft entry and computer-readable sequence for [Unpublished (1990)]
+            kindly submitted
+            by W.Mandecki, 22-MAY-1990.
+            Author address:W.Mandecki
+            Abbott Laboratories
+            Corporate Molecular Biology D93D
+            Abbott Park, IL 60064.
+FEATURES             Location/Qualifiers
+     source          1..1993
+                     /organism="unidentified cloning vector"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:45196"
+     misc_feature    81..327
+                     /note="lacZ fragment mRNA"
+     CDS             119..301
+                     /note="b-galactosidase"
+                     /codon_start=1
+                     /transl_table=11
+                     /protein_id="AAA72840.1"
+                     /translation="MTMITPGLAVVLQRRDWENPGVTQLNRLAAHPPFASWRNSEEART
+                     DRPSQQLRSLNGEWR"
+     misc_feature    136..137
+                     /note="SmaI site for introduction of multicloning"
+     regulatory      301..336
+                     /regulatory_class="other"
+                     /note="trpA terminator"
+     regulatory      337..402
+                     /regulatory_class="other"
+                     /note="bla promoter P3"
+     mRNA            403..1329
+                     /product="bla mRNA"
+     CDS             438..1298
+                     /note="b-lactamase"
+                     /codon_start=1
+                     /transl_table=11
+                     /protein_id="AAA72841.1"
+                     /translation="MSIQHFRVALIPFFAAFCLPVFAHPETLVKVKDAEDQLGARVGYI
+                     ELDLNSGKILESFRPEERFPMMSTFKVLLCGAVLSRVDAGQEQLGRRIHYSQNDLVEYS
+                     PVTEKHLTDGMTVRELCSAAITMSDNTAANLLLTTIGGPKELTAFLHNMGDHVTRLDRW
+                     EPELNEAIPNDERDTTMPAAMATTLRKLLTGELLTLASRQQLIDWLEADKVAGPLLRSA
+                     LPAGWFIADKSGAGERGSRGIIAALGPDGKPSRIVVIYTTGSQATMDERNRQIAEIGAS
+                     LIKHW"
+     regulatory      1299..1342
+                     /regulatory_class="other"
+                     /note="phage fd terminator"
+     regulatory      1343..1408
+                     /regulatory_class="other"
+                     /note="RNAII promoter"
+     mRNA            1409..1962
+                     /product="RNAII mRNA"
+     regulatory      1415..1440
+                     /regulatory_class="other"
+                     /note="RNAI terminator"
+     mRNA            1422..1517
+                     /product="RNAI mRNA"
+     regulatory      1518..1555
+                     /regulatory_class="other"
+                     /note="RNAI promoter"
+     misc_feature    1961..1962
+                     /note="RNaseH cleavage site"
+ORIGIN
+        1 gaattgatta atgtgagtta gctcactcat taggcacccc aggctttaca ctttatgctg
+       61 ccggctcgta tgttgtgtgg aattgtgagc ggataacaat ttcacacagg aaacagctat
+      121 gactatgatt acgcccgggc ttgccgtcgt tttacagcga cgagactggg aaaatcctgg
+      181 cgttacccaa cttaatcgcc ttgccgcaca cccccctttc gccagttggc gtaatagcga
+      241 agaagcccgc accgaccgcc cttcccaaca gttgcgtagt ctgaatggcg aatggcgtta
+      301 aactagtagc ccgcctaatg agcgggcttt tttttaattc ccctatttgt ttatttttct
+      361 aaatacattc aaatatgtat ccgctcatga gacaataacc ctgataaatg cttcaataat
+      421 attgaaaaag gaagagtatg agtattcaac atttccgtgt cgcccttatt cccttttttg
+      481 cggcattttg ccttcctgtt tttgctcacc cagaaacgct cgtgaaagta aaagacgcag
+      541 aggaccaatt gggggcacga gtgggataca tagaactgga cttgaatagc ggtaaaatcc
+      601 ttgagagttt tcgccctgaa gagcgttttc caatgatgag cactttcaaa gttctgctat
+      661 gtggagcagt attatcccgt gtagatgcgg ggcaagagca actcggacga cgaatacact
+      721 attcgcagaa tgacttggtt gaatactccc cagtgacaga aaagcacctt acggacggaa
+      781 tgacggtaag agaattatgt agtgccgcca taacgatgag tgataacact gcggcgaact
+      841 tacttctgac aaccatcggt ggaccgaagg aattaaccgc ttttttgcac aatatgggag
+      901 accatgtaac tcgccttgac cgttgggaac cagaactgaa tgaagccata ccaaacgacg
+      961 agcgagacac cacaatgcct gcggcaatgg caacaacatt acgcaaacta ttaactggcg
+     1021 aactacttac tctggcttca cggcaacaat taatagactg gcttgaagcg gataaagttg
+     1081 caggaccact actgcgttcg gcacttcctg ctggctggtt tattgctgat aaatctgggg
+     1141 caggagagcg tggttcacgg ggtatcattg ccgcacttgg accagatggt aagccttccc
+     1201 gtatcgtagt tatctacacg acgggtagtc aggcaactat ggacgaacga aatagacaga
+     1261 ttgctgaaat aggggcttca ctgattaagc attggtaaac cgatacaatt aaaggctcct
+     1321 tttggagcct ttttttttgg acggaccgag tagaaaagat caaaggatct tcttgagatc
+     1381 ctttttttct gcgcgtaatc tgctgcttgc aaacaaaaaa accaccgcta ccagcggtgg
+     1441 tttgtttgcc ggatcaagag ctaccaactc tttttccgaa ggtaactggc ttcagcagag
+     1501 cgcagatacc aaatactgtt cttctagtgt agccgtagtt aggccaccac ttcaagaact
+     1561 ctgtagcacc gcctacatac ctcgctctgc taatcctgtt accagtggct gctgccagtg
+     1621 gcgataagtc gtgtcttacc gggttggact caagacgata gttaccggat aaggcgcagc
+     1681 ggtcgggctg aacggggggt tcgtgcacac agcccagctt ggagcgaacg acctacaccg
+     1741 aactgagata cctacagcgt gagctatgag aaagcgccac gcttcccgaa gggacaaagg
+     1801 cggacaggta tccggtaagc ggcagggtcg gaacaggaga gcgcacgagg gagcttccag
+     1861 ggggaaacgc ctggtatctt tatagtcctg tcgggtttcg ccacctctga cttgagcgtc
+     1921 gatttttgtg atgctcgtca ggggggcgga gcctatggaa aaacgccagc aacgcggcct
+     1981 ttttacggtt cct
+//

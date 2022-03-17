@@ -1,0 +1,133 @@
+LOCUS       YIplac128_snapge        1604 bp    DNA        circular     28-FEB-2022
+DEFINITION  Yeast integrating plasmid with a LEU2 marker. See also YIplac204
+            and YIplac211.
+ACCESSION   .
+VERSION     .
+KEYWORDS    YIplac128.
+SOURCE      synthetic DNA construct
+  ORGANISM  synthetic DNA construct .
+REFERENCE   1  (bases 1 to 4293)
+  AUTHORS   Gietz RD, Sugino A.
+  TITLE     New yeast-Escherichia coli shuttle vectors constructed with in
+            vitro mutagenized yeast genes lacking six-base pair restriction
+            sites.
+  JOURNAL   Gene 1988;74:527-34.
+   PUBMED   3073106
+REFERENCE   2  (bases 1 to 4293)
+  AUTHORS   .
+  TITLE     Direct Submission
+  JOURNAL   Exported Feb 28, 2022 from SnapGene Viewer 6.0.2
+            https://www.snapgene.com
+COMMENT     Annotated with pLannotate v1.2.0. SGRef: number: 1; type: "Journal
+            Article"; journalName: "Gene"; date: "1988"; volume: "74"; pages:
+            "527-34" The sequence of this plasmid was reconstructed using the
+            description from Gietz and Sugino.
+COMMENT     
+COMMENT     ApEinfo:methylated:0
+FEATURES             Location/Qualifiers
+     source          complement(1..1604)
+                     /lab_host="Saccharomyces cerevisiae"
+                     /mol_type="other DNA"
+                     /organism="synthetic DNA construct"
+                     /locus_tag="source:synthetic DNA construct"
+                     /label="source:synthetic DNA construct"
+                     /ApEinfo_label="source:synthetic DNA construct"
+                     /ApEinfo_fwdcolor="#00DF87"
+                     /ApEinfo_revcolor="#00DF87"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+                     /ApEinfo_hidden=""
+     CDS             409..1503
+                     /codon_start="1"
+                     /gene="S. cerevisiae LEU2"
+                     /product="3-isopropylmalate dehydrogenase, required for
+                     leucine biosynthesis"
+                     /note="yeast auxotrophic marker"
+                     /translation="MSAPKKIVVLPGDHVGQEITAEAIKVLKAISDVRSNVKFDFENH
+                     LIGGAAIDATGVPLPDEALEASKKVDAVLLGAVGGPKWGTGSVRPEQGLLKIRKELQL
+                     YANLRPCNFASDSLLDLSPIKPQFAKGTDFVVVRELVGGIYFGKRKEDDGDGVAWDSE
+                     QYTVPEVQRITRMAAFMALQHEPPLPIWSLDKANVLASSRLWRKTVEETIKNEFPTLK
+                     VQHQLIDSAAMILVKNPTHLNGIIITSNMFGDIISDEASVIPGSLGLLPSASLASLPD
+                     KNTAFGLYEPCHGSAPDLPKNKVNPIATILSAAMMLKLSLNLPEEGKAIEDAVKKVLD
+                     AGIRTGDLGGSNSTTEVGDAVAEEVKKILA"
+                     /locus_tag="LEU2"
+                     /label="LEU2"
+                     /ApEinfo_label="LEU2"
+                     /ApEinfo_fwdcolor="#00891F"
+                     /ApEinfo_revcolor="#00891F"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     promoter        1..408
+                     /gene="S. cerevisiae LEU2"
+                     /locus_tag="LEU2 promoter"
+                     /label="LEU2 promoter"
+                     /ApEinfo_label="LEU2 promoter"
+                     /ApEinfo_fwdcolor="#00C6C3"
+                     /ApEinfo_revcolor="#00C6C3"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             409..1503
+                     /note="pLannotate"
+                     /database="snapgene"
+                     /identity="99.5"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="CDS"
+                     /locus_tag="LEU2(1)"
+                     /label="LEU2(1)"
+                     /ApEinfo_label="LEU2"
+                     /ApEinfo_fwdcolor="#EE92FE"
+                     /ApEinfo_revcolor="#EE92FE"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     promoter        1..408
+                     /note="pLannotate"
+                     /database="snapgene"
+                     /identity="99.5"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="promoter"
+                     /locus_tag="LEU2 promoter(1)"
+                     /label="LEU2 promoter(1)"
+                     /ApEinfo_label="LEU2 promoter"
+                     /ApEinfo_fwdcolor="#FE139F"
+                     /ApEinfo_revcolor="#FE139F"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     misc_feature    58..76
+                     /locus_tag="New Feature"
+                     /label="New Feature"
+                     /ApEinfo_label="New Feature"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+ORIGIN
+        1 aactgtggga atactcaggt atcgtaagat gcaagagttc gaatctctta gcaaccatta
+       61 tttttttcct caacataacg agaacacaca ggggcgctat cgcacagaat caaattcgat
+      121 gactggaaat tttttgttaa tttcagaggt cgcctgacgc atataccttt ttcaactgaa
+      181 aaattgggag aaaaaggaaa ggtgagagcc gcggaaccgg cttttcatat agaatagaga
+      241 agcgttcatg actaaatgct tgcatcacaa tacttgaagt tgacaatatt atttaaggac
+      301 ctattgtttt ttccaatagg tggttagcaa tcgtcttact ttctaacttt tcttaccttt
+      361 tacatttcag caatatatat atatatattt caaggatata ccattctaat gtctgcccct
+      421 aagaagatcg tcgttttgcc aggtgaccac gttggtcaag aaatcacagc cgaagccatt
+      481 aaggttctta aagctatttc tgatgttcgt tccaatgtca agttcgattt cgaaaatcat
+      541 ttaattggtg gtgctgctat cgatgctaca ggtgtcccac ttccagatga ggcgctggaa
+      601 gcctccaaga aggttgatgc cgttttgtta ggtgctgtgg gtggtcctaa atggggtaca
+      661 ggtagtgtta gacctgaaca aggtttacta aaaatccgta aagaacttca attgtacgcc
+      721 aacttaagac catgtaactt tgcatccgac tctcttttag acttatctcc aatcaagcca
+      781 caatttgcta aaggtactga cttcgttgtt gtcagagaat tagtgggagg tatttacttt
+      841 ggtaagagaa aggaagacga tggtgatggt gtcgcttggg atagtgaaca atacaccgtt
+      901 ccagaagtgc aaagaatcac aagaatggcc gctttcatgg ccctacaaca tgagccacca
+      961 ttgcctattt ggtccttgga taaagctaat gttttggcct cttcaagatt atggagaaaa
+     1021 actgtggagg aaaccatcaa gaacgaattt cctacattga aggttcaaca tcaattgatt
+     1081 gattctgccg ccatgatcct agttaagaac ccaacccacc taaatggtat tataatcacc
+     1141 agcaacatgt ttggtgatat catctccgat gaagcctccg ttatcccagg ttccttgggt
+     1201 ttgttgccat ctgcgtcctt ggcctctttg ccagacaaga acaccgcatt tggtttgtac
+     1261 gaaccatgcc acggttctgc tccagatttg ccaaagaata aggtcaaccc tatcgccact
+     1321 atcttgtctg ctgcaatgat gttgaaattg tcattgaact tgcctgaaga aggtaaggcc
+     1381 attgaagatg cagttaaaaa ggttttggat gcaggtatca gaactggtga tttaggtggt
+     1441 tccaacagta ccacggaagt cggtgatgct gtcgccgaag aagttaagaa aatccttgct
+     1501 taaaaagatt ctcttttttt atgatatttg tacataaact ttataaatga aattcataat
+     1561 agaaacgaca cgaaattaca aaatggaata tgttcatagg gtag 
+//

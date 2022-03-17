@@ -1,0 +1,34 @@
+LOCUS       385bp_PCR_prod           385 bp    DNA     linear   UNK 01-JAN-1980
+DEFINITION  pcr product_578_crp42-70 (29-mer)_577_crp585-557 (29-mer).
+ACCESSION   385bp h5g--LbbiVxC0pTYpmBT41hMHKs
+VERSION     385bp h5g--LbbiVxC0pTYpmBT41hMHKs
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     primer_bind     1..29
+                     /label="578_crp42-70"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(213..242)
+                     /label="866_pYPKpwF"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     262..290
+                     /label="865_pYPKpwR"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(357..385)
+                     /label="577_crp585-557"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+ORIGIN
+        1 gttcttgtct cattgccaca ttcataagta cccatccaag agcacgctta ttcaccaggg
+       61 tgaaaaagcg gaaacgctgt actacatcgt taaaggctct gtggcagtgc tgatcaaaga
+      121 cgaagagggt aaagaaatga tcctctccta tctgaatcag ggtgatttta ttggcgaact
+      181 gggcctgttt gaagagggcc aggaacgtag cgcatgggta cgtgcgaaaa ccgcctgtga
+      241 agatatcatg cgcatgacgt caccagacgc tatgactcac ccggacggca tgcaaatcaa
+      301 aattacccgt caggaaattg gccagattgt cggctgctct agacaaaccg tgggacgaat
+      361 tcttaagatg ctcgaggatc agaac
+//

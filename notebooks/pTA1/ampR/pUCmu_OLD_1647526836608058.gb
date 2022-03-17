@@ -1,0 +1,68 @@
+LOCUS       LT827034                1669 bp    DNA     circular SYN 21-MAR-2017
+DEFINITION  Cloning vector pUCmu, complete sequence.
+ACCESSION   LT827034
+VERSION     LT827034.1
+KEYWORDS    .
+SOURCE      Cloning vector pUCmu
+  ORGANISM  Cloning vector pUCmu
+            other sequences; artificial sequences; vectors.
+REFERENCE   1
+  AUTHORS   De Schamphelaire,W., Olbrechts,A., Meert,J., Verhelst,K., Roggeman
+            Fonseca,M., Vanhoucke,M. and Beyaert,R.
+  TITLE     BCCM/LMBP Plasmid collection
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1669)
+  AUTHORS   De Schamphelaire,W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAR-2017) BCCM/LMBP, Universiteit Gent,
+            Technologiepark 927, 9052, BELGIUM
+FEATURES             Location/Qualifiers
+     source          1..1669
+                     /organism="Cloning vector pUCmu"
+                     /mol_type="other DNA"
+                     /db_xref="taxon:1969824"
+                     /note="BCCM/LMBP Plasmid collection (Ghent University,
+                     Belgium) accession number LMBP 9329."
+     rep_origin      131..352
+                     /note="pMB1 ori"
+     CDS             complement(745..1605)
+                     /note="unnamed protein product; ampicillin resistance"
+                     /codon_start=1
+                     /transl_table=11
+                     /protein_id="SLM20108.1"
+                     /translation="MSIQHFRVALIPFFAAFCLPVFAHPETLVKVKDAEDQLGARVGYI
+                     ELDLNSGKILESFRPEERFPMMSTFKVLLCGAVLSRIDAGQEQLGRRIHYSQNDLVEYS
+                     PVTEKHLTDGMTVRELCSAAITMSDNTAANLLLTTIGGPKELTAFLHNMGDHVTRLDRW
+                     EPELNEAIPNDERDTTMPVAMATTLRKLLTGELLTLASRQQLIDWMEADKVAGPLLRSA
+                     LPAGWFIADKSGAGERGSRGIIAALGPDGKPSRIVVIYTTGSQATMDERNRQIAEIGAS
+                     LIKHW"
+ORIGIN
+        1 acgcgtcgcg aggccatatg ggttaaccca tggccaagct tgcatgcctg caggtcgact
+       61 ctagaggatc ccgggtaccg agctcgaatt cggatatcct cgagactagt gggcccgttt
+      121 aaacacatgt gtttttccat aggctccgcc cccctgacga gcatcacaaa aatcgacgct
+      181 caagtcagag gtggcgaaac ccgacaggac tataaagata ccaggcgttt ccccctggaa
+      241 gctccctcgt gcgctctcct gttccgaccc tgccgcttac cggatacctg tccgcctttc
+      301 tcccttcggg aagcgtggcg ctttctcata gctcacgctg taggtatctc agttcggtgt
+      361 aggtcgttcg ctccaagctg ggctgtgtgc acgaaccccc cgttcagccc gaccgctgcg
+      421 ccttatccgg taactatcgt cttgagtcca acccggtaag acacgactta tcgccactgg
+      481 cagcagccac tggtaacagg attagcagag cgaggtatgt aggcggtgct acagagttct
+      541 tgaagtggtg gcctaactac ggctacacta gaaggacagt atttggtatc tgcgctctgc
+      601 tgaagccagt taccttcgga aaaagagttg gtagctcttg atccggcaaa caaaccaccg
+      661 ctggtagcgg tggttttttt gtttgcaagc agcagattac gcgcagaaaa aaaggatctc
+      721 aagaagatcc tttgatcttt tctactacca atgcttaatc agtgaggcac ctatctcagc
+      781 gatctgtcta tttcgttcat ccatagttgc ctgactcccc gtcgtgtaga taactacgat
+      841 acgggagggc ttaccatctg gccccagtgc tgcaatgata ccgcgagacc cacgctcacc
+      901 ggctccagat ttatcagcaa taaaccagcc agccggaagg gccgagcgca gaagtggtcc
+      961 tgcaacttta tccgcctcca tccagtctat taattgttgc cgggaagcta gagtaagtag
+     1021 ttcgccagtt aatagtttgc gcaacgttgt tgccattgct acaggcatcg tggtgtcacg
+     1081 ctcgtcgttt ggtatggctt cattcagctc cggttcccaa cgatcaaggc gagttacatg
+     1141 atcccccatg ttgtgcaaaa aagcggttag ctccttcggt cctccgatcg ttgtcagaag
+     1201 taagttggcc gcagtgttat cactcatggt tatggcagca ctgcataatt ctcttactgt
+     1261 catgccatcc gtaagatgct tttctgtgac tggtgagtac tcaaccaagt cattctgaga
+     1321 atagtgtatg cggcgaccga gttgctcttg cccggcgtca atacgggata ataccgcgcc
+     1381 acatagcaga actttaaaag tgctcatcat tggaaaacgt tcttcggggc gaaaactctc
+     1441 aaggatctta ccgctgttga gatccagttc gatgtaaccc actcgtgcac ccaactgatc
+     1501 ttcagcatct tttactttca ccagcgtttc tgggtgagca aaaacaggaa ggcaaaatgc
+     1561 cgcaaaaaag ggaataaggg cgacacggaa atgttgaata ctcatactct tcctttttca
+     1621 atattattga agcatttatc agggttattg tctcatgagc ggatacata
+//

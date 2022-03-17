@@ -1,0 +1,566 @@
+LOCUS       YEplac181_snapge        5741 bp    DNA     circular     17-MAR-2022
+DEFINITION  Yeast episomal plasmid with a LEU2 marker. See also YEplac112 and
+            YEplac195.
+ACCESSION   .
+VERSION     .
+KEYWORDS    YEplac181.
+SOURCE      synthetic DNA construct
+  ORGANISM  synthetic DNA construct .
+REFERENCE   1  (bases 1 to 5741)
+  AUTHORS   Gietz RD, Sugino A.
+  TITLE     New yeast-Escherichia coli shuttle vectors constructed with in
+            vitro mutagenized yeast genes lacking six-base pair restriction
+            sites.
+  JOURNAL   Gene 1988;74:527-34.
+   PUBMED   3073106
+REFERENCE   2  (bases 1 to 5741)
+  AUTHORS   .
+  TITLE     Direct Submission
+  JOURNAL   Exported Feb 28, 2022 from SnapGene Viewer 6.0.2
+            https://www.snapgene.com
+COMMENT     Annotated with pLannotate v1.2.0. SGRef: number: 1; type: "Journal
+            Article"; journalName: "Gene"; date: "1988"; volume: "74"; pages:
+            "527-34" The sequence of this plasmid was reconstructed using the
+            description from Gietz and Sugino.
+COMMENT     
+COMMENT     ApEinfo:methylated:0
+FEATURES             Location/Qualifiers
+     source          complement(1..5741)
+                     /lab_host="Saccharomyces cerevisiae"
+                     /mol_type="other DNA"
+                     /organism="synthetic DNA construct"
+                     /locus_tag="source:synthetic DNA construct"
+                     /label="source:synthetic DNA construct"
+                     /ApEinfo_label="source:synthetic DNA construct"
+                     /ApEinfo_fwdcolor="#00DF87"
+                     /ApEinfo_revcolor="#00DF87"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+                     /ApEinfo_hidden=""
+     promoter        complement(5570..5600)
+                     /note="promoter for the E. coli lac operon"
+                     /locus_tag="lac promoter"
+                     /label="lac promoter"
+                     /ApEinfo_label="lac promoter"
+                     /ApEinfo_fwdcolor="#00D95A"
+                     /ApEinfo_revcolor="#00D95A"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     protein_bind    complement(5546..5562)
+                     /bound_moiety="lac repressor encoded by lacI"
+                     /note="The lac repressor binds to the lac operator to
+                     inhibit transcription in E. coli. This inhibition can be
+                     relieved by adding lactose or
+                     isopropyl-beta-D-thiogalactopyranoside (IPTG)."
+                     /locus_tag="lac operator"
+                     /label="lac operator"
+                     /ApEinfo_label="lac operator"
+                     /ApEinfo_fwdcolor="#008065"
+                     /ApEinfo_revcolor="#008065"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     primer_bind     complement(5522..5538)
+                     /note="common sequencing primer, one of multiple similar
+                     variants"
+                     /locus_tag="M13 rev"
+                     /label="M13 rev"
+                     /ApEinfo_label="M13 rev"
+                     /ApEinfo_fwdcolor="#13AAFE"
+                     /ApEinfo_revcolor="#13AAFE"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             complement(5242..5526)
+                     /codon_start="1"
+                     /gene="lacZ"
+                     /product="LacZ-alpha fragment of beta-galactosidase"
+                     /translation="MTMITPSLHACRSTLEDPRVPSSNSLAVVLQRRDWENPGVTQLN
+                     RLAAHPPFASWRNSEEARTDRPSQQLRSLNGEWRLMRYFLLTHLCGISHRI"
+                     /locus_tag="lacZ-alpha"
+                     /label="lacZ-alpha"
+                     /ApEinfo_label="lacZ-alpha"
+                     /ApEinfo_fwdcolor="#3A93FE"
+                     /ApEinfo_revcolor="#3A93FE"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     misc_feature    complement(5453..5509)
+                     /note="pUC19 multiple cloning site"
+                     /locus_tag="MCS"
+                     /label="MCS"
+                     /ApEinfo_label="MCS"
+                     /ApEinfo_fwdcolor="#ccff6b"
+                     /ApEinfo_revcolor="#ccff6b"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     primer_bind     5436..5452
+                     /note="common sequencing primer, one of multiple similar
+                     variants"
+                     /locus_tag="M13 fwd"
+                     /label="M13 fwd"
+                     /ApEinfo_label="M13 fwd"
+                     /ApEinfo_fwdcolor="#2D64FE"
+                     /ApEinfo_revcolor="#2D64FE"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     rep_origin      complement(3651..4997)
+                     /note="yeast 2u plasmid origin of replication"
+                     /locus_tag="2u ori"
+                     /label="2u ori"
+                     /ApEinfo_label="2u ori"
+                     /ApEinfo_fwdcolor="#00891F"
+                     /ApEinfo_revcolor="#00891F"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             2421..3515
+                     /codon_start="1"
+                     /gene="S. cerevisiae LEU2"
+                     /product="3-isopropylmalate dehydrogenase, required for
+                     leucine biosynthesis"
+                     /note="yeast auxotrophic marker"
+                     /translation="MSAPKKIVVLPGDHVGQEITAEAIKVLKAISDVRSNVKFDFENH
+                     LIGGAAIDATGVPLPDEALEASKKVDAVLLGAVGGPKWGTGSVRPEQGLLKIRKELQL
+                     YANLRPCNFASDSLLDLSPIKPQFAKGTDFVVVRELVGGIYFGKRKEDDGDGVAWDSE
+                     QYTVPEVQRITRMAAFMALQHEPPLPIWSLDKANVLASSRLWRKTVEETIKNEFPTLK
+                     VQHQLIDSAAMILVKNPTHLNGIIITSNMFGDIISDEASVIPGSLGLLPSASLASLPD
+                     KNTAFGLYEPCHGSAPDLPKNKVNPIATILSAAMMLKLSLNLPEEGKAIEDAVKKVLD
+                     AGIRTGDLGGSNSTTEVGDAVAEEVKKILA"
+                     /locus_tag="LEU2"
+                     /label="LEU2"
+                     /ApEinfo_label="LEU2"
+                     /ApEinfo_fwdcolor="#00C6C3"
+                     /ApEinfo_revcolor="#00C6C3"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     promoter        2013..2420
+                     /gene="S. cerevisiae LEU2"
+                     /locus_tag="LEU2 promoter"
+                     /label="LEU2 promoter"
+                     /ApEinfo_label="LEU2 promoter"
+                     /ApEinfo_fwdcolor="#00D0FA"
+                     /ApEinfo_revcolor="#00D0FA"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     promoter        complement(1803..1907)
+                     /gene="bla"
+                     /locus_tag="AmpR promoter"
+                     /label="AmpR promoter"
+                     /ApEinfo_label="AmpR promoter"
+                     /ApEinfo_fwdcolor="#00D308"
+                     /ApEinfo_revcolor="#00D308"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             complement(942..1802)
+                     /codon_start="1"
+                     /gene="bla"
+                     /product="beta-lactamase"
+                     /note="confers resistance to ampicillin, carbenicillin,
+                     and related antibiotics"
+                     /translation="MSIQHFRVALIPFFAAFCLPVFAHPETLVKVKDAEDQLGARVGY
+                     IELDLNSGKILESFRPEERFPMMSTFKVLLCGAVLSRIDAGQEQLGRRIHYSQNDLVE
+                     YSPVTEKHLTDGMTVRELCSAAITMSDNTAANLLLTTIGGPKELTAFLHNMGDHVTRL
+                     DRWEPELNEAIPNDERDTTMPVAMATTLRKLLTGELLTLASRQQLIDWMEADKVAGPL
+                     LRSALPAGWFIADKSGAGERGSRGIIAALGPDGKPSRIVVIYTTGSQATMDERNRQIA
+                     EIGASLIKHW"
+                     /locus_tag="AmpR"
+                     /label="AmpR"
+                     /ApEinfo_label="AmpR"
+                     /ApEinfo_fwdcolor="#2D64FE"
+                     /ApEinfo_revcolor="#2D64FE"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     rep_origin      complement(183..771)
+                     /direction="RIGHT"
+                     /note="high-copy-number colE1/pMB1/pBR322/pUC origin of
+                     replication"
+                     /locus_tag="ori"
+                     /label="ori"
+                     /ApEinfo_label="ori"
+                     /ApEinfo_fwdcolor="#EE92FE"
+                     /ApEinfo_revcolor="#EE92FE"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     rep_origin      3653..4999
+                     /note="pLannotate"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="rep_origin"
+                     /locus_tag="2μ ori"
+                     /label="2μ ori"
+                     /ApEinfo_label="2μ ori"
+                     /ApEinfo_fwdcolor="#A600FA"
+                     /ApEinfo_revcolor="#A600FA"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             2421..3515
+                     /note="pLannotate"
+                     /database="snapgene"
+                     /identity="99.5"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="CDS"
+                     /locus_tag="LEU2(1)"
+                     /label="LEU2(1)"
+                     /ApEinfo_label="LEU2"
+                     /ApEinfo_fwdcolor="#4856FE"
+                     /ApEinfo_revcolor="#4856FE"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     promoter        complement(1803..1907)
+                     /note="pLannotate"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="promoter"
+                     /locus_tag="AmpR promoter(1)"
+                     /label="AmpR promoter(1)"
+                     /ApEinfo_label="AmpR promoter"
+                     /ApEinfo_fwdcolor="#FE09C9"
+                     /ApEinfo_revcolor="#FE09C9"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             complement(942..1802)
+                     /note="pLannotate"
+                     /database="snapgene"
+                     /identity="99.8"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="CDS"
+                     /locus_tag="AmpR(1)"
+                     /label="AmpR(1)"
+                     /ApEinfo_label="AmpR"
+                     /ApEinfo_fwdcolor="#FE139F"
+                     /ApEinfo_revcolor="#FE139F"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     rep_origin      complement(183..771)
+                     /note="pLannotate"
+                     /database="snapgene"
+                     /identity="99.8"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="rep_origin"
+                     /locus_tag="ori(1)"
+                     /label="ori(1)"
+                     /ApEinfo_label="ori"
+                     /ApEinfo_fwdcolor="#CB00C4"
+                     /ApEinfo_revcolor="#CB00C4"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     misc_feature    5453..5509
+                     /note="pLannotate"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="misc_feature"
+                     /locus_tag="MCS(1)"
+                     /label="MCS(1)"
+                     /ApEinfo_label="MCS"
+                     /ApEinfo_fwdcolor="#ccff6b"
+                     /ApEinfo_revcolor="#ccff6b"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     promoter        2013..2420
+                     /note="pLannotate"
+                     /database="snapgene"
+                     /identity="99.5"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="promoter"
+                     /locus_tag="LEU2 promoter(1)"
+                     /label="LEU2 promoter(1)"
+                     /ApEinfo_label="LEU2 promoter"
+                     /ApEinfo_fwdcolor="#7160FE"
+                     /ApEinfo_revcolor="#7160FE"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     promoter        complement(5570..5600)
+                     /note="pLannotate"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="promoter"
+                     /locus_tag="lac promoter(1)"
+                     /label="lac promoter(1)"
+                     /ApEinfo_label="lac promoter"
+                     /ApEinfo_fwdcolor="#912DFE"
+                     /ApEinfo_revcolor="#912DFE"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     protein_bind    complement(5615..5636)
+                     /note="pLannotate"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="protein_bind"
+                     /locus_tag="CAP binding site"
+                     /label="CAP binding site"
+                     /ApEinfo_label="CAP binding site"
+                     /ApEinfo_fwdcolor="#B394FE"
+                     /ApEinfo_revcolor="#B394FE"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     protein_bind    complement(5546..5562)
+                     /note="pLannotate"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="protein_bind"
+                     /locus_tag="lac operator(1)"
+                     /label="lac operator(1)"
+                     /ApEinfo_label="lac operator"
+                     /ApEinfo_fwdcolor="#00DF87"
+                     /ApEinfo_revcolor="#00DF87"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             complement(5299..5456)
+                     /note="pLannotate"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="90.8"
+                     /fragment="True"
+                     /other="CDS"
+                     /locus_tag="lacZα (fragment)"
+                     /label="lacZα (fragment)"
+                     /ApEinfo_label="lacZα (fragment)"
+                     /ApEinfo_fwdcolor="#00D95A"
+                     /ApEinfo_revcolor="#00D95A"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     ncRNA           628..732
+                     /note="pLannotate"
+                     /database="Rfam"
+                     /identity="100.0"
+                     /match_length="102.9"
+                     /fragment="False"
+                     /other="ncRNA"
+                     /locus_tag="RNAI"
+                     /label="RNAI"
+                     /ApEinfo_label="RNAI"
+                     /ApEinfo_fwdcolor="#008065"
+                     /ApEinfo_revcolor="#008065"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             3653..3832
+                     /note="pLannotate"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="14.2"
+                     /fragment="True"
+                     /other="CDS"
+                     /locus_tag="FLP (fragment)"
+                     /label="FLP (fragment)"
+                     /ApEinfo_label="FLP (fragment)"
+                     /ApEinfo_fwdcolor="#13AAFE"
+                     /ApEinfo_revcolor="#13AAFE"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     misc_feature    5241..5293
+                     /note="pLannotate"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="37.6"
+                     /fragment="True"
+                     /other="misc_feature"
+                     /locus_tag="bom (fragment)"
+                     /label="bom (fragment)"
+                     /ApEinfo_label="bom (fragment)"
+                     /ApEinfo_fwdcolor="#ccff6b"
+                     /ApEinfo_revcolor="#ccff6b"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     protein_bind    3985..4014
+                     /note="pLannotate"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="62.5"
+                     /fragment="True"
+                     /other="protein_bind"
+                     /locus_tag="FRT (mutant) (fragment)"
+                     /label="FRT (mutant) (fragment)"
+                     /ApEinfo_label="FRT (mutant) (fragment)"
+                     /ApEinfo_fwdcolor="#3A93FE"
+                     /ApEinfo_revcolor="#3A93FE"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     promoter        3632..3648
+                     /note="pLannotate"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="58.6"
+                     /fragment="True"
+                     /other="promoter"
+                     /locus_tag="tet promoter (fragment)"
+                     /label="tet promoter (fragment)"
+                     /ApEinfo_label="tet promoter (fragment)"
+                     /ApEinfo_fwdcolor="#2D64FE"
+                     /ApEinfo_revcolor="#2D64FE"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     promoter        complement(5544..5562)
+                     /note="pLannotate"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="42.2"
+                     /fragment="True"
+                     /other="promoter"
+                     /locus_tag="T5 promoter (fragment)"
+                     /label="T5 promoter (fragment)"
+                     /ApEinfo_label="T5 promoter (fragment)"
+                     /ApEinfo_fwdcolor="#00891F"
+                     /ApEinfo_revcolor="#00891F"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             complement(5649..5741)
+                     /note="pLannotate"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="8.6"
+                     /fragment="True"
+                     /other="CDS"
+                     /locus_tag="lacI (fragment)"
+                     /label="lacI (fragment)"
+                     /ApEinfo_label="lacI (fragment)"
+                     /ApEinfo_fwdcolor="#00C6C3"
+                     /ApEinfo_revcolor="#00C6C3"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             complement(5153..5245)
+                     /note="pLannotate"
+                     /database="swissprot"
+                     /identity="93.5"
+                     /match_length="17.1"
+                     /fragment="True"
+                     /other="CDS"
+                     /locus_tag="RAF1 (fragment)"
+                     /label="RAF1 (fragment)"
+                     /ApEinfo_label="RAF1 (fragment)"
+                     /ApEinfo_fwdcolor="#00D0FA"
+                     /ApEinfo_revcolor="#00D0FA"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             complement(5555..5650)
+                     /note="pLannotate"
+                     /database="swissprot"
+                     /identity="68.8"
+                     /match_length="10.2"
+                     /fragment="True"
+                     /other="CDS"
+                     /locus_tag="penA (fragment)"
+                     /label="penA (fragment)"
+                     /ApEinfo_label="penA (fragment)"
+                     /ApEinfo_fwdcolor="#00D308"
+                     /ApEinfo_revcolor="#00D308"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     variation       complement(2222..2223)
+                     /locus_tag="New Feature"
+                     /label="New Feature"
+                     /ApEinfo_label="New Feature"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+ORIGIN
+        1 tcttccgctt cctcgctcac tgactcgctg cgctcggtcg ttcggctgcg gcgagcggta
+       61 tcagctcact caaaggcggt aatacggtta tccacagaat caggggataa cgcaggaaag
+      121 aacatgtgag caaaaggcca gcaaaaggcc aggaaccgta aaaaggccgc gttgctggcg
+      181 tttttccata ggctccgccc ccctgacgag catcacaaaa atcgacgctc aagtcagagg
+      241 tggcgaaacc cgacaggact ataaagatac caggcgtttc cccctggaag ctccctcgtg
+      301 cgctctcctg ttccgaccct gccgcttacc ggatacctgt ccgcctttct cccttcggga
+      361 agcgtggcgc tttctcatag ctcacgctgt aggtatctca gttcggtgta ggtcgttcgc
+      421 tccaagctgg gctgtgtgca cgaacccccc gttcagcccg accgctgcgc cttatccggt
+      481 aactatcgtc ttgagtccaa cccggtaaga cacgacttat cgccactggc agcagccact
+      541 ggtaacagga ttagcagagc gaggtatgta ggcggtgcta cagagttctt gaagtggtgg
+      601 cctaactacg gctacactag aagaacagta tttggtatct gcgctctgct gaagccagtt
+      661 accttcggaa aaagagttgg tagctcttga tccggcaaac aaaccaccgc tggtagcggt
+      721 ggtttttttg tttgcaagca gcagattacg cgcagaaaaa aaggatctca agaagatcct
+      781 ttgatctttt ctacggggtc tgacgctcag tggaacgaaa actcacgtta agggattttg
+      841 gtcatgagat tatcaaaaag gatcttcacc tagatccttt taaattaaaa atgaagtttt
+      901 aaatcaatct aaagtatata tgagtaaact tggtctgaca gttaccaatg cttaatcagt
+      961 gaggcaccta tctcagcgat ctgtctattt cgttcatcca tagttgcctg actccccgtc
+     1021 gtgtagataa ctacgatacg ggagggctta ccatctggcc ccagtgctgc aatgataccg
+     1081 cgagacccac gctcaccggc tccagattta tcagcaataa accagccagc cggaagggcc
+     1141 gagcgcagaa gtggtcctgc aactttatcc gcctccatcc agtctattaa ttgttgccgg
+     1201 gaagctagag taagtagttc gccagttaat agtttgcgca acgttgttgc cattgctaca
+     1261 ggcatcgtgg tgtcacgctc gtcgtttggt atggcttcat tcagctccgg ttcccaacga
+     1321 tcaaggcgag ttacatgatc ccccatgttg tgcaaaaaag cggttagctc cttcggtcct
+     1381 ccgatcgttg tcagaagtaa gttggccgca gtgttatcac tcatggttat ggcagcactg
+     1441 cataattctc ttactgtcat gccatccgta agatgctttt ctgtgactgg tgagtactca
+     1501 accaagtcat tctgagaata gtgtatgcgg cgaccgagtt gctcttgccc ggcgtcaata
+     1561 cgggataata ccgcgccaca tagcagaact ttaaaagtgc tcatcattgg aaaacgttct
+     1621 tcggggcgaa aactctcaag gatcttaccg ctgttgagat ccagttcgat gtaacccact
+     1681 cgtgcaccca actgatcttc agcatctttt actttcacca gcgtttctgg gtgagcaaaa
+     1741 acaggaaggc aaaatgccgc aaaaaaggga ataagggcga cacggaaatg ttgaatactc
+     1801 atactcttcc tttttcaata ttattgaagc atttatcagg gttattgtct catgagcgga
+     1861 tacatatttg aatgtattta gaaaaataaa caaatagggg ttccgcgcac atttccccga
+     1921 aaagtgccac ctgacgtcta agaaaccatt attatcatga cattaaccta taaaaatagg
+     1981 cgtatcacga ggccctttcg tcttcaagaa ttaactgtgg gaatactcag gtatcgtaag
+     2041 atgcaagagt tcgaatctct tagcaaccat tatttttttc ctcaacataa cgagaacaca
+     2101 caggggcgct atcgcacaga atcaaattcg atgactggaa attttttgtt aatttcagag
+     2161 gtcgcctgac gcatatacct ttttcaactg aaaaattggg agaaaaagga aaggtgagag
+     2221 ccgcggaacc ggcttttcat atagaataga gaagcgttca tgactaaatg cttgcatcac
+     2281 aatacttgaa gttgacaata ttatttaagg acctattgtt ttttccaata ggtggttagc
+     2341 aatcgtctta ctttctaact tttcttacct tttacatttc agcaatatat atatatatat
+     2401 ttcaaggata taccattcta atgtctgccc ctaagaagat cgtcgttttg ccaggtgacc
+     2461 acgttggtca agaaatcaca gccgaagcca ttaaggttct taaagctatt tctgatgttc
+     2521 gttccaatgt caagttcgat ttcgaaaatc atttaattgg tggtgctgct atcgatgcta
+     2581 caggtgtccc acttccagat gaggcgctgg aagcctccaa gaaggttgat gccgttttgt
+     2641 taggtgctgt gggtggtcct aaatggggta caggtagtgt tagacctgaa caaggtttac
+     2701 taaaaatccg taaagaactt caattgtacg ccaacttaag accatgtaac tttgcatccg
+     2761 actctctttt agacttatct ccaatcaagc cacaatttgc taaaggtact gacttcgttg
+     2821 ttgtcagaga attagtggga ggtatttact ttggtaagag aaaggaagac gatggtgatg
+     2881 gtgtcgcttg ggatagtgaa caatacaccg ttccagaagt gcaaagaatc acaagaatgg
+     2941 ccgctttcat ggccctacaa catgagccac cattgcctat ttggtccttg gataaagcta
+     3001 atgttttggc ctcttcaaga ttatggagaa aaactgtgga ggaaaccatc aagaacgaat
+     3061 ttcctacatt gaaggttcaa catcaattga ttgattctgc cgccatgatc ctagttaaga
+     3121 acccaaccca cctaaatggt attataatca ccagcaacat gtttggtgat atcatctccg
+     3181 atgaagcctc cgttatccca ggttccttgg gtttgttgcc atctgcgtcc ttggcctctt
+     3241 tgccagacaa gaacaccgca tttggtttgt acgaaccatg ccacggttct gctccagatt
+     3301 tgccaaagaa taaggtcaac cctatcgcca ctatcttgtc tgctgcaatg atgttgaaat
+     3361 tgtcattgaa cttgcctgaa gaaggtaagg ccattgaaga tgcagttaaa aaggttttgg
+     3421 atgcaggtat cagaactggt gatttaggtg gttccaacag taccacggaa gtcggtgatg
+     3481 ctgtcgccga agaagttaag aaaatccttg cttaaaaaga ttctcttttt ttatgatatt
+     3541 tgtacataaa ctttataaat gaaattcata atagaaacga cacgaaatta caaaatggaa
+     3601 tatgttcata gggtagaatt aattctcatg tttgacagct tatcatcgga tcgatccaat
+     3661 atcaaaggaa atgatagcat tgaaggatga gactaatcca attgaggagt ggcagcatat
+     3721 agaacagcta aagggtagtg ctgaaggaag catacgatac cccgcatgga atgggataat
+     3781 atcacaggag gtactagact acctttcatc ctacataaat agacgcatat aagtacgcat
+     3841 ttaagcataa acacgcacta tgccgttctt ctcatgtata tatatataca ggcaacacgc
+     3901 agatataggt gcgacgtgaa cagtgagctg tatgtgcgca gctcgcgttg cattttcgga
+     3961 agcgctcgtt ttcggaaacg ctttgaagtt cctattccga agttcctatt ctctagctag
+     4021 aaagtatagg aacttcagag cgcttttgaa aaccaaaagc gctctgaaga cgcactttca
+     4081 aaaaaccaaa aacgcaccgg actgtaacga gctactaaaa tattgcgaat accgcttcca
+     4141 caaacattgc tcaaaagtat ctctttgcta tatatctctg tgctatatcc ctatataacc
+     4201 tacccatcca cctttcgctc cttgaacttg catctaaact cgacctctac attttttatg
+     4261 tttatctcta gtattactct ttagacaaaa aaattgtagt aagaactatt catagagtga
+     4321 atcgaaaaca atacgaaaat gtaaacattt cctatacgta gtatatagag acaaaataga
+     4381 agaaaccgtt cataattttc tgaccaatga agaatcatca acgctatcac tttctgttca
+     4441 caaagtatgc gcaatccaca tcggtataga atataatcgg ggatgccttt atcttgaaaa
+     4501 aatgcacccg cagcttcgct agtaatcagt aaacgcggga agtggagtca ggcttttttt
+     4561 atggaagaga aaatagacac caaagtagcc ttcttctaac cttaacggac ctacagtgca
+     4621 aaaagttatc aagagactgc attatagagc gcacaaagga gaaaaaaagt aatctaagat
+     4681 gctttgttag aaaaatagcg ctctcgggat gcatttttgt agaacaaaaa agaagtatag
+     4741 attctttgtt ggtaaaatag cgctctcgcg ttgcatttct gttctgtaaa aatgcagctc
+     4801 agattctttg tttgaaaaat tagcgctctc gcgttgcatt tttgttttac aaaaatgaag
+     4861 cacagattct tcgttggtaa aatagcgctt tcgcgttgca tttctgttct gtaaaaatgc
+     4921 agctcagatt ctttgtttga aaaattagcg ctctcgcgtt gcatttttgt tctacaaaat
+     4981 gaagcacaga tgcttcgtta acaaagatat gctattgaag tgcaagatgg aaacgcagaa
+     5041 aatgaaccgg ggatgcgacg tgcaagatta cctatgcaat agatgcaata gtttctccag
+     5101 gaaccgaaat acatacattg tcttccgtaa agcgctagac tatatattat tatacaggtt
+     5161 caaatatact atctgtttca gggaaaactc ccaggttcgg atgttcaaaa ttcaatgatg
+     5221 ggtaacaagt acgatccgat atatgcggtg tgaaataccg cacagatgcg taaggagaaa
+     5281 ataccgcatc aggcgccatt cgccattcag gctgcgcaac tgttgggaag ggcgatcggt
+     5341 gcgggcctct tcgctattac gccagctggc gaaaggggga tgtgctgcaa ggcgattaag
+     5401 ttgggtaacg ccagggtttt cccagtcacg acgttgtaaa acgacggcca gtgaattcga
+     5461 gctcggtacc cggggatcct ctagagtcga cctgcaggca tgcaagcttg gcgtaatcat
+     5521 ggtcatagct gtttcctgtg tgaaattgtt atccgctcac aattccacac aacatacgag
+     5581 ccggaagcat aaagtgtaaa gcctggggtg cctaatgagt gagctaactc acattaattg
+     5641 cgttgcgctc actgcccgct ttccagtcgg gaaacctgtc gtgccagctg cattaatgaa
+     5701 tcggccaacg cgcggggaga ggcggtttgc gtattgggcg c 
+//

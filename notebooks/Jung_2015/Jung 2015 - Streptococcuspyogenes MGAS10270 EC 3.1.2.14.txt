@@ -1,0 +1,298 @@
+Jung, Yeontae, Sangwoo Kim, Sunhee Lee, Kyoung-Su Ha, and Jinwon Lee. 2015. “Effect of Heterologous Expression of
+Genes Involved in the Elongation Cycle of Fatty Acid Synthesis on Fatty Acid Production in Saccharomyces
+Cerevisiae.” *Biotechnology and Bioprocess Engineering: BBE* 20 (1) (February 1): 1–9.
+
+S. pyogenes  EC3.1.2.14
+
+"oleoyl-[acyl-carrier-protein] hydrolase (Acts on acyl-carrier-protein thioesters of fatty acids from
+C12 to C18, but the derivative of oleic acid is hydrolysed much more rapidly than any other compound tested.)"
+
+
+Primers from Jung 2015
+
+>EC3.1.2.14-F (Sal I)
+GTCGACGGAGAGTATTATGGGATTAAGTTA
+
+>EC3.1.2.14-R (Xho I)
+CTCGAGTTATAAGGCACTAGTCTATCTCG
+
+LOCUS       CP000260                 767 bp    DNA     linear   BCT 31-JAN-2014
+DEFINITION  Streptococcus pyogenes MGAS10270, complete genome.
+ACCESSION   CP000260 REGION: 841808..842574
+VERSION     CP000260.1
+DBLINK      BioProject: PRJNA16364
+            BioSample: SAMN02603502
+KEYWORDS    .
+SOURCE      Streptococcus pyogenes MGAS10270
+  ORGANISM  Streptococcus pyogenes MGAS10270
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae;
+            Streptococcus.
+REFERENCE   1  (bases 1 to 767)
+  AUTHORS   Beres,S.B., Richter,E.W., Nagiec,M.J., Sumby,P., Porcella,S.F.,
+            DeLeo,F.R. and Musser,J.M.
+  TITLE     Molecular genetic anatomy of inter- and intraserotype variation in
+            the human bacterial pathogen group A Streptococcus
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 103 (18), 7059-7064 (2006)
+   PUBMED   16636287
+REFERENCE   2  (bases 1 to 767)
+  AUTHORS   Beres,S.B., Porcella,S.F., Sumby,P., Richter,E.W., Barbian,K.D.,
+            DeLeo,F.R. and Musser,J.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-FEB-2006) Laboratory of Human Bacterial Pathogenesis,
+            Rocky Mountain Laboratories, National Institute of Allergy and
+            Infectious Disease, National Institutes of Health, 903 S. 4th
+            Street, Hamilton, MT 59840, USA
+COMMENT     Sequencing Center: Integrated Genomics, Inc., 2201 W. Campbell Park
+            Dr., Chicago, IL 60612.
+            Bacterial Source:
+            James M. Musser, M.D., Ph.D.
+            Fondren Foundation Distinguished Endowed Chair
+            Executive Vice President and Co-Director
+            Director, Center for Molecular and Translational Human Infectious
+            Diseases Research
+            Vice-Chair, Department of Pathology
+            The Methodist Hospital Research Institute
+            6565 Fannin Street, B154
+            Houston, Texas 77030
+            tel:  (713) 441-5890
+            fax:  (713) 790-6460
+            e-mail:  jmmusser@tmh.tmc.edu.
+FEATURES             Location/Qualifiers
+     source          1..767
+                     /organism="Streptococcus pyogenes MGAS10270"
+                     /mol_type="genomic DNA"
+                     /strain="MGAS10270"
+                     /db_xref="taxon:370552"
+                     /focus
+     gene            <1..2
+                     /gene="hemN"
+                     /locus_tag="MGAS10270_Spy0882"
+     CDS             <1..2
+                     /gene="hemN"
+                     /locus_tag="MGAS10270_Spy0882"
+                     /EC_number="1.3.1.-"
+                     /codon_start=3
+                     /transl_table=11
+                     /product="Coproporphyrinogen oxidase (NAD)"
+                     /protein_id="ABF33947.1"
+                     /translation="MSARKILFQAMKNQGKWFIHRNILSSKWYNKTMSKKPTSAYVHI
+                     PFCTQICYYCDFSKVFIQNQPVDAYLKALIQEFESYDIHDLKTLYIGGGTPTAITAKQ
+                     LEYLLNHLERNLNLDDLEEFTIEANPGDLTPEKITVLQRSAVNRISLGVQTFNNKQLK
+                     QIGRSHNEEQIYSTIANLKAAGFHNISIDLIYALPGQTLDQVKENVAKALALDIPHLS
+                     LYSLILEHHTVFMNKMRRGKLNLPTEDLEAEMFEYIISEMEANGFEHYEISNFTKPGF
+                     ESRHNLMYWDNVEYFGCGAGASGYLNGIRYQNRVPIQHYLKAVEAGNARLNEEVLRKE
+                     EMMEEELFLGLRKKTGVSIQRFQEKFGVSFEERYGNIARELQNQGLLVKDDAFVRMTK
+                     KGLFLGDSVAERFILD"
+     gene            12..764
+                     /locus_tag="MGAS10270_Spy0883"
+     CDS             12..764
+                     /locus_tag="MGAS10270_Spy0883"
+                     /EC_number="3.1.2.14"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="acyl-acyl-carrier protein thioesterase"
+                     /protein_id="ABF33948.1"
+                     /translation="MGLSYQEELTLPFELCDVKSDIKLPLLLDYCLMVSGRQSAQLGR
+                     SNNNLLVDYKLVWIVTDYEITIHRLPHFQETITIETKALSYNKFFCYRQFYIYDQEGG
+                     LLVDILAYFALLNPDTRKVATIPEDLVAPFKTDFVKKLYRVPKMPLLEQSIDRDYYVR
+                     YFDIDMNGHVNNSKYLDWMYDVLGCAFLKTHQPLKMTLKYVKEVSPGGQITSSYHLDQ
+                     LNSYHQITSDGQLNAQAMIEWRAIKQTESEID"
+     gene            764..>767
+                     /locus_tag="MGAS10270_Spy0884"
+     CDS             764..>767
+                     /locus_tag="MGAS10270_Spy0884"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Haloacid dehalogenase-like hydrolase"
+                     /protein_id="ABF33949.1"
+                     /translation="MPYKGYLIDLDGTIYQGKNRIPAGERFIKRLQEKGIPYLLVTNN
+                     TTRTPAMVQSMLANQFNVETGIETIYTATMATVDYMNDMNRGKTAYVIGETGLKSAIA
+                     AAGYVEELENPAYVVVGLDSQVTYEMLAIATLAIQKGALFIGTNPDLNIPTERGLMPG
+                     AGALNALLEAATRVKPVFIGKPNAIIMNKSLEVLGIQRSEAVMVGDNYLTDIMAGIQN
+                     DIATILVTTGFTRPEEVPTLPIQPDHVLSSLDEWRL"
+ORIGIN
+        1 aggagagtat tatgggatta agttatcagg aggagttgac acttcctttt gaattatgtg
+       61 atgtcaaatc agatataaaa ttgccccttt tattagacta ttgtttgatg gtttctggta
+      121 gacagtctgc gcaattagga cgaagtaaca acaacctttt agtcgattac aagcttgttt
+      181 ggattgtaac ggattatgag atcactattc atcgcttgcc acattttcaa gaaaccatca
+      241 ccattgaaac aaaagccctt tcctataata aatttttttg ttatcgccaa ttttatattt
+      301 atgatcaaga ggggggtctt ttagtggata tcttagccta ttttgctttg ttaaacccag
+      361 atacgcgaaa agtggcaact attccagaag atttagtagc gccttttaag actgattttg
+      421 ttaaaaagtt ataccgtgtt cctaaaatgc ctcttttaga acaatcaatt gatcgtgatt
+      481 attatgtgcg ttattttgat attgatatga atggtcatgt caacaacagt aaatatttag
+      541 attggatgta tgatgtgttg gggtgtgcgt ttttaaaaac gcatcagcct cttaagatga
+      601 ctttgaaata tgttaaagaa gtctcaccag gcggtcaaat tacttccagt taccatttgg
+      661 accaattaaa ttcttaccat caaatcacct cagatgggca gctgaatgcc caagccatga
+      721 ttgaatggcg agcgattaaa caaacagaaa gcgagataga ctagtgc
+//
+#### PCR simulation
+Template CP000260 767 nt linear:
+EC3.1.2.14-F anneals forward (--->) at 25
+EC3.1.2.14-R anneals reverse (<---) at 751
+PCR product from CP000260
+EC3.1.2.14-F    GTCGACGGAGAGTATTATGGGATTAAGTTA
+EC3.1.2.14-R    CTCGAGTTATAAGGCACTAGTCTATCTCG
+----
+      5GGAGAGTATTATGGGATTAAGTTA...CGAGATAGACTAGTGC3
+                                  ||||||||||||||||
+                                 3GCTCTATCTGATCACGGAATATTGAGCTC5
+5GTCGACGGAGAGTATTATGGGATTAAGTTA3
+       ||||||||||||||||||||||||
+      3CCTCTCATAATACCCTAATTCAAT...GCTCTATCTGATCACG5
+----
+>785bp_PCR_prod
+GTCGACGGAGAGTATTATGGGATTAAGTTATCAGGAGGAGTTGACACTTCCTTTTGAATTATGTGATGTCAAATCAGATATAAAATTGCCCCTTTTATTAGACTATTGTTTGATGGTTTCTGGTAGACAGTCTGCGCAATTAGGACGAAGTAACAACAACCTTTTAGTCGATTACAAGCTTGTTTGGATTGTAACGGATTATGAGATCACTATTCATCGCTTGCCACATTTTCAAGAAACCATCACCATTGAAACAAAAGCCCTTTCCTATAATAAATTTTTTTGTTATCGCCAATTTTATATTTATGATCAAGAGGGGGGTCTTTTAGTGGATATCTTAGCCTATTTTGCTTTGTTAAACCCAGATACGCGAAAAGTGGCAACTATTCCAGAAGATTTAGTAGCGCCTTTTAAGACTGATTTTGTTAAAAAGTTATACCGTGTTCCTAAAATGCCTCTTTTAGAACAATCAATTGATCGTGATTATTATGTGCGTTATTTTGATATTGATATGAATGGTCATGTCAACAACAGTAAATATTTAGATTGGATGTATGATGTGTTGGGGTGTGCGTTTTTAAAAACGCATCAGCCTCTTAAGATGACTTTGAAATATGTTAAAGAAGTCTCACCAGGCGGTCAAATTACTTCCAGTTACCATTTGGACCAATTAAATTCTTACCATCAAATCACCTCAGATGGGCAGCTGAATGCCCAAGCCATGATTGAATGGCGAGCGATTAAACAAACAGAAAGCGAGATAGACTAGTGCCTTATAACTCGAG
+---
+|95°C|95°C               |    |tmf:59.0
+|____|_____          72°C|72°C|tmr:51.3
+|3min|30s  \ 52.2°C _____|____|45s/kb
+|    |      \______/ 0:35|5min|GC 36%
+|    |       30s         |    |785bp
+
+
+----
+
+Jeon, Eunyoung, Sunhee Lee, Jong-In Won, Sung Ok Han, Jihyeon Kim, and Jinwon Lee. 2011. “Development of Escherichia
+Coli MG1655 Strains to Produce Long Chain Fatty Acids by Engineering Fatty Acid Synthesis (FAS) Metabolism.”
+*Enzyme and Microbial Technology* 49 (1) (June 10): 44–51.
+
+Primers from Jeon 2011
+
+>Gene_of_EC_3.1.2.14-F
+TCTAGAGGAGAGTATTATGGGATTAAGTTA
+
+>Gene_of_EC_3.1.2.14-R
+CTGCAGCTAGTCTATCTCGCTTTCTGTTT
+
+LOCUS       CP000260                 767 bp    DNA     linear   BCT 31-JAN-2014
+DEFINITION  Streptococcus pyogenes MGAS10270, complete genome.
+ACCESSION   CP000260 REGION: 841808..842574
+VERSION     CP000260.1
+DBLINK      BioProject: PRJNA16364
+            BioSample: SAMN02603502
+KEYWORDS    .
+SOURCE      Streptococcus pyogenes MGAS10270
+  ORGANISM  Streptococcus pyogenes MGAS10270
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae;
+            Streptococcus.
+REFERENCE   1  (bases 1 to 767)
+  AUTHORS   Beres,S.B., Richter,E.W., Nagiec,M.J., Sumby,P., Porcella,S.F.,
+            DeLeo,F.R. and Musser,J.M.
+  TITLE     Molecular genetic anatomy of inter- and intraserotype variation in
+            the human bacterial pathogen group A Streptococcus
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 103 (18), 7059-7064 (2006)
+   PUBMED   16636287
+REFERENCE   2  (bases 1 to 767)
+  AUTHORS   Beres,S.B., Porcella,S.F., Sumby,P., Richter,E.W., Barbian,K.D.,
+            DeLeo,F.R. and Musser,J.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-FEB-2006) Laboratory of Human Bacterial Pathogenesis,
+            Rocky Mountain Laboratories, National Institute of Allergy and
+            Infectious Disease, National Institutes of Health, 903 S. 4th
+            Street, Hamilton, MT 59840, USA
+COMMENT     Sequencing Center: Integrated Genomics, Inc., 2201 W. Campbell Park
+            Dr., Chicago, IL 60612.
+            Bacterial Source:
+            James M. Musser, M.D., Ph.D.
+            Fondren Foundation Distinguished Endowed Chair
+            Executive Vice President and Co-Director
+            Director, Center for Molecular and Translational Human Infectious
+            Diseases Research
+            Vice-Chair, Department of Pathology
+            The Methodist Hospital Research Institute
+            6565 Fannin Street, B154
+            Houston, Texas 77030
+            tel:  (713) 441-5890
+            fax:  (713) 790-6460
+            e-mail:  jmmusser@tmh.tmc.edu.
+FEATURES             Location/Qualifiers
+     source          1..767
+                     /organism="Streptococcus pyogenes MGAS10270"
+                     /mol_type="genomic DNA"
+                     /strain="MGAS10270"
+                     /db_xref="taxon:370552"
+                     /focus
+     gene            <1..2
+                     /gene="hemN"
+                     /locus_tag="MGAS10270_Spy0882"
+     CDS             <1..2
+                     /gene="hemN"
+                     /locus_tag="MGAS10270_Spy0882"
+                     /EC_number="1.3.1.-"
+                     /codon_start=3
+                     /transl_table=11
+                     /product="Coproporphyrinogen oxidase (NAD)"
+                     /protein_id="ABF33947.1"
+                     /translation="MSARKILFQAMKNQGKWFIHRNILSSKWYNKTMSKKPTSAYVHI
+                     PFCTQICYYCDFSKVFIQNQPVDAYLKALIQEFESYDIHDLKTLYIGGGTPTAITAKQ
+                     LEYLLNHLERNLNLDDLEEFTIEANPGDLTPEKITVLQRSAVNRISLGVQTFNNKQLK
+                     QIGRSHNEEQIYSTIANLKAAGFHNISIDLIYALPGQTLDQVKENVAKALALDIPHLS
+                     LYSLILEHHTVFMNKMRRGKLNLPTEDLEAEMFEYIISEMEANGFEHYEISNFTKPGF
+                     ESRHNLMYWDNVEYFGCGAGASGYLNGIRYQNRVPIQHYLKAVEAGNARLNEEVLRKE
+                     EMMEEELFLGLRKKTGVSIQRFQEKFGVSFEERYGNIARELQNQGLLVKDDAFVRMTK
+                     KGLFLGDSVAERFILD"
+     gene            12..764
+                     /locus_tag="MGAS10270_Spy0883"
+     CDS             12..764
+                     /locus_tag="MGAS10270_Spy0883"
+                     /EC_number="3.1.2.14"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="acyl-acyl-carrier protein thioesterase"
+                     /protein_id="ABF33948.1"
+                     /translation="MGLSYQEELTLPFELCDVKSDIKLPLLLDYCLMVSGRQSAQLGR
+                     SNNNLLVDYKLVWIVTDYEITIHRLPHFQETITIETKALSYNKFFCYRQFYIYDQEGG
+                     LLVDILAYFALLNPDTRKVATIPEDLVAPFKTDFVKKLYRVPKMPLLEQSIDRDYYVR
+                     YFDIDMNGHVNNSKYLDWMYDVLGCAFLKTHQPLKMTLKYVKEVSPGGQITSSYHLDQ
+                     LNSYHQITSDGQLNAQAMIEWRAIKQTESEID"
+     gene            764..>767
+                     /locus_tag="MGAS10270_Spy0884"
+     CDS             764..>767
+                     /locus_tag="MGAS10270_Spy0884"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Haloacid dehalogenase-like hydrolase"
+                     /protein_id="ABF33949.1"
+                     /translation="MPYKGYLIDLDGTIYQGKNRIPAGERFIKRLQEKGIPYLLVTNN
+                     TTRTPAMVQSMLANQFNVETGIETIYTATMATVDYMNDMNRGKTAYVIGETGLKSAIA
+                     AAGYVEELENPAYVVVGLDSQVTYEMLAIATLAIQKGALFIGTNPDLNIPTERGLMPG
+                     AGALNALLEAATRVKPVFIGKPNAIIMNKSLEVLGIQRSEAVMVGDNYLTDIMAGIQN
+                     DIATILVTTGFTRPEEVPTLPIQPDHVLSSLDEWRL"
+ORIGIN
+        1 aggagagtat tatgggatta agttatcagg aggagttgac acttcctttt gaattatgtg
+       61 atgtcaaatc agatataaaa ttgccccttt tattagacta ttgtttgatg gtttctggta
+      121 gacagtctgc gcaattagga cgaagtaaca acaacctttt agtcgattac aagcttgttt
+      181 ggattgtaac ggattatgag atcactattc atcgcttgcc acattttcaa gaaaccatca
+      241 ccattgaaac aaaagccctt tcctataata aatttttttg ttatcgccaa ttttatattt
+      301 atgatcaaga ggggggtctt ttagtggata tcttagccta ttttgctttg ttaaacccag
+      361 atacgcgaaa agtggcaact attccagaag atttagtagc gccttttaag actgattttg
+      421 ttaaaaagtt ataccgtgtt cctaaaatgc ctcttttaga acaatcaatt gatcgtgatt
+      481 attatgtgcg ttattttgat attgatatga atggtcatgt caacaacagt aaatatttag
+      541 attggatgta tgatgtgttg gggtgtgcgt ttttaaaaac gcatcagcct cttaagatga
+      601 ctttgaaata tgttaaagaa gtctcaccag gcggtcaaat tacttccagt taccatttgg
+      661 accaattaaa ttcttaccat caaatcacct cagatgggca gctgaatgcc caagccatga
+      721 ttgaatggcg agcgattaaa caaacagaaa gcgagataga ctagtgc
+//
+#### PCR simulation
+Template CP000260 767 nt linear:
+Gene_of_EC_3.1.2.14-F anneals forward (--->) at 25
+Gene_of_EC_3.1.2.14-R anneals reverse (<---) at 741
+PCR product from CP000260
+Gene_of_EC_3.1.2.14-F    TCTAGAGGAGAGTATTATGGGATTAAGTTA
+Gene_of_EC_3.1.2.14-R    CTGCAGCTAGTCTATCTCGCTTTCTGTTT
+----
+     5AGGAGAGTATTATGGGATTAAGTTA...AAACAGAAAGCGAGATAGACTAG3
+                                  |||||||||||||||||||||||
+                                 3TTTGTCTTTCGCTCTATCTGATCGACGTC5
+5TCTAGAGGAGAGTATTATGGGATTAAGTTA3
+      |||||||||||||||||||||||||
+     3TCCTCTCATAATACCCTAATTCAAT...TTTGTCTTTCGCTCTATCTGATC5
+----
+>775bp_PCR_prod
+TCTAGAGGAGAGTATTATGGGATTAAGTTATCAGGAGGAGTTGACACTTCCTTTTGAATTATGTGATGTCAAATCAGATATAAAATTGCCCCTTTTATTAGACTATTGTTTGATGGTTTCTGGTAGACAGTCTGCGCAATTAGGACGAAGTAACAACAACCTTTTAGTCGATTACAAGCTTGTTTGGATTGTAACGGATTATGAGATCACTATTCATCGCTTGCCACATTTTCAAGAAACCATCACCATTGAAACAAAAGCCCTTTCCTATAATAAATTTTTTTGTTATCGCCAATTTTATATTTATGATCAAGAGGGGGGTCTTTTAGTGGATATCTTAGCCTATTTTGCTTTGTTAAACCCAGATACGCGAAAAGTGGCAACTATTCCAGAAGATTTAGTAGCGCCTTTTAAGACTGATTTTGTTAAAAAGTTATACCGTGTTCCTAAAATGCCTCTTTTAGAACAATCAATTGATCGTGATTATTATGTGCGTTATTTTGATATTGATATGAATGGTCATGTCAACAACAGTAAATATTTAGATTGGATGTATGATGTGTTGGGGTGTGCGTTTTTAAAAACGCATCAGCCTCTTAAGATGACTTTGAAATATGTTAAAGAAGTCTCACCAGGCGGTCAAATTACTTCCAGTTACCATTTGGACCAATTAAATTCTTACCATCAAATCACCTCAGATGGGCAGCTGAATGCCCAAGCCATGATTGAATGGCGAGCGATTAAACAAACAGAAAGCGAGATAGACTAGCTGCAG
+---
+|95°C|95°C               |    |tmf:60.3
+|____|_____          72°C|72°C|tmr:59.0
+|3min|30s  \ 54.5°C _____|____|45s/kb
+|    |      \______/ 0:34|5min|GC 36%
+|    |       30s         |    |775bp

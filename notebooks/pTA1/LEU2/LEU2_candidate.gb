@@ -1,0 +1,49 @@
+LOCUS       LEU2                    1607 bp    DNA     linear   UNK 24-MAY-2019
+DEFINITION  .
+ACCESSION   LEU2
+VERSION     LEU2
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+            .
+COMMENT     >LEU2 YCL018W SGDID:S000000523, chrIII:91324..92418+/- 1kb
+            
+            ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     gene            1..1607
+                     /locus_tag="LEU2"
+                     /label="LEU2"
+                     /ApEinfo_label="LEU2"
+                     /ApEinfo_fwdcolor="#a9d8a4"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+ORIGIN
+        1 ttaactgtgg gaatactcag gtatcgtaag atgcaagagt tcgaatctct tagcaaccat
+       61 tatttttttc ctcaacataa cgagaacaca caggggcgct atcgcacaga atcaaattcg
+      121 atgactggaa attttttgtt aatttcagag gtcgcctgac gcatatacct ttttcaactg
+      181 aaaaattggg agaaaaagga aaggtgagag cgccggaacc ggcttttcat atagaataga
+      241 gaagcgttca tgactaaatg cttgcatcac aatacttgaa gttgacaata ttatttaagg
+      301 acctattgtt ttttccaata ggtggttagc aatcgtctta ctttctaact tttcttacct
+      361 tttacatttc agcaatatat atatatatat ttcaaggata taccattcta atgtctgccc
+      421 ctaagaagat cgtcgttttg ccaggtgacc acgttggtca agaaatcaca gccgaagcca
+      481 ttaaggttct taaagctatt tctgatgttc gttccaatgt caagttcgat ttcgaaaatc
+      541 atttaattgg tggtgctgct atcgatgcta caggtgttcc acttccagat gaggcgctgg
+      601 aagcctccaa gaaggctgat gccgttttgt taggtgctgt gggtggtcct aaatggggta
+      661 ccggtagtgt tagacctgaa caaggtttac taaaaatccg taaagaactt caattgtacg
+      721 ccaacttaag accatgtaac tttgcatccg actctctttt agacttatct ccaatcaagc
+      781 cacaatttgc taaaggtact gacttcgttg ttgtcagaga attagtggga ggtatttact
+      841 ttggtaagag aaaggaagac gatggtgatg gtgtcgcttg ggatagtgaa caatacaccg
+      901 ttccagaagt gcaaagaatc acaagaatgg ccgctttcat ggccctacaa catgagccac
+      961 cattgcctat ttggtccttg gataaagcta atgttttggc ctcttcaaga ttatggagaa
+     1021 aaactgtgga ggaaaccatc aagaacgaat tccctacatt gaaggttcaa catcaattga
+     1081 ttgattctgc cgccatgatc ctagttaaga acccaaccca cctaaatggt attataatca
+     1141 ccagcaacat gtttggtgat atcatctccg atgaagcctc cgttatccca ggttccttgg
+     1201 gtttgttgcc atctgcgtcc ttggcctctt tgccagacaa gaacaccgca tttggtttgt
+     1261 acgaaccatg ccacggttct gctccagatt tgccaaagaa taaggtcaac cctatcgcca
+     1321 ctatcttgtc tgctgcaatg atgttgaaat tgtcattgaa cttgcctgaa gaaggtaagg
+     1381 ccattgaaga tgcagttaaa aaggttttgg atgcaggtat cagaactggt gatttaggtg
+     1441 gttccaacag taccaccgaa gtcggtgatg ctgtcgccga agaagttaag aaaatccttg
+     1501 cttaaaaaga ttctcttttt ttatgatatt tgtacataaa ctttataaat gaaattcata
+     1561 atagaaacga cacgaaatta caaaatggaa tatgttcata gggtaga
+//
