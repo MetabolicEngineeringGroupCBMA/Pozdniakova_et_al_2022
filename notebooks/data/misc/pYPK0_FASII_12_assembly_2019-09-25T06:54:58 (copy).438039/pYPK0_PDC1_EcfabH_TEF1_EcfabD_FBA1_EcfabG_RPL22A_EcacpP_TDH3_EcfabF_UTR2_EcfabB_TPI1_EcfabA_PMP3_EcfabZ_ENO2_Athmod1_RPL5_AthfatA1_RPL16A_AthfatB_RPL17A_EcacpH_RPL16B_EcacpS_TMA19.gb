@@ -1,0 +1,1868 @@
+LOCUS       pw                     25932 bp    DNA     circular UNK 01-JAN-1980
+DEFINITION  π10 cSEGUID_EOIaBvkL78JFvx0IJ3NUV9JPLOI.
+ACCESSION   id
+VERSION     id
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     primer_bind     363..391
+                     /label="577"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     363..391
+                     /label="577"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(458..486)
+                     /note="865_pYPKpwR"
+                     /ApEinfo_revcolor="red"
+                     /ApEinfo_fwdcolor="green"
+     primer_bind     complement(458..486)
+                     /note="865_pYPKpwR"
+                     /ApEinfo_revcolor="red"
+                     /ApEinfo_fwdcolor="green"
+     source          538..1492
+                     /organism="Saccharomyces cerevisiae S288C"
+                     /mol_type="genomic DNA"
+                     /strain="S288C"
+                     /db_xref="taxon:559292"
+                     /chromosome="XII"
+     primer_bind     538..554
+                     /label="413_ScPDC1tpf"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(1466..1492)
+                     /label="625_ScPDC1tpr_PacI"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     1500..1524
+                     /label="468"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(1527..1547)
+                     /note="567_pCAPsAjiIF"
+                     /ApEinfo_fwdcolor="green"
+                     /ApEinfo_revcolor="red"
+     misc            complement(1527..1549)
+                     /label="567_pCAPsAjiIF"
+     primer_bind     complement(1527..1549)
+                     /label="567"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(1527..1547)
+                     /note="567_pCAPsAjiIF"
+                     /ApEinfo_fwdcolor="green"
+                     /ApEinfo_revcolor="red"
+     misc            complement(1527..1549)
+                     /label="567_pCAPsAjiIF"
+     source          1552..2505
+                     /organism="Escherichia coli str. K-12 substr. MG1655"
+                     /mol_type="genomic DNA"
+                     /strain="K-12"
+                     /sub_strain="MG1655"
+                     /db_xref="taxon:511145"
+     gene            1552..2505
+                     /gene="fabH"
+                     /locus_tag="b1091"
+                     /gene_synonym="ECK1077"
+                     /db_xref="ASAP:ABE-0003696"
+                     /db_xref="ECOCYC:EG10277"
+                     /db_xref="EcoGene:EG10277"
+                     /db_xref="GeneID:946003"
+     CDS             1552..2505
+                     /gene="fabH"
+                     /locus_tag="b1091"
+                     /gene_synonym="ECK1077"
+                     /EC_number="2.3.1.180"
+                     /EC_number="2.3.1.38"
+                     /EC_number="2.3.1.85"
+                     /EC_number="2.3.1.86"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="beta-ketoacyl-[acyl carrier protein] synthase
+                     III"
+                     /protein_id="NP_415609.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P0A6R0"
+                     /db_xref="ASAP:ABE-0003696"
+                     /db_xref="ECOCYC:EG10277"
+                     /db_xref="EcoGene:EG10277"
+                     /db_xref="GeneID:946003"
+                     /translation="MYTKIIGTGSYLPEQVRTNADLEKMVDTSDEWIVTRTGIRERHIA
+                     APNETVSTMGFEAATRAIEMAGIEKDQIGLIVVATTSATHAFPSAACQIQSMLGIKGCP
+                     AFDVAAACAGFTYALSVADQYVKSGAVKYALVVGSDVLARTCDPTDRGTIIIFGDGAGA
+                     AVLAASEEPGIISTHLHADGSYGELLTLPNADRVNPENSIHLTMAGNEVFKVAVTELAH
+                     IVDETLAANNLDRSQLDWLVPHQANLRIISATAKKLGMSMDNVVVTLDRHGNTSAASVP
+                     CALDEAVRDGRIKPGQLVLLEAFGGGFTWGSALVRF"
+     primer_bind     1552..1576
+                     /label="708_EcfabH_fw"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(2489..2505)
+                     /label="709_EcfabH_rv"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     misc            2506..2527
+                     /label="568_pCAPsAjiIR"
+     misc            2506..2527
+                     /label="568_pCAPsAjiIR"
+     primer_bind     2506..2527
+                     /label="568"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     2508..2527
+                     /note="568_pCAPsAjiIR"
+                     /ApEinfo_fwdcolor="green"
+                     /ApEinfo_revcolor="red"
+     primer_bind     2508..2527
+                     /note="568_pCAPsAjiIR"
+                     /ApEinfo_fwdcolor="green"
+                     /ApEinfo_revcolor="red"
+     primer_bind     complement(2512..2536)
+                     /label="467"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     misc            2537..2566
+                     /label="417_ScTEF1tpf"
+     source          2544..3122
+                     /organism="Saccharomyces cerevisiae S288C"
+                     /mol_type="genomic DNA"
+                     /strain="S288C"
+                     /db_xref="taxon:559292"
+                     /chromosome="XVI"
+     primer_bind     2544..2566
+                     /label="417_ScTEF1tpf"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     source          2544..3122
+                     /strain="S288c"
+                     /mol_type="genomic DNA"
+                     /organism="Saccharomyces cerevisiae S288c"
+                     /chromosome="XVI"
+                     /db_xref="taxon:559292"
+     primer_bind     2544..2566
+                     /note="417_ScTEF1tpf"
+                     /ApEinfo_revcolor="red"
+                     /ApEinfo_fwdcolor="green"
+     primer_bind     complement(3095..3122)
+                     /label="626_ScTEF1tpr_PacI"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(3095..3122)
+                     /note="626_ScTEF1tpr_PacI"
+                     /ApEinfo_revcolor="red"
+                     /ApEinfo_fwdcolor="green"
+     misc            complement(3095..3129)
+                     /label="626_ScTEF1tpr_PacI"
+     primer_bind     3130..3154
+                     /label="468"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(3157..3177)
+                     /note="567_pCAPsAjiIF"
+                     /ApEinfo_revcolor="red"
+                     /ApEinfo_fwdcolor="green"
+     misc            complement(3157..3179)
+                     /label="567_pCAPsAjiIF"
+     primer_bind     complement(3157..3179)
+                     /label="567"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(3157..3177)
+                     /note="567_pCAPsAjiIF"
+                     /ApEinfo_fwdcolor="green"
+                     /ApEinfo_revcolor="red"
+     misc            complement(3157..3179)
+                     /label="567_pCAPsAjiIF"
+     source          3182..4111
+                     /organism="Escherichia coli str. K-12 substr. MG1655"
+                     /mol_type="genomic DNA"
+                     /strain="K-12"
+                     /sub_strain="MG1655"
+                     /db_xref="taxon:511145"
+     gene            3182..4111
+                     /gene="fabD"
+                     /locus_tag="b1092"
+                     /gene_synonym="ECK1078; tfpA"
+                     /db_xref="ASAP:ABE-0003698"
+                     /db_xref="ECOCYC:EG11317"
+                     /db_xref="EcoGene:EG11317"
+                     /db_xref="GeneID:945766"
+     CDS             3182..4111
+                     /gene="fabD"
+                     /locus_tag="b1092"
+                     /gene_synonym="ECK1078; tfpA"
+                     /EC_number="2.3.1.39"
+                     /EC_number="2.3.1.85"
+                     /EC_number="2.3.1.86"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="[acyl-carrier-protein] S-malonyltransferase"
+                     /protein_id="NP_415610.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P0AAI9"
+                     /db_xref="ASAP:ABE-0003698"
+                     /db_xref="ECOCYC:EG11317"
+                     /db_xref="EcoGene:EG11317"
+                     /db_xref="GeneID:945766"
+                     /translation="MTQFAFVFPGQGSQTVGMLADMAASYPIVEETFAEASAALGYDLW
+                     ALTQQGPAEELNKTWQTQPALLTASVALYRVWQQQGGKAPAMMAGHSLGEYSALVCAGV
+                     IDFADAVRLVEMRGKFMQEAVPEGTGAMAAIIGLDDASIAKACEEAAEGQVVSPVNFNS
+                     PGQVVIAGHKEAVERAGAACKAAGAKRALPLPVSVPSHCALMKPAADKLAVELAKITFN
+                     APTVPVVNNVDVKCETNGDAIRDALVRQLYNPVQWTKSVEYMAAQGVEHLYEVGPGKVL
+                     TGLTKRIVDTLTASALNEPSAMAAALEL"
+     primer_bind     3182..3198
+                     /label="706_EcfabD_fw"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(4096..4111)
+                     /label="707_EcfabD_rv"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     misc            4112..4133
+                     /label="568_pCAPsAjiIR"
+     misc            4112..4133
+                     /label="568_pCAPsAjiIR"
+     primer_bind     4112..4133
+                     /label="568"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     4114..4133
+                     /note="568_pCAPsAjiIR"
+                     /ApEinfo_fwdcolor="green"
+                     /ApEinfo_revcolor="red"
+     primer_bind     4114..4133
+                     /note="568_pCAPsAjiIR"
+                     /ApEinfo_fwdcolor="green"
+                     /ApEinfo_revcolor="red"
+     primer_bind     complement(4118..4142)
+                     /label="467"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     source          4150..4779
+                     /organism="Saccharomyces cerevisiae S288C"
+                     /mol_type="genomic DNA"
+                     /strain="S288C"
+                     /db_xref="taxon:559292"
+                     /chromosome="XI"
+     primer_bind     4150..4179
+                     /label="409_ScFBA1tpf"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     source          4150..4779
+                     /organism="Saccharomyces cerevisiae S288C"
+                     /mol_type="genomic DNA"
+                     /strain="S288C"
+                     /db_xref="taxon:559292"
+                     /chromosome="XI"
+     primer_bind     4150..4179
+                     /label="409_ScFBA1tpf"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(4758..4779)
+                     /label="624_ScFBA1tpr_PacI"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(4758..4779)
+                     /label="624_ScFBA1tpr_PacI"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     4787..4811
+                     /label="468"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(4814..4834)
+                     /note="567_pCAPsAjiIF"
+                     /ApEinfo_fwdcolor="green"
+                     /ApEinfo_revcolor="red"
+     misc            complement(4814..4836)
+                     /label="567_pCAPsAjiIF"
+     primer_bind     complement(4814..4836)
+                     /label="567"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(4814..4834)
+                     /note="567_pCAPsAjiIF"
+                     /ApEinfo_fwdcolor="green"
+                     /ApEinfo_revcolor="red"
+     misc            complement(4814..4836)
+                     /label="567_pCAPsAjiIF"
+     source          4839..5573
+                     /organism="Escherichia coli str. K-12 substr. MG1655"
+                     /mol_type="genomic DNA"
+                     /strain="K-12"
+                     /sub_strain="MG1655"
+                     /db_xref="taxon:511145"
+     gene            4839..5573
+                     /gene="fabG"
+                     /locus_tag="b1093"
+                     /gene_synonym="ECK1079"
+                     /db_xref="ASAP:ABE-0003700"
+                     /db_xref="ECOCYC:EG11318"
+                     /db_xref="EcoGene:EG11318"
+                     /db_xref="GeneID:945645"
+     CDS             4839..5573
+                     /gene="fabG"
+                     /locus_tag="b1093"
+                     /gene_synonym="ECK1079"
+                     /EC_number="1.1.1.100"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="3-oxoacyl-[acyl-carrier-protein] reductase FabG"
+                     /protein_id="NP_415611.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P0AEK2"
+                     /db_xref="ASAP:ABE-0003700"
+                     /db_xref="ECOCYC:EG11318"
+                     /db_xref="EcoGene:EG11318"
+                     /db_xref="GeneID:945645"
+                     /translation="MNFEGKIALVTGASRGIGRAIAETLAARGAKVIGTATSENGAQAI
+                     SDYLGANGKGLMLNVTDPASIESVLEKIRAEFGEVDILVNNAGITRDNLLMRMKDEEWN
+                     DIIETNLSSVFRLSKAVMRAMMKKRHGRIITIGSVVGTMGNGGQANYAAAKAGLIGFSK
+                     SLAREVASRGITVNVVAPGFIETDMTRALSDDQRAGILAQVPAGRLGGAQEIANAVAFL
+                     ASDEAAYITGETLHVNGGMYMV"
+     primer_bind     4839..4859
+                     /label="714_EcfabG_fw"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(5556..5573)
+                     /label="715_EcfabG_rv"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     misc            5574..5595
+                     /label="568_pCAPsAjiIR"
+     misc            5574..5595
+                     /label="568_pCAPsAjiIR"
+     primer_bind     5574..5595
+                     /label="568"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     5576..5595
+                     /note="568_pCAPsAjiIR"
+                     /ApEinfo_fwdcolor="green"
+                     /ApEinfo_revcolor="red"
+     primer_bind     5576..5595
+                     /note="568_pCAPsAjiIR"
+                     /ApEinfo_fwdcolor="green"
+                     /ApEinfo_revcolor="red"
+     primer_bind     complement(5580..5604)
+                     /label="467"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     source          5611..6037
+                     /organism="Saccharomyces cerevisiae S288C"
+                     /mol_type="genomic DNA"
+                     /strain="S288C"
+                     /db_xref="taxon:559292"
+                     /chromosome="XII"
+     primer_bind     5611..5632
+                     /label="856_RPL22Atpf"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     source          5611..6037
+                     /organism="Saccharomyces cerevisiae S288C"
+                     /mol_type="genomic DNA"
+                     /strain="S288C"
+                     /db_xref="taxon:559292"
+                     /chromosome="XII"
+     primer_bind     5611..5632
+                     /label="856_RPL22Atpf"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(6017..6037)
+                     /label="855_RPL22Atpr"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(6017..6037)
+                     /label="855_RPL22Atpr"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     6045..6069
+                     /label="468"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(6072..6092)
+                     /note="567_pCAPsAjiIF"
+                     /ApEinfo_fwdcolor="green"
+                     /ApEinfo_revcolor="red"
+     misc            complement(6072..6094)
+                     /label="567_pCAPsAjiIF"
+     primer_bind     complement(6072..6094)
+                     /label="567"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(6072..6092)
+                     /note="567_pCAPsAjiIF"
+                     /ApEinfo_fwdcolor="green"
+                     /ApEinfo_revcolor="red"
+     misc            complement(6072..6094)
+                     /label="567_pCAPsAjiIF"
+     source          6097..6333
+                     /organism="Escherichia coli str. K-12 substr. MG1655"
+                     /mol_type="genomic DNA"
+                     /strain="K-12"
+                     /sub_strain="MG1655"
+                     /db_xref="taxon:511145"
+     gene            6097..6333
+                     /gene="acpP"
+                     /locus_tag="b1094"
+                     /gene_synonym="ECK1080"
+                     /db_xref="ASAP:ABE-0003703"
+                     /db_xref="ECOCYC:EG50003"
+                     /db_xref="EcoGene:EG50003"
+                     /db_xref="GeneID:944805"
+     CDS             6097..6333
+                     /gene="acpP"
+                     /locus_tag="b1094"
+                     /gene_synonym="ECK1080"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="acyl carrier protein"
+                     /protein_id="NP_415612.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P0A6A8"
+                     /db_xref="ASAP:ABE-0003703"
+                     /db_xref="ECOCYC:EG50003"
+                     /db_xref="EcoGene:EG50003"
+                     /db_xref="GeneID:944805"
+                     /translation="MSTIEERVKKIIGEQLGVKQEEVTNNASFVEDLGADSLDTVELVM
+                     ALEEEFDTEIPDEEAEKITTVQAAIDYINGHQA"
+     primer_bind     6097..6115
+                     /label="726_EcacpP_fw"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(6318..6333)
+                     /label="727_EcacpP_rv"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     misc            6334..6355
+                     /label="568_pCAPsAjiIR"
+     misc            6334..6355
+                     /label="568_pCAPsAjiIR"
+     primer_bind     6334..6355
+                     /label="568"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     6336..6355
+                     /note="568_pCAPsAjiIR"
+                     /ApEinfo_fwdcolor="green"
+                     /ApEinfo_revcolor="red"
+     primer_bind     6336..6355
+                     /note="568_pCAPsAjiIR"
+                     /ApEinfo_fwdcolor="green"
+                     /ApEinfo_revcolor="red"
+     primer_bind     complement(6340..6364)
+                     /label="467"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     source          6372..7069
+                     /organism="Saccharomyces cerevisiae S288C"
+                     /mol_type="genomic DNA"
+                     /strain="S288C"
+                     /db_xref="taxon:559292"
+                     /chromosome="VII"
+     primer_bind     6372..6393
+                     /label="415_ScTDH3tpf"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     source          6372..7069
+                     /organism="Saccharomyces cerevisiae S288C"
+                     /mol_type="genomic DNA"
+                     /strain="S288C"
+                     /db_xref="taxon:559292"
+                     /chromosome="VII"
+     primer_bind     6372..6393
+                     /label="415_ScTDH3tpf"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(7044..7069)
+                     /label="623_ScTDH3tpr_PacI"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(7044..7069)
+                     /label="623_ScTDH3tpr_PacI"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     7077..7101
+                     /label="468"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(7104..7124)
+                     /note="567_pCAPsAjiIF"
+                     /ApEinfo_fwdcolor="green"
+                     /ApEinfo_revcolor="red"
+     misc            complement(7104..7126)
+                     /label="567_pCAPsAjiIF"
+     primer_bind     complement(7104..7126)
+                     /label="567"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(7104..7124)
+                     /note="567_pCAPsAjiIF"
+                     /ApEinfo_fwdcolor="green"
+                     /ApEinfo_revcolor="red"
+     misc            complement(7104..7126)
+                     /label="567_pCAPsAjiIF"
+     primer_bind     7130..7151
+                     /label="712_EcfabF_fw"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(8345..8370)
+                     /label="713_EcfabF_rv"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     misc            8371..8392
+                     /label="568_pCAPsAjiIR"
+     misc            8371..8392
+                     /label="568_pCAPsAjiIR"
+     primer_bind     8371..8392
+                     /label="568"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     8373..8392
+                     /note="568_pCAPsAjiIR"
+                     /ApEinfo_fwdcolor="green"
+                     /ApEinfo_revcolor="red"
+     primer_bind     8373..8392
+                     /note="568_pCAPsAjiIR"
+                     /ApEinfo_fwdcolor="green"
+                     /ApEinfo_revcolor="red"
+     primer_bind     complement(8377..8401)
+                     /label="467"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     source          8408..9028
+                     /organism="Saccharomyces cerevisiae S288C"
+                     /mol_type="genomic DNA"
+                     /strain="S288C"
+                     /db_xref="taxon:559292"
+                     /chromosome="V"
+     primer_bind     8408..8423
+                     /label="1026_fw621"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     source          8408..9028
+                     /organism="Saccharomyces cerevisiae S288C"
+                     /mol_type="genomic DNA"
+                     /strain="S288C"
+                     /db_xref="taxon:559292"
+                     /chromosome="V"
+     primer_bind     8408..8423
+                     /label="1026_fw621"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(9007..9028)
+                     /label="1025_rv621"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(9007..9028)
+                     /label="1025_rv621"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     9036..9060
+                     /label="468"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(9063..9083)
+                     /note="567_pCAPsAjiIF"
+                     /ApEinfo_fwdcolor="green"
+                     /ApEinfo_revcolor="red"
+     misc            complement(9063..9085)
+                     /label="567_pCAPsAjiIF"
+     primer_bind     complement(9063..9085)
+                     /label="567"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(9063..9083)
+                     /note="567_pCAPsAjiIF"
+                     /ApEinfo_fwdcolor="green"
+                     /ApEinfo_revcolor="red"
+     misc            complement(9063..9085)
+                     /label="567_pCAPsAjiIF"
+     source          9088..10308
+                     /organism="Escherichia coli str. K-12 substr. MG1655"
+                     /mol_type="genomic DNA"
+                     /strain="K-12"
+                     /sub_strain="MG1655"
+                     /db_xref="taxon:511145"
+     gene            9088..10308
+                     /gene="fabB"
+                     /locus_tag="b2323"
+                     /gene_synonym="ECK2317; fabC"
+                     /db_xref="ASAP:ABE-0007675"
+                     /db_xref="ECOCYC:EG10274"
+                     /db_xref="EcoGene:EG10274"
+                     /db_xref="GeneID:946799"
+     CDS             9088..10308
+                     /gene="fabB"
+                     /locus_tag="b2323"
+                     /gene_synonym="ECK2317; fabC"
+                     /EC_number="2.3.1.41"
+                     /EC_number="4.1.1.-"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="beta-ketoacyl-[acyl carrier protein] synthase I"
+                     /protein_id="NP_416826.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P0A953"
+                     /db_xref="ASAP:ABE-0007675"
+                     /db_xref="ECOCYC:EG10274"
+                     /db_xref="EcoGene:EG10274"
+                     /db_xref="GeneID:946799"
+                     /translation="MKRAVITGLGIVSSIGNNQQEVLASLREGRSGITFSQELKDSGMR
+                     SHVWGNVKLDTTGLIDRKVVRFMSDASIYAFLSMEQAIADAGLSPEAYQNNPRVGLIAG
+                     SGGGSPRFQVFGADAMRGPRGLKAVGPYVVTKAMASGVSACLATPFKIHGVNYSISSAC
+                     ATSAHCIGNAVEQIQLGKQDIVFAGGGEELCWEMACEFDAMGALSTKYNDTPEKASRTY
+                     DAHRDGFVIAGGGGMVVVEELEHALARGAHIYAEIVGYGATSDGADMVAPSGEGAVRCM
+                     KMAMHGVDTPIDYLNSHGTSTPVGDVKELAAIREVFGDKSPAISATKAMTGHSLGAAGV
+                     QEAIYSLLMLEHGFIAPSINIEELDEQAAGLNIVTETTDRELTTVMSNSFGFGGTNATL
+                     VMRKLKD"
+     primer_bind     9088..9107
+                     /label="710_EcfabB_fw"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(10291..10308)
+                     /label="711_EcfabB_rv"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     misc            10309..10330
+                     /label="568_pCAPsAjiIR"
+     misc            10309..10330
+                     /label="568_pCAPsAjiIR"
+     primer_bind     10309..10330
+                     /label="568"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     10311..10330
+                     /note="568_pCAPsAjiIR"
+                     /ApEinfo_fwdcolor="green"
+                     /ApEinfo_revcolor="red"
+     primer_bind     10311..10330
+                     /note="568_pCAPsAjiIR"
+                     /ApEinfo_revcolor="red"
+                     /ApEinfo_fwdcolor="green"
+     primer_bind     complement(10315..10339)
+                     /label="467"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     misc            10340..10371
+                     /label="419_ScTPI1tpf"
+     source          10346..10928
+                     /strain="S288c"
+                     /mol_type="genomic DNA"
+                     /organism="Saccharomyces cerevisiae S288c"
+                     /chromosome="IV"
+                     /db_xref="taxon:559292"
+     primer_bind     10346..10371
+                     /note="419_ScTPI1tpf"
+                     /ApEinfo_revcolor="red"
+                     /ApEinfo_fwdcolor="green"
+     source          10346..10928
+                     /organism="Saccharomyces cerevisiae S288C"
+                     /mol_type="genomic DNA"
+                     /strain="S288C"
+                     /db_xref="taxon:559292"
+                     /chromosome="IV"
+     primer_bind     10346..10371
+                     /label="419_ScTPI1tpf"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(10901..10928)
+                     /note="621_ScTPI1tpr_PacI"
+                     /ApEinfo_revcolor="red"
+                     /ApEinfo_fwdcolor="green"
+     misc            complement(10901..10935)
+                     /label="621_ScTPI1tpr_PacI"
+     primer_bind     complement(10901..10928)
+                     /label="621_ScTPI1tpr_PacI"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     10936..10960
+                     /label="468"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(10963..10983)
+                     /note="567_pCAPsAjiIF"
+                     /ApEinfo_fwdcolor="green"
+                     /ApEinfo_revcolor="red"
+     misc            complement(10963..10985)
+                     /label="567_pCAPsAjiIF"
+     primer_bind     complement(10963..10985)
+                     /label="567"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(10963..10983)
+                     /note="567_pCAPsAjiIF"
+                     /ApEinfo_fwdcolor="green"
+                     /ApEinfo_revcolor="red"
+     misc            complement(10963..10985)
+                     /label="567_pCAPsAjiIF"
+     source          10988..11506
+                     /organism="Escherichia coli str. K-12 substr. MG1655"
+                     /mol_type="genomic DNA"
+                     /strain="K-12"
+                     /sub_strain="MG1655"
+                     /db_xref="taxon:511145"
+     gene            10988..11506
+                     /gene="fabA"
+                     /locus_tag="b0954"
+                     /gene_synonym="ECK0945"
+                     /db_xref="ASAP:ABE-0003229"
+                     /db_xref="ECOCYC:EG10273"
+                     /db_xref="EcoGene:EG10273"
+                     /db_xref="GeneID:945568"
+     CDS             10988..11506
+                     /gene="fabA"
+                     /locus_tag="b0954"
+                     /gene_synonym="ECK0945"
+                     /EC_number="2.3.1.85"
+                     /EC_number="2.3.1.86"
+                     /EC_number="4.2.1.59"
+                     /EC_number="5.3.3.14"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="beta-hydroxyacyl-acyl carrier protein
+                     dehydratase/isomerase"
+                     /protein_id="NP_415474.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P0A6Q3"
+                     /db_xref="ASAP:ABE-0003229"
+                     /db_xref="ECOCYC:EG10273"
+                     /db_xref="EcoGene:EG10273"
+                     /db_xref="GeneID:945568"
+                     /translation="MVDKRESYTKEDLLASGRGELFGAKGPQLPAPNMLMMDRVVKMTE
+                     TGGNFDKGYVEAELDINPDLWFFGCHFIGDPVMPGCLGLDAMWQLVGFYLGWLGGEGKG
+                     RALGVGEVKFTGQVLPTAKKVTYRIHFKRIVNRRLIMGLADGEVLVDGRLIYTASDLKV
+                     GLFQDTSAF"
+     primer_bind     10988..11007
+                     /label="716_EcfabA_fw"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(11489..11506)
+                     /label="717_EcfabA_rv"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     misc            11507..11528
+                     /label="568_pCAPsAjiIR"
+     misc            11507..11528
+                     /label="568_pCAPsAjiIR"
+     primer_bind     11507..11528
+                     /label="568"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     11509..11528
+                     /note="568_pCAPsAjiIR"
+                     /ApEinfo_fwdcolor="green"
+                     /ApEinfo_revcolor="red"
+     primer_bind     11509..11528
+                     /note="568_pCAPsAjiIR"
+                     /ApEinfo_fwdcolor="green"
+                     /ApEinfo_revcolor="red"
+     primer_bind     complement(11513..11537)
+                     /label="467"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     source          11544..12300
+                     /organism="Saccharomyces cerevisiae S288C"
+                     /mol_type="genomic DNA"
+                     /strain="S288C"
+                     /db_xref="taxon:559292"
+                     /chromosome="IV"
+     primer_bind     11544..11564
+                     /label="1036_fw757"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     source          11544..12300
+                     /organism="Saccharomyces cerevisiae S288C"
+                     /mol_type="genomic DNA"
+                     /strain="S288C"
+                     /db_xref="taxon:559292"
+                     /chromosome="IV"
+     primer_bind     11544..11564
+                     /label="1036_fw757"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(12284..12300)
+                     /label="1035_rv757"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(12284..12300)
+                     /label="1035_rv757"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     12308..12332
+                     /label="468"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(12335..12355)
+                     /note="567_pCAPsAjiIF"
+                     /ApEinfo_fwdcolor="green"
+                     /ApEinfo_revcolor="red"
+     misc            complement(12335..12357)
+                     /label="567_pCAPsAjiIF"
+     primer_bind     complement(12335..12357)
+                     /label="567"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(12335..12355)
+                     /note="567_pCAPsAjiIF"
+                     /ApEinfo_fwdcolor="green"
+                     /ApEinfo_revcolor="red"
+     misc            complement(12335..12357)
+                     /label="567_pCAPsAjiIF"
+     primer_bind     12361..12386
+                     /label="718_EcfabZ_fw"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(12800..12815)
+                     /label="719_EcfabZ_rv"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     misc            12816..12837
+                     /label="568_pCAPsAjiIR"
+     misc            12816..12837
+                     /label="568_pCAPsAjiIR"
+     primer_bind     12816..12837
+                     /label="568"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     12818..12837
+                     /note="568_pCAPsAjiIR"
+                     /ApEinfo_fwdcolor="green"
+                     /ApEinfo_revcolor="red"
+     primer_bind     12818..12837
+                     /note="568_pCAPsAjiIR"
+                     /ApEinfo_fwdcolor="green"
+                     /ApEinfo_revcolor="red"
+     primer_bind     complement(12822..12846)
+                     /label="467"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     source          12853..13372
+                     /organism="Saccharomyces cerevisiae S288C"
+                     /mol_type="genomic DNA"
+                     /strain="S288C"
+                     /db_xref="taxon:559292"
+                     /chromosome="VIII"
+     primer_bind     12853..12869
+                     /label="411_ScENO2tpf"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     source          12853..13372
+                     /organism="Saccharomyces cerevisiae S288C"
+                     /mol_type="genomic DNA"
+                     /strain="S288C"
+                     /db_xref="taxon:559292"
+                     /chromosome="VIII"
+     primer_bind     12853..12869
+                     /label="411_ScENO2tpf"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     gene            complement(12861..13199)
+                     /locus_tag="YHR173C"
+     mRNA            complement(12861..13199)
+                     /locus_tag="YHR173C"
+                     /product="hypothetical protein"
+     CDS             complement(12861..13199)
+                     /locus_tag="YHR173C"
+                     /note="hypothetical protein; expressed at both mRNA and
+                     protein levels; SWAT-GFP and mCherry fusion proteins
+                     localize to the vacuole; GO_component: GO:0000324 -
+                     fungal-type vacuole [Evidence IDA] [PMID 26928762];
+                     GO_function: GO:0003674 - molecular_function [Evidence ND];
+                     GO_process: GO:0008150 - biological_process [Evidence ND]"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="DAA35091.1"
+                     /db_xref="SGD:S000001216"
+                     /translation="MLFFFIYAWCHLSHTILQPSTKIQMIVRSKPESNGEKKLMNHDEP
+                     NDQYNQRNYPSEVYADLVSHFMNFAYGKVHESGLQKKGVRCVDVSISGCQFWNGIPLSA
+                     SWCTSLVT"
+     gene            complement(12861..13199)
+                     /locus_tag="YHR173C"
+     mRNA            complement(12861..13199)
+                     /locus_tag="YHR173C"
+                     /product="hypothetical protein"
+     CDS             complement(12861..13199)
+                     /locus_tag="YHR173C"
+                     /note="hypothetical protein; expressed at both mRNA and
+                     protein levels; SWAT-GFP and mCherry fusion proteins
+                     localize to the vacuole; GO_component: GO:0000324 -
+                     fungal-type vacuole [Evidence IDA] [PMID 26928762];
+                     GO_function: GO:0003674 - molecular_function [Evidence ND];
+                     GO_process: GO:0008150 - biological_process [Evidence ND]"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="DAA35091.1"
+                     /db_xref="SGD:S000001216"
+                     /translation="MLFFFIYAWCHLSHTILQPSTKIQMIVRSKPESNGEKKLMNHDEP
+                     NDQYNQRNYPSEVYADLVSHFMNFAYGKVHESGLQKKGVRCVDVSISGCQFWNGIPLSA
+                     SWCTSLVT"
+     primer_bind     complement(13342..13372)
+                     /label="660_ScENO2tpr_PacI"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(13342..13372)
+                     /label="660_ScENO2tpr_PacI"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     13381..13405
+                     /label="468"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(13408..13428)
+                     /note="567_pCAPsAjiIF"
+                     /ApEinfo_fwdcolor="green"
+                     /ApEinfo_revcolor="red"
+     misc            complement(13408..13430)
+                     /label="567_pCAPsAjiIF"
+     primer_bind     complement(13408..13430)
+                     /label="567"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     source          13435..14607
+                     /organism="Arabidopsis thaliana"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:3702"
+                     /chromosome="2"
+                     /ecotype="Columbia"
+     gene            13435..14607
+                     /gene="MOD1"
+                     /locus_tag="AT2G05990"
+                     /gene_synonym="ENOYL-ACP REDUCTASE; ENOYL-ACP REDUCTASE 1;
+                     ENR1; MOSAIC DEATH 1; T6P5.19; T6P5_19"
+                     /note="Encodes enoyl-ACP reductase a component of the fatty
+                     acid synthase complex. A reduced function mutation in this
+                     gene, mod1, was found in a screen for premature cell death
+                     mutants. Mutant plants have reduced lipid level and
+                     pleiotropic morphological defects, including chlorotic and
+                     abnormally shaped leaves."
+                     /db_xref="Araport:AT2G05990"
+                     /db_xref="GeneID:815152"
+                     /db_xref="TAIR:AT2G05990"
+     CDS             13435..14607
+                     /gene="MOD1"
+                     /locus_tag="AT2G05990"
+                     /gene_synonym="ENOYL-ACP REDUCTASE; ENOYL-ACP REDUCTASE 1;
+                     ENR1; MOSAIC DEATH 1; T6P5.19; T6P5_19"
+                     /inference="Similar to RNA sequence,
+                     EST:INSD:EH880971.1,INSD:DR239538.1,INSD:DR239539.1,
+                     INSD:BP591342.1,INSD:DR234302.1,INSD:ES159416.1,
+                     INSD:ES114323.1,INSD:EL162899.1,INSD:BP596685.1,
+                     INSD:DR239528.1,INSD:DR239526.1,INSD:ES176406.1,
+                     INSD:BP602060.1,INSD:AV808373.1,INSD:ES135317.1,
+                     INSD:ES121111.1,INSD:DR239515.1,INSD:DR234313.1,
+                     INSD:ES085203.1,INSD:BP595304.1,INSD:EL072241.1,
+                     INSD:EL132221.1,INSD:AV441148.1,INSD:EL045368.1,
+                     INSD:ES054130.1,INSD:EL001784.1,INSD:BP602003.1,
+                     INSD:EH854607.1,INSD:DR234306.1,INSD:ES117850.1,
+                     INSD:EL157868.1,INSD:EH798096.1,INSD:DR239527.1,
+                     INSD:ES059360.1,INSD:AA598134.1,INSD:DR239536.1,
+                     INSD:DR239532.1,INSD:DR239535.1,INSD:EL227808.1,
+                     INSD:AV440053.1,INSD:DR239541.1,INSD:DR239537.1,
+                     INSD:DR239518.1,INSD:ES093122.1,INSD:ES168164.1,
+                     INSD:BP619670.1,INSD:BP817709.1,INSD:DR239531.1,
+                     INSD:CB264246.1,INSD:ES201752.1,INSD:EL232326.1,
+                     INSD:DR239522.1,INSD:AV536747.1,INSD:DR239523.1,
+                     INSD:EL094441.1,INSD:EL990831.1,INSD:EL162658.1,
+                     INSD:ES039758.1,INSD:DR239534.1,INSD:EL071522.1,
+                     INSD:DR239542.1,INSD:AA605458.1,INSD:AV536208.1,
+                     INSD:AV791027.1,INSD:DR239517.1,INSD:DR234303.1,
+                     INSD:BP671808.1,INSD:BP585566.1,INSD:ES112709.1,
+                     INSD:DR239525.1,INSD:BP649391.1,INSD:DR239521.1,
+                     INSD:EH941259.1,INSD:BP642673.1,INSD:EL161163.1,
+                     INSD:BP789996.1,INSD:DR239530.1,INSD:BP583226.1,
+                     INSD:DR234297.1,INSD:AV549884.1,INSD:EH818763.1,
+                     INSD:EL149698.1,INSD:CK121240.1,INSD:BP781336.1,
+                     INSD:ES081926.1,INSD:AV793210.1,INSD:EL136131.1,
+                     INSD:EL179709.1,INSD:EL272327.1,INSD:EL281790.1,
+                     INSD:AV537833.1,INSD:EL980262.1,INSD:DR375694.1,
+                     INSD:DR239533.1,INSD:EL016709.1,INSD:ES052054.1,
+                     INSD:BP598294.1,INSD:EH861740.1,INSD:EL322619.1,
+                     INSD:BP796010.1,INSD:DR239519.1,INSD:BP795936.1,
+                     INSD:ES189036.1,INSD:DR239520.1,INSD:DR239524.1,
+                     INSD:EL309513.1,INSD:BP788055.1"
+                     /inference="similar to RNA sequence, mRNA:INSD:BX819449.1"
+                     /note="MOSAIC DEATH 1 (MOD1); FUNCTIONS IN:
+                     enoyl-[acyl-carrier-protein] reductase (NADH) activity,
+                     oxidoreductase activity, enoyl-[acyl-carrier-protein]
+                     reductase activity, copper ion binding; INVOLVED IN: fatty
+                     acid biosynthetic process; LOCATED IN: fatty acid synthase
+                     complex, thylakoid, chloroplast stroma, chloroplast,
+                     chloroplast envelope; EXPRESSED IN: 24 plant structures;
+                     EXPRESSED DURING: 15 growth stages; CONTAINS InterPro
+                     DOMAIN/s: NAD(P)-binding domain (InterPro:IPR016040),
+                     Glucose/ribitol dehydrogenase (InterPro:IPR002347),
+                     Short-chain dehydrogenase/reductase SDR
+                     (InterPro:IPR002198), Enoyl-[acyl-carrier-protein]
+                     reductase (NADH) (InterPro:IPR014358); BEST Arabidopsis
+                     thaliana protein match is: NAD(P)-binding Rossmann-fold
+                     superfamily protein (TAIR:AT2G29260.1); Has 34697 Blast
+                     hits to 34681 proteins in 2732 species: Archae - 268;
+                     Bacteria - 25258; Metazoa - 667; Fungi - 643; Plants - 667;
+                     Viruses - 0; Other Eukaryotes - 7194 (source: NCBI BLink)."
+                     /codon_start=1
+                     /product="NAD(P)-binding Rossmann-fold superfamily protein"
+                     /protein_id="NP_565331.1"
+                     /db_xref="Araport:AT2G05990"
+                     /db_xref="GeneID:815152"
+                     /db_xref="TAIR:AT2G05990"
+                     /translation="MAATAASSLQIATRRPSMSSPSKILKAGTYIVGANPGNASWDKLS
+                     CTRQLSNLGCLRNHSAVPTCKRPFSFSTRAMSESSENKAPSGLPIDLRGKRAFIAGIAD
+                     DNGYGWAIAKSLAAAGAEILVGTWVPALNIFETSLRRGKFDQSRVLPDGSLMEIKKVYA
+                     LDAVFDNPEDVPEDVKTNKRYAGSSNWTVQEAAECVKKDFGSIDILVHSLANGPEVSKP
+                     LLETSRKGYLAAISASSYSFVSLLRHFLPIMNPGGASISLTYIASERIIPGYGGGMSSA
+                     KAALESDTRVLAYEAGRKSNIRVNTISAGPLGSRAAKAIGFIDTMIEYSYNNGPIQKTL
+                     TADEVGNAAAFLASPLASAITGATIYVDNGLNAMGVALDSPVFKDLNSKN"
+     primer_bind     13435..13448
+                     /label="f1173"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(14584..14607)
+                     /label="r1173"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     misc            14608..14629
+                     /label="568_pCAPsAjiIR"
+     primer_bind     14608..14629
+                     /label="568"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     14610..14629
+                     /note="568_pCAPsAjiIR"
+                     /ApEinfo_fwdcolor="green"
+                     /ApEinfo_revcolor="red"
+     primer_bind     complement(14614..14638)
+                     /label="467"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     source          14645..15146
+                     /organism="Saccharomyces cerevisiae S288C"
+                     /mol_type="genomic DNA"
+                     /strain="S288C"
+                     /db_xref="taxon:559292"
+                     /chromosome="XVI"
+     primer_bind     14645..14665
+                     /label="830_RPL5tpf"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     source          14645..15146
+                     /organism="Saccharomyces cerevisiae S288C"
+                     /mol_type="genomic DNA"
+                     /strain="S288C"
+                     /db_xref="taxon:559292"
+                     /chromosome="XVI"
+     primer_bind     14645..14665
+                     /label="830_RPL5tpf"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(15130..15146)
+                     /label="829_RPL5tpr"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(15130..15146)
+                     /label="829_RPL5tpr"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     15154..15178
+                     /label="468"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(15181..15201)
+                     /note="567_pCAPsAjiIF"
+                     /ApEinfo_fwdcolor="green"
+                     /ApEinfo_revcolor="red"
+     primer_bind     15208..15231
+                     /label="949_AthFatA1_YPK_fw"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(16156..16182)
+                     /label="948_AthFatA1_YPK_rv"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(16186..16210)
+                     /label="467"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     source          16217..16659
+                     /organism="Saccharomyces cerevisiae S288C"
+                     /mol_type="genomic DNA"
+                     /strain="S288C"
+                     /db_xref="taxon:559292"
+                     /chromosome="IX"
+     primer_bind     16217..16239
+                     /label="763_RPL16A_fw"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     source          16217..16659
+                     /organism="Saccharomyces cerevisiae S288C"
+                     /mol_type="genomic DNA"
+                     /strain="S288C"
+                     /db_xref="taxon:559292"
+                     /chromosome="IX"
+     primer_bind     16217..16239
+                     /label="763_RPL16A_fw"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(16640..16659)
+                     /label="764_RPL16A_rv"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(16640..16659)
+                     /label="764_RPL16A_rv"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     16667..16691
+                     /label="468"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(16694..16714)
+                     /note="567_pCAPsAjiIF"
+                     /ApEinfo_fwdcolor="green"
+                     /ApEinfo_revcolor="red"
+     primer_bind     16721..16744
+                     /label="945_AthFatB_YPK_fw"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(17786..17812)
+                     /label="944_AthFatB_YPK_rv"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(17816..17840)
+                     /label="467"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     source          17847..18515
+                     /organism="Saccharomyces cerevisiae S288C"
+                     /mol_type="genomic DNA"
+                     /strain="S288C"
+                     /db_xref="taxon:559292"
+                     /chromosome="XI"
+     primer_bind     17847..17862
+                     /label="767_RPL17A_fw"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     source          17847..18515
+                     /organism="Saccharomyces cerevisiae S288C"
+                     /mol_type="genomic DNA"
+                     /strain="S288C"
+                     /db_xref="taxon:559292"
+                     /chromosome="XI"
+     primer_bind     17847..17862
+                     /label="767_RPL17A_fw"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(18494..18515)
+                     /label="768_RPL17A_rv"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(18494..18515)
+                     /label="768_RPL17A_rv"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     18523..18547
+                     /label="468"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(18550..18570)
+                     /note="567_pCAPsAjiIF"
+                     /ApEinfo_fwdcolor="green"
+                     /ApEinfo_revcolor="red"
+     misc            complement(18550..18572)
+                     /label="567_pCAPsAjiIF"
+     primer_bind     complement(18550..18572)
+                     /label="567"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(18550..18570)
+                     /note="567_pCAPsAjiIF"
+                     /ApEinfo_fwdcolor="green"
+                     /ApEinfo_revcolor="red"
+     misc            complement(18550..18572)
+                     /label="567_pCAPsAjiIF"
+     source          18575..19156
+                     /organism="Escherichia coli str. K-12 substr. MG1655"
+                     /mol_type="genomic DNA"
+                     /strain="K-12"
+                     /sub_strain="MG1655"
+                     /db_xref="taxon:511145"
+     gene            18575..19156
+                     /gene="acpH"
+                     /locus_tag="b0404"
+                     /gene_synonym="ECK0398; yajB"
+                     /db_xref="ASAP:ABE-0001404"
+                     /db_xref="ECOCYC:EG11095"
+                     /db_xref="EcoGene:EG11095"
+                     /db_xref="GeneID:949132"
+     CDS             18575..19156
+                     /gene="acpH"
+                     /locus_tag="b0404"
+                     /gene_synonym="ECK0398; yajB"
+                     /EC_number="3.1.4.14"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="acyl carrier protein phosphodiesterase"
+                     /protein_id="NP_414938.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P21515"
+                     /db_xref="ASAP:ABE-0001404"
+                     /db_xref="ECOCYC:EG11095"
+                     /db_xref="EcoGene:EG11095"
+                     /db_xref="GeneID:949132"
+                     /translation="MNFLAHLHLAHLAESSLSGNLLADFVRGNPEESFPPDVVAGIHMH
+                     RRIDVLTDNLPEVREAREWFRSETRRVAPITLDVMWDHFLSRHWSQLSPDFPLQEFVCY
+                     AREQVMTILPDSPPRFINLNNYLWSEQWLVRYRDMDFIQNVLNGMASRRPRLDALRDSW
+                     YDLDAHYDALETRFWQFYPRMMAQASRKAL"
+     primer_bind     18575..18595
+                     /label="868_EcacpH_fw"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(19136..19156)
+                     /label="867_EcacpH_rv"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     misc            19157..19178
+                     /label="568_pCAPsAjiIR"
+     misc            19157..19178
+                     /label="568_pCAPsAjiIR"
+     primer_bind     19157..19178
+                     /label="568"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     19159..19178
+                     /note="568_pCAPsAjiIR"
+                     /ApEinfo_fwdcolor="green"
+                     /ApEinfo_revcolor="red"
+     primer_bind     19159..19178
+                     /note="568_pCAPsAjiIR"
+                     /ApEinfo_fwdcolor="green"
+                     /ApEinfo_revcolor="red"
+     primer_bind     complement(19163..19187)
+                     /label="467"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     source          19194..19892
+                     /organism="Saccharomyces cerevisiae S288C"
+                     /mol_type="genomic DNA"
+                     /strain="S288C"
+                     /db_xref="taxon:559292"
+                     /chromosome="XIV"
+     primer_bind     19194..19213
+                     /label="765_RPL16B_fw"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     source          19194..19892
+                     /organism="Saccharomyces cerevisiae S288C"
+                     /mol_type="genomic DNA"
+                     /strain="S288C"
+                     /db_xref="taxon:559292"
+                     /chromosome="XIV"
+     primer_bind     19194..19213
+                     /label="765_RPL16B_fw"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(19874..19892)
+                     /label="766_RPL16B_rv"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(19874..19892)
+                     /label="766_RPL16B_rv"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     19900..19924
+                     /label="468"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(19927..19947)
+                     /note="567_pCAPsAjiIF"
+                     /ApEinfo_fwdcolor="green"
+                     /ApEinfo_revcolor="red"
+     misc            complement(19927..19949)
+                     /label="567_pCAPsAjiIF"
+     primer_bind     complement(19927..19949)
+                     /label="567"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(19927..19947)
+                     /note="567_pCAPsAjiIF"
+                     /ApEinfo_fwdcolor="green"
+                     /ApEinfo_revcolor="red"
+     misc            complement(19927..19949)
+                     /label="567_pCAPsAjiIF"
+     source          19952..20332
+                     /organism="Escherichia coli str. K-12 substr. MG1655"
+                     /mol_type="genomic DNA"
+                     /strain="K-12"
+                     /sub_strain="MG1655"
+                     /db_xref="taxon:511145"
+     gene            19952
+                     /gene="pdxJ"
+                     /locus_tag="b2564"
+                     /gene_synonym="ECK2562"
+                     /db_xref="ASAP:ABE-0008435"
+                     /db_xref="ECOCYC:EG10693"
+                     /db_xref="EcoGene:EG10693"
+                     /db_xref="GeneID:947039"
+     CDS             19952
+                     /gene="pdxJ"
+                     /locus_tag="b2564"
+                     /gene_synonym="ECK2562"
+                     /EC_number="2.6.99.2"
+                     /codon_start=3
+                     /transl_table=11
+                     /product="pyridoxine 5'-phosphate synthase"
+                     /protein_id="NP_417059.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P0A794"
+                     /db_xref="ASAP:ABE-0008435"
+                     /db_xref="ECOCYC:EG10693"
+                     /db_xref="EcoGene:EG10693"
+                     /db_xref="GeneID:947039"
+                     /translation="MAELLLGVNIDHIATLRNARGTAYPDPVQAAFIAEQAGADGITVH
+                     LREDRRHITDRDVRILRQTLDTRMNLEMAVTEEMLAIAVETKPHFCCLVPEKRQEVTTE
+                     GGLDVAGQRDKMRDACKRLADAGIQVSLFIDADEEQIKAAAEVGAPFIEIHTGCYADAK
+                     TDAEQAQELARIAKAATFAASLGLKVNAGHGLTYHNVKAIAAIPEMHELNIGHAIIGRA
+                     VMTGLKDAVAEMKRLMLEARG"
+     gene            19952..20332
+                     /gene="acpS"
+                     /locus_tag="b2563"
+                     /gene_synonym="dpj; ECK2561"
+                     /db_xref="ASAP:ABE-0008433"
+                     /db_xref="ECOCYC:EG10247"
+                     /db_xref="EcoGene:EG10247"
+                     /db_xref="GeneID:947037"
+     CDS             19952..20332
+                     /gene="acpS"
+                     /locus_tag="b2563"
+                     /gene_synonym="dpj; ECK2561"
+                     /EC_number="2.7.8.7"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="holo-[acyl-carrier-protein] synthase"
+                     /protein_id="NP_417058.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P24224"
+                     /db_xref="ASAP:ABE-0008433"
+                     /db_xref="ECOCYC:EG10247"
+                     /db_xref="EcoGene:EG10247"
+                     /db_xref="GeneID:947037"
+                     /translation="MAILGLGTDIVEIARIEAVIARSGDRLARRVLSDNEWAIWKTHHQ
+                     PVRFLAKRFAVKEAAAKAFGTGIRNGLAFNQFEVFNDELGKPRLRLWGEALKLAEKLGV
+                     ANMHVTLADERHYACATVIIES"
+     primer_bind     19952..19972
+                     /label="728_EcacpS_fw"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(20310..20332)
+                     /label="729_EcacpS_rv"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     misc            20333..20354
+                     /label="568_pCAPsAjiIR"
+     misc            20333..20354
+                     /label="568_pCAPsAjiIR"
+     primer_bind     20333..20354
+                     /label="568"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     20335..20354
+                     /note="568_pCAPsAjiIR"
+                     /ApEinfo_fwdcolor="green"
+                     /ApEinfo_revcolor="red"
+     primer_bind     20335..20354
+                     /note="568_pCAPsAjiIR"
+                     /ApEinfo_fwdcolor="green"
+                     /ApEinfo_revcolor="red"
+     primer_bind     complement(20339..20363)
+                     /label="467"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     source          20370..20774
+                     /organism="Saccharomyces cerevisiae S288C"
+                     /mol_type="genomic DNA"
+                     /strain="S288C"
+                     /db_xref="taxon:559292"
+                     /chromosome="XI"
+     primer_bind     20370..20386
+                     /label="1034_fw405"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(20753..20774)
+                     /label="1033_rv405"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     20835..20864
+                     /note="866_pYPKpwF"
+                     /ApEinfo_revcolor="red"
+                     /ApEinfo_fwdcolor="green"
+     primer_bind     join(20835..20864,46766^46767)
+                     /note="866_pYPKpwF"
+                     /ApEinfo_revcolor="red"
+                     /ApEinfo_fwdcolor="green"
+     primer_bind     complement(21048..21076)
+                     /label="578"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(21048..21076)
+                     /label="578"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     overlap         21449..22148
+                     /note="olp_lQPmXhrpcJP0VhkB1gXCrZVyjqA"
+                     /ApEinfo_fwdcolor="#C1F3B1"
+                     /chksum="lQPmXhrpcJP0VhkB1gXCrZVyjqA"
+                     /label="olp_lQPmXhrpcJP0VhkB1gXCrZVyjqA"
+                     /ApEinfo_revcolor="#FED2EA"
+     rep_origin      21483
+                     /ApEinfo_revcolor="red"
+                     /direction=BOTH
+                     /label="feat1"
+                     /ApEinfo_fwdcolor="cyan"
+     misc            complement(22227..23030)
+                     /ApEinfo_revcolor="red"
+                     /label="URA3"
+                     /ApEinfo_fwdcolor="cyan"
+     CDS             complement(24879..25537)
+                     /ApEinfo_revcolor="red"
+                     /label="AmpR"
+                     /ApEinfo_fwdcolor="cyan"
+     overlap         24980..25183
+                     /note="olp_KFRCKsb-YIAV0bzDHHxIssmW6qY"
+                     /ApEinfo_fwdcolor="#E0E3B5"
+                     /chksum="KFRCKsb-YIAV0bzDHHxIssmW6qY"
+                     /label="olp_KFRCKsb-YIAV0bzDHHxIssmW6qY"
+                     /ApEinfo_revcolor="#E9B4CC"
+     overlap         25511..25755
+                     /note="olp_PrH6fFQ_Xlj09X_ymVtJGXI9hx0"
+                     /ApEinfo_fwdcolor="#D3D0D8"
+                     /chksum="PrH6fFQ_Xlj09X_ymVtJGXI9hx0"
+                     /label="olp_PrH6fFQ_Xlj09X_ymVtJGXI9hx0"
+                     /ApEinfo_revcolor="#E7F7D0"
+ORIGIN
+        1 tcgcgcgttt cggtgatgac ggtgaaaacc tctgacacat gcagctcccg gagacggtca
+       61 cagcttgtct gtaagcggat gccgggagca gacaagcccg tcagggcgcg tcagcgggtg
+      121 ttggcgggtg tcggggctgg cttaactatg cggcatcaga gcagattgta ctgagagtgc
+      181 accatagatc ctgaggatcg gggtgataaa tcagtctgcg ccacatcggg ggaaacaaaa
+      241 tggcgcgaga tctaaaaaaa aaggctccaa aaggagcctt tcgcgctacc aggtaacgcg
+      301 ccactccgac gggattaacg agtgccgtaa acgacgatgg ttttaccgtg tgcggagatc
+      361 aggttctgat cctcgagcat cttaagaatt cgtcccacgg tttgtctaga gcagccgaca
+      421 atctggccaa tttcctgacg ggtaattttg atttgcatgc cgtccgggtg agtcatagcg
+      481 tctggttgtt ttgccagatt cagcagagtc tgtgcaatgc ggccgctgac ttaaataagg
+      541 gtagcctccc cataacataa actcaataaa atatatagtc ttcaacttga aaaaggaaca
+      601 agctcatgca aagaggtggt acccgcacgc cgaaatgcat gcaagtaacc tattcaaagt
+      661 aatatctcat acatgtttca tgagggtaac aacatgcgac tgggtgagca tatgttccgc
+      721 tgatgtgatg tgcaagataa acaagcaagg cagaaactaa cttcttcttc atgtaataaa
+      781 cacaccccgc gtttatttac ctatctctaa acttcaacac cttatatcat aactaatatt
+      841 tcttgagata agcacactgc acccatacct tccttaaaaa cgtagcttcc agtttttggt
+      901 ggttccggct tccttcccga ttccgcccgc taaacgcata tttttgttgc ctggtggcat
+      961 ttgcaaaatg cataacctat gcatttaaaa gattatgtat gctcttctga cttttcgtgt
+     1021 gatgaggctc gtggaaaaaa tgaataattt atgaatttga gaacaatttt gtgttgttac
+     1081 ggtattttac tatggaataa tcaatcaatt gaggatttta tgcaaatatc gtttgaatat
+     1141 ttttccgacc ctttgagtac ttttcttcat aattgcataa tattgtccgc tgcccctttt
+     1201 tctgttagac ggtgtcttga tctacttgct atcgttcaac accaccttat tttctaacta
+     1261 tttttttttt agctcatttg aatcagctta tggtgatggc acatttttgc ataaacctag
+     1321 ctgtcctcgt tgaacatagg aaaaaaaaat atataaacaa ggctctttca ctctccttgc
+     1381 aatcagattt gggtttgttc cctttatttt catatttctt gtcatattcc tttctcaatt
+     1441 attattttct actcataacc tcacgcaaaa taacacagtc aaatcaatca aattaattag
+     1501 tcgaggaacg ccaggttgcc cactttctca ctagtgacct gcagccgaca aatgtatacg
+     1561 aagattattg gtactggcag ctatctgccc gaacaagtgc ggacaaacgc cgatttggaa
+     1621 aaaatggtgg acacctctga cgagtggatt gtcactcgta ccggtatccg cgaacgccac
+     1681 attgccgcgc caaacgaaac cgtttcaacc atgggctttg aagcggcgac acgcgcaatt
+     1741 gagatggcgg gcattgagaa agaccagatt ggcctgatcg ttgtggcaac gacttctgct
+     1801 acgcacgctt tcccgagcgc agcttgtcag attcaaagca tgttgggcat taaaggttgc
+     1861 ccggcatttg acgttgcagc agcctgcgca ggtttcacct atgcattaag cgtagccgat
+     1921 caatacgtga aatctggggc ggtgaagtat gctctggtcg tcggttccga tgtactggcg
+     1981 cgcacctgcg atccaaccga tcgtgggact attattattt ttggcgatgg cgcgggcgct
+     2041 gcggtgctgg ctgcctctga agagccggga atcatttcca cccatctgca tgccgacggt
+     2101 agttatggtg aattgctgac gctgccaaac gccgaccgcg tgaatccaga gaattcaatt
+     2161 catctgacga tggcgggcaa cgaagtcttc aaggttgcgg taacggaact ggcgcacatc
+     2221 gttgatgaga cgctggcggc gaataatctt gaccgttctc aactggactg gctggttccg
+     2281 catcaggcta acctgcgtat tatcagtgca acggcgaaaa aactcggtat gtctatggat
+     2341 aatgtcgtgg tgacgctgga tcgccacggt aatacctctg cggcctctgt cccgtgcgcg
+     2401 ctggatgaag ctgtacgcga cgggcgcatt aagccggggc agttggttct gcttgaagcc
+     2461 tttggcggtg gattcacctg gggctccgcg ctggttcgtt tctaggtgcc atctgtgcag
+     2521 acaaacgcat caggatttaa ataacaatgc atactttgta cgttcaaaat acaatgcagt
+     2581 agatatattt atgcatatta catataatac atatcacata ggaagcaaca ggcgcgttgg
+     2641 acttttaatt ttcgaggacc gcgaatcctt acatcacacc caatccccca caagtgatcc
+     2701 cccacacacc atagcttcaa aatgtttcta ctcctttttt actcttccag attttctcgg
+     2761 actccgcgca tcgccgtacc acttcaaaac acccaagcac agcatactaa atttcccctc
+     2821 tttcttcctc tagggtgtcg ttaattaccc gtactaaagg tttggaaaag aaaaaagaga
+     2881 ccgcctcgtt tctttttctt cgtcgaaaaa ggcaataaaa atttttatca cgtttctttt
+     2941 tcttgaaaat tttttttttt gatttttttc tctttcgatg acctcccatt gatatttaag
+     3001 ttaataaacg gtcttcaatt tctcaagttt cagtttcatt tttcttgttc tattacaact
+     3061 ttttttactt cttgctcatt agaaagaaag catagcaatc taatctaagt tttaattaca
+     3121 aattaattag tcgaggaacg ccaggttgcc cactttctca ctagtgacct gcagccgaca
+     3181 aatgacgcaa tttgcatttg tgttccctgg acagggttct caaaccgttg gaatgctggc
+     3241 tgatatggcg gcgagctatc caattgtcga agaaacgttt gctgaagctt ctgcggcgct
+     3301 gggctacgac ctgtgggcgc tgacccagca ggggccagct gaagaactga ataaaacctg
+     3361 gcaaactcag cctgcgctgt tgactgcatc tgttgcgctg tatcgcgtat ggcagcagca
+     3421 gggcggtaaa gcaccggcaa tgatggccgg tcacagcctg ggggaatact ccgcgctggt
+     3481 ttgcgctggt gtgattgatt tcgctgatgc ggtgcgtctg gttgagatgc gcggcaagtt
+     3541 catgcaagaa gccgtaccgg aaggcacggg cgctatggcg gcaatcatcg gtctggatga
+     3601 tgcgtctatt gcgaaagcgt gtgaagaagc tgcagaaggt caggtcgttt ctccggtaaa
+     3661 ctttaactct ccgggacagg tggttattgc cggtcataaa gaagcggttg agcgtgctgg
+     3721 cgctgcctgt aaagcggcgg gcgcaaaacg cgcgctgccg ttaccagtga gcgtaccgtc
+     3781 tcactgtgcg ctgatgaaac cagcagccga caaactggca gtagaattag cgaaaatcac
+     3841 ctttaacgca ccaacagttc ctgttgtgaa taacgttgat gtgaaatgcg aaaccaatgg
+     3901 tgatgccatc cgtgacgcac tggtacgtca gttgtataac ccggttcagt ggacgaagtc
+     3961 tgttgagtac atggcagcgc aaggcgtaga acatctctat gaagtcggcc cgggcaaagt
+     4021 gcttactggc ctgacgaaac gcattgtcga caccctgacc gcctcggcgc tgaacgaacc
+     4081 ttcagcgatg gcagcggcgc tcgagcttta agtgccatct gtgcagacaa acgcatcagg
+     4141 atttaaataa taacaatact gacagtacta aataattgcc tacttggctt cacatacgtt
+     4201 gcatacgtcg atatagataa taatgataat gacagcagga ttatcgtaat acgtaatagt
+     4261 tgaaaatctc aaaaatgtgt gggtcattac gtaaataatg ataggaatgg gattcttcta
+     4321 tttttccttt ttccattcta gcagccgtcg ggaaaacgtg gcatcctctc tttcgggctc
+     4381 aattggagtc acgctgccgt gagcatcctc tctttccata tctaacaact gagcacgtaa
+     4441 ccaatggaaa agcatgagct tagcgttgct ccaaaaaagt attggatggt taataccatt
+     4501 tgtctgttct cttctgactt tgactcctca aaaaaaaaaa atctacaatc aacagatcgc
+     4561 ttcaattacg ccctcacaaa aacttttttc cttcttcttc gcccacgtta aattttatcc
+     4621 ctcatgttgt ctaacggatt tctgcacttg atttattata aaaagacaaa gacataatac
+     4681 ttctctatca atttcagtta ttgttcttcc ttgcgttatt cttctgttct tctttttctt
+     4741 ttgtcatata taaccataac caagtaatac atattcaaat taattagtcg aggaacgcca
+     4801 ggttgcccac tttctcacta gtgacctgca gccgacaaat gaattttgaa ggaaaaatcg
+     4861 cactggtaac cggtgcaagc cgcggaattg gccgcgcaat tgctgaaacg ctcgcagccc
+     4921 gtggcgcgaa agttattggc actgcgacca gtgaaaatgg cgctcaggcg atcagtgatt
+     4981 atttaggtgc caacggcaaa ggtctgatgt tgaatgtgac cgacccggca tctatcgaat
+     5041 ctgttctgga aaaaattcgc gcagaatttg gtgaagtgga tatcctggtc aataatgccg
+     5101 gtatcactcg tgataacctg ttaatgcgaa tgaaagatga agagtggaac gatattatcg
+     5161 aaaccaacct ttcatctgtt ttccgtctgt caaaagcggt aatgcgcgct atgatgaaaa
+     5221 agcgtcatgg tcgtattatc actatcggtt ctgtggttgg taccatggga aatggcggtc
+     5281 aggccaacta cgctgcggcg aaagcgggct tgatcggctt cagtaaatca ctggcgcgcg
+     5341 aagttgcgtc acgcggtatt actgtaaacg ttgttgctcc gggctttatt gaaacggaca
+     5401 tgacacgtgc gctgagcgat gaccagcgtg cgggtatcct ggcgcaggtt cctgcgggtc
+     5461 gcctcggcgg cgcacaggaa atcgccaacg cggttgcatt cctggcatcc gacgaagcag
+     5521 cttacatcac gggtgaaact ttgcatgtga acggcgggat gtacatggtc tgagtgccat
+     5581 ctgtgcagac aaacgcatca ggatttaaat tgtaatgttc taacaaaaat ttttactgat
+     5641 ttataaaact tatatagata gatagacaca tatatatatc tatatataga aacacaacta
+     5701 aagtttacca tgttttatat aatattacta ccgctactga gtaaatgttt agcttgtact
+     5761 taactttcaa agacagtttt tttgataaac atcagtacat ttaataatac atccatacat
+     5821 ttatgttaat ttgtttttcc tttccacctc agtgcgcttc tcttttgaaa aaatcctcaa
+     5881 caggccacgc gaacaaatct taccgagaat ttcctaaaat gtttcaaact atcatttagc
+     5941 tgcatacaat atgtacatta ttaattgaga ttaacaactt tacctgtact ttaccgttat
+     6001 caaattataa accaccaaaa caacagatta agaaacatta attagtcgag gaacgccagg
+     6061 ttgcccactt tctcactagt gacctgcagc cgacaaatga gcactatcga agaacgcgtt
+     6121 aagaaaatta tcggcgaaca gctgggcgtt aagcaggaag aagttaccaa caatgcttct
+     6181 ttcgttgaag acctgggcgc ggattctctt gacaccgttg agctggtaat ggctctggaa
+     6241 gaagagtttg atactgagat tccggacgaa gaagctgaga aaatcaccac cgttcaggct
+     6301 gccattgatt acatcaacgg ccaccaggcg taagtgccat ctgtgcagac aaacgcatca
+     6361 ggatttaaat aataaaaaac acgctttttc agttcgagtt tatcattatc aatactgcca
+     6421 tttcaaagaa tacgtaaata attaatagta gtgattttcc taactttatt tagtcaaaaa
+     6481 attagccttt taattctgct gtaacccgta catgcccaaa atagggggcg ggttacacag
+     6541 aatatataac atcgtaggtg tctgggtgaa cagtttattc ctggcatcca ctaaatataa
+     6601 tggagcccgc tttttaagct ggcatccaga aaaaaaaaga atcccagcac caaaatattg
+     6661 ttttcttcac caaccatcag ttcataggtc cattctctta gcgcaactac agagaacagg
+     6721 ggcacaaaca ggcaaaaaac gggcacaacc tcaatggagt gatgcaacct gcctggagta
+     6781 aatgatgaca caaggcaatt gacccacgca tgtatctatc tcattttctt acaccttcta
+     6841 ttaccttctg ctctctctga tttggaaaaa gctgaaaaaa aaggttgaaa ccagttccct
+     6901 gaaattattc ccctacttga ctaataagta tataaagacg gtaggtattg attgtaattc
+     6961 tgtaaatcta tttcttaaac ttcttaaatt ctacttttat agttagtctt ttttttagtt
+     7021 ttaaaacacc aagaacttag tttcgaataa acacacataa acaaacaaat taattagtcg
+     7081 aggaacgcca ggttgcccac tttctcacta gtgacctgca gccgacaaat gtctaagcgt
+     7141 cgtgtagttg tgaccggact gggcatgttg tctcctgtcg gcaataccgt agagtctacc
+     7201 tggaaagctc tgcttgccgg tcagagtggc atcagcctaa tcgaccattt cgatactagc
+     7261 gcctatgcaa cgaaatttgc tggcttagta aaggatttta actgtgagga cattatctcg
+     7321 cgcaaagaac agcgcaagat ggatgccttc attcaatatg gaattgtcgc tggcgttcag
+     7381 gccatgcagg attctggcct tgaaataacg gaagagaacg caacccgcat tggtgccgca
+     7441 attggctccg ggattggcgg cctcggactg atcgaagaaa accacacatc tctgatgaac
+     7501 ggtggtccac gtaagatcag cccattcttc gttccgtcaa cgattgtgaa catggtggca
+     7561 ggtcatctga ctatcatgta tggcctgcgt ggcccgagca tctctatcgc gactgcctgt
+     7621 acttccggcg tgcacaacat tggccatgct gcgcgtatta tcgcgtatgg cgatgctgac
+     7681 gtgatggttg caggtggcgc agagaaagcc agtacgccgc tgggcgttgg tggttttggc
+     7741 gcggcacgtg cattatctac ccgcaatgat aacccgcaag cggcgagccg cccgtgggat
+     7801 aaagagcgtg atggtttcgt actgggcgat ggtgccggta tgctggtact tgaagagtac
+     7861 gaacacgcga aaaaacgcgg tgcgaaaatt tacgctgaac tcgtcggctt tggtatgagc
+     7921 agcgatgctt atcatatgac gtcaccgcca gaaaatggcg caggcgcagc tctggcgatg
+     7981 gcaaatgctc tgcgtgatgc aggcattgaa gcgagtcaga ttggctacgt taacgcgcac
+     8041 ggtacttcta cgccggctgg cgataaagct gaagcgcagg cggtgaaaac catcttcggt
+     8101 gaagctgcaa gccgtgtgtt ggtaagctcc acgaaatcta tgaccggtca cctgttaggt
+     8161 gcggcgggtg cagtagaatc tatctactcc atcctggcgc tgcgcgatca ggctgttccg
+     8221 ccaaccatca acctggataa cccggatgaa ggttgcgatc tggatttcgt accgcacgaa
+     8281 gcgcgtcagg ttagcggaat ggaatacact ctgtgtaact ccttcggctt cggtggcact
+     8341 aatggttctt tgatctttaa aaagatctaa gtgccatctg tgcagacaaa cgcatcagga
+     8401 tttaaatcga tttcccacat cctgcgtttc cgtagtcaag ggttcataat ggatgatgag
+     8461 cctgtaaaca gctttgtatt tacctctttt acttcaagaa tgctcttgcg tcgtttgcag
+     8521 tgtcgaagaa gatccagtag agctatacaa aatggagaaa tgaaacagtt gaaccagagc
+     8581 gccgcatttg gcaggtagtt tcgctaaatt tcctcatgcg cgtttgtaat tatgctagtt
+     8641 aaccatatga taaggttgcc taacttgcag tcaccggaag gttatttccg gaatggtgca
+     8701 gaataatttt taaaatagta gcatatattt cgttccaatt cccaaatagg gaattataat
+     8761 tatgacagat aaattcccga ttaggaagaa gcgcgaaaat tcttgaaaaa cttttttcaa
+     8821 cctcgaagaa aatcgtcgtc cttcgaagat ttagtgggaa tcttcaaggt ggatagtttc
+     8881 caaattaaaa ctgcagaaga ggcttttaaa acatgcctga ggtataaaaa gaacaacatt
+     8941 cctggtgatt atggtttctg ttggaccctg ttccctttgt aaaacttcta tttattgtcc
+     9001 tgcaaataag ctaattatat aattaatatt aattagtcga ggaacgccag gttgcccact
+     9061 ttctcactag tgacctgcag ccgacaaatg aaacgtgcag tgattactgg cctgggcatt
+     9121 gtttccagca tcggtaataa ccagcaggaa gtcctggcat ctctgcgtga aggacgttca
+     9181 gggatcactt tctctcagga gctgaaggat tccggcatgc gtagccacgt ctggggcaac
+     9241 gtaaaactgg ataccactgg cctcattgac cgcaaagttg tgcgctttat gagcgacgca
+     9301 tccatttatg cattcctttc tatggagcag gcaatcgctg atgcgggcct ctctccggaa
+     9361 gcttaccaga ataacccgcg cgttggcctg attgcaggtt ccggcggcgg ctccccgcgt
+     9421 ttccaggtgt tcggcgctga cgcaatgcgc ggcccgcgcg gcctgaaagc ggttggcccg
+     9481 tatgtggtca ccaaagcgat ggcatccggc gtttctgcct gcctcgccac cccgtttaaa
+     9541 attcatggcg ttaactactc catcagctcc gcgtgtgcga cttccgcaca ctgtatcggt
+     9601 aacgcagtag agcagatcca actgggcaaa caggacatcg tgtttgctgg cggcggcgaa
+     9661 gagctgtgct gggaaatggc ttgcgaattc gacgcaatgg gtgcgctgtc tactaaatac
+     9721 aacgacaccc cggaaaaagc ctcccgtact tacgacgctc accgtgacgg tttcgttatc
+     9781 gctggcggcg gcggtatggt agtggttgaa gagctggaac acgcgctggc gcgtggtgct
+     9841 cacatctatg ctgaaatcgt tggctacggc gcaacctctg atggtgcaga catggttgct
+     9901 ccgtctggcg aaggcgcagt acgctgcatg aagatggcga tgcatggcgt tgatacccca
+     9961 atcgattacc tgaactccca cggtacttcg actccggttg gcgacgtgaa agagctggca
+    10021 gctatccgtg aagtgttcgg cgataagagc ccggcgattt ctgcaaccaa agccatgacc
+    10081 ggtcactctc tgggcgctgc tggcgtacag gaagctatct actctctgct gatgctggaa
+    10141 cacggcttta tcgccccgag catcaacatt gaagagctgg acgagcaggc tgcgggtctg
+    10201 aacatcgtga ccgaaacgac cgatcgcgaa ctgaccaccg ttatgtctaa cagcttcggc
+    10261 ttcggcggca ccaacgccac gctggtaatg cgcaagctga aagattaagt gccatctgtg
+    10321 cagacaaacg catcaggatt taaattgttt aaagattacg gatatttaac ttacttagaa
+    10381 taatgccatt tttttgagtt ataataatcc tacgttagtg tgagcgggat ttaaactgtg
+    10441 aggaccttaa tacattcaga cacttctgcg gtatcaccct acttattccc ttcgagatta
+    10501 tatctaggaa cccatcaggt tggtggaaga ttacccgttc taagactttt cagcttcctc
+    10561 tattgatgtt acacctggac accccttttc tggcatccag tttttaatct tcagtggcat
+    10621 gtgagattct ccgaaattaa ttaaagcaat cacacaattc tctcggatac cacctcggtt
+    10681 gaaactgaca ggtggtttgt tacgcatgct aatgcaaagg agcctatata cctttggctc
+    10741 ggctgctgta acagggaata taaagggcag cataatttag gagtttagtg aacttgcaac
+    10801 atttactatt ttcccttctt acgtaaatat ttttcttttt aattctaaat caatcttttt
+    10861 caattttttg tttgtattct tttcttgctt aaatctataa ctacaaaaaa cacatacata
+    10921 aactaaaatt aattagtcga ggaacgccag gttgcccact ttctcactag tgacctgcag
+    10981 ccgacaaatg gtagataaac gcgaatccta tacaaaagaa gaccttcttg cctctggtcg
+    11041 cggtgaactg tttggcgcta aaggcccgca attgccagca ccgaacatgc tgatgatgga
+    11101 ccgtgtggtc aaaatgaccg aaacgggtgg taacttcgac aaagggtatg ttgaagcaga
+    11161 actggatatc aatccggatc tgtggttctt cggatgccac tttattggcg atccggttat
+    11221 gccgggatgc ctgggcctgg acgcaatgtg gcagctggta gggttctacc tcggctggct
+    11281 gggcggcgaa ggtaaaggcc gcgcgctggg cgttggcgaa gtgaaattca ctggtcaggt
+    11341 actgccgaca gcgaaaaaag tgacctaccg tattcacttt aaacgcattg ttaaccgtcg
+    11401 tctgattatg ggcctggcgg atggcgaagt gctggttgat ggtcgtctga tctataccgc
+    11461 cagcgacctg aaagtcggtc tgttccagga tacgtctgcc ttctgagtgc catctgtgca
+    11521 gacaaacgca tcaggattta aatagatact aaaaagaaac cttcccgatg gtttttttgg
+    11581 agactcttcg attgtatcaa tactatccca tggacatcag ttttaataga ggagctccaa
+    11641 attcccaagg aattgaggaa gaagcgccaa tgatttatat atacaaacta gctgttgcag
+    11701 ctttatagag atttagtaat aagaatttta tgggaacgtg gtaccgttat cgcagtaaag
+    11761 agtcaagggt agcgaagatc aaaccatacg atgacgaaat acctttagtt cttagcatca
+    11821 ccaatcgcag acatccaacg tatccgtgcg cgtaatcctt ctcttggtag ttgagcacag
+    11881 catacagaag aagccgcgcg caagcggtaa atgtctttcc tccggccttc taaccaccaa
+    11941 aaccgatctc ggaacatggg ggggggaagg tcctctgaat cgaaaaaccc gagacagcga
+    12001 gagggatttt gcagaaaatt acaaagatca ctatttactg ctcccctcac ttccgcagtc
+    12061 ccctaatagc ggaagatgca atgggtgtgg gctctgggtg ccctttaacc acgccctcaa
+    12121 aagggggtcc tggttatttt gcgatgggcg cctctataaa tacaaaagag gaagtgagtg
+    12181 tttttgtttt ggaagaggga aaggaaaaaa agaagaaaat ttactatcgg ttgttgtttt
+    12241 tcgccagtat aatacaattg attatacatt ttgaactaaa cagcacagca caatacaaca
+    12301 ttaattagtc gaggaacgcc aggttgccca ctttctcact agtgacctgc agccgacaaa
+    12361 tgactactaa cactcatact ctgcagattg aagagatttt agaacttctg ccgcaccgtt
+    12421 tcccgttctt actggtggat cgcgtgctgg attttgaaga aggtcgtttt ctgcgcgcag
+    12481 taaaaaatgt ctctgtcaat gagccattct tccagggcca tttccctgga aaaccgattt
+    12541 tcccgggtgt gctgattctg gaagcaatgg cacaggcaac aggtattctg gcgtttaaaa
+    12601 gcgtaggaaa actggaaccg ggtgagctgt actacttcgc tggtattgac gaagcgcgct
+    12661 tcaagcgccc ggtcgtgcct ggcgatcaaa tgatcatgga agtcactttc gaaaaaacgc
+    12721 gccgcggcct gacccgtttt aaaggggttg ctctggtcga tggtaaagta gtttgcgaag
+    12781 caacgatgat gtgtgctcgt agccgggagg cctgagtgcc atctgtgcag acaaacgcat
+    12841 caggatttaa atacgcggcg ttatgtcact aacgacgtgc accaacttgc ggaaagtgga
+    12901 atcccgttcc aaaactggca tccactaatt gatacatcta cacaccgcac gccttttttc
+    12961 tgaagcccac tttcgtggac tttgccatat gcaaaattca tgaagtgtga taccaagtca
+    13021 gcatacacct cactagggta gtttctttgg ttgtattgat catttggttc atcgtggttc
+    13081 attaattttt tttctccatt gctttctggc tttgatctta ctatcatttg gatttttgtc
+    13141 gaaggttgta gaattgtatg tgacaagtgg caccaagcat atataaaaaa aaaaagcatt
+    13201 atcttcctac cagagttgat tgttaaaaac gtatttatag caaacgcaat tgtaattaat
+    13261 tcttattttg tatcttttct tcccttgtct caatctttta tttttatttt atttttcttt
+    13321 tcttagtttc tttcataaca ccaagcaact aatactataa catacaataa taattaatta
+    13381 gtcgaggaac gccaggttgc ccactttctc actagtgacc tgcagccgac aatgatggcg
+    13441 gctacagcag cttcaagctt acaaattgct acacgaaggc cgagcatgtc ttcgcctagc
+    13501 aaaattctta aagcaggaac ctacattgtt ggtgccaatc ctggaaacgc ttcatgggat
+    13561 aaactttcat gcactcgcca attatcaaac cttggatgtt tgagaaacca cagtgctgtt
+    13621 ccaacttgta agagaccctt ttctttttcc acaagggcaa tgtctgaatc cagtgaaaac
+    13681 aaggctcctt cagggcttcc aattgatttg agagggaaaa gagctttcat tgctggtata
+    13741 gctgatgata atggctatgg ttgggccata gcaaaatctc ttgctgctgc tggagctgaa
+    13801 atattggttg ggacttgggt tcctgcactt aatatatttg agacaagctt gagacgtgga
+    13861 aaattcgacc agtcacgagt gttgcctgac gggtcattga tggagattaa gaaggtttat
+    13921 gctttggatg ctgtgtttga caatcctgaa gatgtgcctg aagatgtgaa aacgaataag
+    13981 cgatatgcag gatcgtcaaa ctggaccgta caggaagctg ctgaatgtgt gaaaaaagat
+    14041 tttggaagca ttgacattct tgtccattcc cttgcaaatg gcccagaggt tagcaaacct
+    14101 cttctggaga catcaaggaa aggctatctc gctgctatct ctgcttcgag ttactccttt
+    14161 gtttccttgc tgaggcattt tctgccaatt atgaacccag gaggtgcttc aatatctctt
+    14221 acttacattg cctctgaaag aatcattcct gggtatggtg gaggtatgag ttctgccaaa
+    14281 gctgcactag agagtgacac acgggtgctt gcatatgaag ctggaaggaa atcaaacatt
+    14341 agggtcaaca ccatctctgc gggtcctttg ggaagccgag cagcaaaagc cattgggttc
+    14401 atagacacca tgattgagta ttcctacaat aatgggccta ttcagaaaac actgaccgca
+    14461 gatgaagttg ggaatgcagc agccttcttg gcatctccat tggcctctgc cataaccggt
+    14521 gcaaccatat atgtggacaa tggtttgaat gcaatgggcg ttgcactgga cagcccggtg
+    14581 ttcaaagacc ttaacagcaa gaattaggtg ccatctgtgc agacaaacgc atcaggattt
+    14641 aaatttgtaa atacaaagtc attcaatgta cataaatact gttatgcttt tgaattaagt
+    14701 aaaacaccat gacttcatat tgagatgttt taagcatata atcacggcac cgaacttctt
+    14761 gtaatcatca aatctttgtt ttctagccgt catagaaatg aagaaatgaa gattcttgtt
+    14821 catgtgatac agcttttcta gacagctaac ttgtacatcc agacatccta aaacacccat
+    14881 aaagcaaaaa aaattattga aatattctct tttttttctt tttttttttt ctggtggctt
+    14941 tcaatgcgga atcgctcaca tccgaaaatt tcagaggctt cacttagcgt cgcagatccc
+    15001 agtagtcgcc agatgctttg aaaaaaaaaa aaataaatag aaaagtttgt agacatatcc
+    15061 gatgtagtat atttcagagg ccaaccttta cttttgtttt ctcctacact tcaaaataaa
+    15121 agacaccgtc acaaatctca gcaacattaa ttagtcgagg aacgccaggt tgcccacttt
+    15181 ctcactagtg acctgcagcc ggaaatgtgt tctcagacga agaagacagg tttggttcct
+    15241 ttgcgtgctg ttgtatctgc tgatcaagga agtgtggttc aaggtttggc tactctcgcg
+    15301 gatcagctcc gattaggtag tttgactgaa gatggtttat cttataaaga gaagtttgtt
+    15361 gttagatctt acgaagtggg tagtaacaaa accgctactg ttgaaaccat tgctaatctt
+    15421 ttacaggagg tgggatgtaa tcatgcacaa agtgttggtt tttcgactga tgggtttgca
+    15481 acaacaacta ctatgaggaa gttgcatctc atttgggtta ctgcgagaat gcatatcgag
+    15541 atctataagt accctgcttg gggtgatgtg gttgagatag agacttggtg tcagagtgaa
+    15601 ggaaggattg ggacaaggcg tgattggatt cttaaggatt ctgtcactgg tgaagtcact
+    15661 ggccgtgcta caagcaagtg ggtgatgatg aaccaagaca cgagacggct tcagaaagtt
+    15721 tctgatgatg ttcgggacga gtacttggtc ttctgtcctc aagaaccgag gttagcattt
+    15781 ccggaagaga ataacagaag cttgaagaaa atcccgaaac tcgaagatcc ggctcagtat
+    15841 tcaatgattg ggcttaagcc tagacgagct gatctcgaca tgaaccagca tgtcaataat
+    15901 gtcacctata ttggatgggt tctcgagagc ataccacaag aaattgtaga cacgcacgag
+    15961 cttcaggtca taactctgga ttatagaaga gaatgtcaac aagacgatgt ggtggattca
+    16021 ctcaccacca ccacctctga aattggtgga accaatggct ctgccacgtc tggcacacag
+    16081 ggccacaacg atagccagtt cttgcacctc ctgaggttgt ctggagatgg tcaggagatc
+    16141 aaccgcggga caactctgtg gagaaagaag ccttcaagtt aaccatctgt gcagacaaac
+    16201 gcatcaggat ttaaatctac ataagtgcaa ttaaagcatc ggtacaccat gtaacaccag
+    16261 tacatttatt catgaaacat taaatttttc tgcgtcgggc cgagagatta ttttcatgat
+    16321 acttcggcct agctatgctc ctacgcccgc caatgcagaa caaatcctgc ccgggaaaac
+    16381 taccccgatg ctagacttct ccctctgtat ccatgcccgg caacagagac ccttggctaa
+    16441 gcccgatgcg caatagtacc tgtagtgcac tccccgagct tatgcctgag aatatgctat
+    16501 tgcaatgggt caatgtaggt actgcaggga aattcaatct tgggctgctg tgtaataata
+    16561 attaaattag caatttagta atcacactgt ataattgcac gctatcgtta tacatattat
+    16621 ttctctttga aaacggaagg tgaagaacaa atcgagaaat taattagtcg aggaacgcca
+    16681 ggttgcccac tttctcacta gtgacctgca gccggaaatg gctcaggctc cacctaagat
+    16741 taatgggaaa aaggttggtt tgcctggttc tgtagatatt gtaaggactg ataccgagac
+    16801 ctcatcacac cctgcgccga gaactttcat caaccagtta cctgactgga gcatgcttct
+    16861 tgctgctata actacgattt tcttagcggc tgagaaacag tggatgatgc ttgattggaa
+    16921 acctaggcgt tctgacatgc tggtggatcc ttttggtata gggagaattg ttcaggatgg
+    16981 ccttgtgttc cgtcagaatt tttctattag gtcatatgaa ataggtgctg atcgctctgc
+    17041 atctatagaa accgtcatga atcatctgca ggaaacggcg cttaatcatg ttaagactgc
+    17101 tggattgctt ggagatgggt ttggctctac acctgagatg tttaagaaga acttgatatg
+    17161 ggttgtcact cgtatgcagg ttgtggttga taaatatcct acttggggag atgttgttga
+    17221 agtagacacc tgggtcagtc agtctggaaa gaatggtatg cgtcgtgatt ggctagttcg
+    17281 ggactgtaat actggagaaa ccttaacacg agcatcaagt gtgtgggtga tgatgaataa
+    17341 actgacaagg agattgtcaa agattcctga agaggttcga ggggaaatag agccttattt
+    17401 tgtgaattct gatcctgtcc ttgccgagga cagcagaaag ttaacaaaaa ttgatgacaa
+    17461 gactgctgac tatgttcgat ctggtctcac tcctcgatgg agtgacctag atgttaacca
+    17521 gcatgtgaat aatgtaaagt acattgggtg gatcctggag agtgctccag tgggaataat
+    17581 ggagaggcag aagctgaaaa gcatgactct ggagtatcgg agggaatgcg ggagagacag
+    17641 tgtgcttcag tccctcactg cagttacggg ttgcgatatc ggtaacctgg caacagcggg
+    17701 ggatgtggaa tgtcagcatt tgctccgact ccaggatgga gcggaagtgg tgagaggaag
+    17761 aacagagtgg agtagtaaaa caccaacaac aacttgggga actgcaccgt aaccatctgt
+    17821 gcagacaaac gcatcaggat ttaaatacag aagagagtgt gcgcaatatt ttagttctta
+    17881 aatatgacat agattatcaa aaaactttgt atgtttgcca gatttcagtg aatctgcaag
+    17941 agtataaatt ataggaattt gggtgaatta aaccatttat tatgttttat gtatcatgga
+    18001 aaaaacagaa cctttatcaa atcatctatg aaattttgac aggttagcca ttttcctcat
+    18061 tttattgctc tgcaatagta aattatatag atttatgcaa tgctctaggt tccggcggct
+    18121 tttcatttaa tgtgaactca agactattat catccaaaca cattacaaca tccgtacatt
+    18181 tagttggctc cattttttga aaaaatactt ccgagtaaga tgctgaaagt aatcaaattc
+    18241 cgtgaaaaag gaaccgattt ggtaagggcg gacctgccgg aagaaaatcg ctcccgcgtg
+    18301 tctactggac tttgcttctt tgccaggcgg gagaatgaag cccaccggcc tagctctatg
+    18361 ggcgcagaca gggatggtct cgatttgctt tctcactgca atggaaattt ctaacattag
+    18421 agcttcaacg gctagcataa aacaactact aacgttttca gtgctatatt cgaaagagca
+    18481 aacaaagagt cctcaagaac tactaataga ttaaattaat tagtcgagga acgccaggtt
+    18541 gcccactttc tcactagtga cctgcagccg acaaatgaat tttttagctc acctgcattt
+    18601 agcccatctc gcggaaagct cgctttccgg caatttactg gctgatttcg tacgcggaaa
+    18661 tcctgaagaa agttttccgc ccgacgtcgt ggctggcatt catatgcatc gacgtatcga
+    18721 cgtattgact gacaatctgc cggaagtccg cgaagcacgg gagtggtttc gtagtgaaac
+    18781 gcgccgcgtt gcgcctatta cgctggatgt catgtgggat cactttcttt cccgccactg
+    18841 gtcgcagctg tcgccggact ttccgctaca ggaatttgtc tgttatgccc gcgagcaagt
+    18901 gatgacgatt ttgccggact caccgccacg ttttatcaat ctgaacaatt acttgtggtc
+    18961 agagcagtgg ctggtgcgct atcgcgatat ggatttcatc cagaacgtgt taaacggcat
+    19021 ggcaagccgc cgcccacgtc tggatgccct gcgtgactcc tggtacgatt tagacgctca
+    19081 ttatgacgcc ctcgaaaccc gcttctggca gttttatccg cggatgatgg cgcaggcgtc
+    19141 acgcaaggcg ttataagtgc catctgtgca gacaaacgca tcaggattta aatgacaaga
+    19201 aacaaggtga atcactaaga ctaaagaaat gaatgagaaa tggctaagct gcagccagtc
+    19261 atatgagctg ctttcctttc attctattgt cgtccgaatc tatgtcacga agtacatata
+    19321 taactgtctt tcatatataa tatttaatca ccgtgcattc cctattttac tcttcctcat
+    19381 gcgtttgatc atctgacctt tatgattttg aacaccccgc aatgttcact ctaatttatg
+    19441 caactgaact ttattttcgc tgctgtgttt gcatccttga catattcaat ccgtacacta
+    19501 tacacaccca aacctccttt aaaaatttcc tatgaatcag aaaatttggc tgtttctcaa
+    19561 cgcttcggcc aacgggtgaa aaacagcggc agaaggactt ccttcggaga acgctcctag
+    19621 aacctgaaac tgcccgctaa agcgtctcct gggctgtccc caagtgggtg attttccatt
+    19681 tgatccttgt atcagcttgg gagggtggtg atctcttctt aggcagacac ttggtccctc
+    19741 cggctaaaca ttcgcactgc ggaccgctgc aatttcgaat tctggaaaat tattctgata
+    19801 ttggtaaaac tgattcttaa aactataaca catgtagata ttccactaag tgcattttgt
+    19861 taaggtatta aacaaccaac caaccataaa agttaattag tcgaggaacg ccaggttgcc
+    19921 cactttctca ctagtgacct gcagccgaca aatggcaata ttaggtttag gcacggatat
+    19981 tgtggagatc gctcgcatcg aagcggtgat cgcccgatcc ggtgatcgcc tggcacgccg
+    20041 cgtattaagc gataacgaat gggctatctg gaaaacgcac caccagccgg tgcgttttct
+    20101 ggcgaagcgt tttgctgtga aagaagccgc agcaaaagcg tttggcaccg ggatccgcaa
+    20161 tggtctggcg tttaatcaat ttgaagtatt caatgatgag ctcggcaaac cacggctacg
+    20221 gctatggggc gaggcattaa aactggcgga aaagctgggc gttgcaaata tgcatgtaac
+    20281 gctggcagat gagcggcact atgcttgtgc cacggtaatt attgaaagtt aagtgccatc
+    20341 tgtgcagaca aacgcatcag gatttaaata agaaaatcga aacaaataat agatttgtgt
+    20401 ctgttcaatg tgtatatcga tgagctcagt gaacacattt tcacatcacg tttctttttt
+    20461 ttcttttttc cgctaagaaa aattttccag aatttttcag aggcaaaaca aaactcatcg
+    20521 atttcgcacg catttctcgt agaattgata tttttttatt tttttattgg tttttttttt
+    20581 ttttttcact tttttttctt cctttcatga tatttataag gagaagtatt tcaattggga
+    20641 cttaaaaaaa aattttattt tggttaatgt tttcattcaa tggtttacta ctttcatttt
+    20701 agctttttaa caattttctt tctggggtct cagttgcggt tagcagatta acacagaaca
+    20761 tactatagac aaatttaatt aatccggatt tacctgaatc aattggcgaa attttttgta
+    20821 cgaaatttca gccacttcac aggcggtttt cgcacgtacc catgcgctac gttcctggcc
+    20881 ctcttcaaac aggcccagtt cgccaataaa atcaccctga ttcagatagg agaggatcat
+    20941 ttctttaccc tcttcgtctt tgatcagcac tgccacagag cctttaacga tgtagtacag
+    21001 cgtttccgct ttttcaccct ggtgaataag cgtgctcttg gatgggtact tatgaatgtg
+    21061 gcaatgagac aagaaccatt cgagagtagg atccgtttga ggtttaccaa gtaccataag
+    21121 atccttaaat ttttattatc tagctagatg ataatattat atcaagaatt gtacctgaaa
+    21181 gcaaataaat tttttatctg gcttaactat gcggcatcag agcagattgt actgagagtg
+    21241 caccatatgc ggtgtgaaat accgcacaga tgcgtaagga gaaaataccg catcaggcgc
+    21301 tcttccgctt cctcgctcac tgactcgctg cgctcggtcg ttcggctgcg gcgagcggta
+    21361 tcagctcact caaaggcggt aatacggtta tccacagaat caggggataa cgcaggaaag
+    21421 aacatgtgag caaaaggcca gcaaaaggcc aggaaccgta aaaaggccgc gttgctggcg
+    21481 tttttccata ggctccgccc ccctgacgag catcacaaaa atcgacgctc aagtcagagg
+    21541 tggcgaaacc cgacaggact ataaagatac caggcgtttc cccctggaag ctccctcgtg
+    21601 cgctctcctg ttccgaccct gccgcttacc ggatacctgt ccgcctttct cccttcggga
+    21661 agcgtggcgc tttctcatag ctcacgctgt aggtatctca gttcggtgta ggtcgttcgc
+    21721 tccaagctgg gctgtgtgca cgaacccccc gttcagcccg accgctgcgc cttatccggt
+    21781 aactatcgtc ttgagtccaa cccggtaaga cacgacttat cgccactggc agcagccact
+    21841 ggtaacagga ttagcagagc gaggtatgta ggcggtgcta cagagttctt gaagtggtgg
+    21901 cctaactacg gctacactag aaggacagta tttggtatct gcgctctgct gaagccagtt
+    21961 accttcggaa aaagagttgg tagctcttga tccggcaaac aaaccaccgc tggtagcggt
+    22021 ggtttttttg tttgcaagca gcagattacg cgcagaaaaa aaggatctca agaagatcct
+    22081 ttgatctttt ctacggggtc tgacgctcag tggaacgaaa actcacgtta agggattttg
+    22141 gtcatgaggg gtaataactg atataattaa attgaagctc taatttgtga gtttagtata
+    22201 catgcattta cttataatac agttttttag ttttgctggc cgcatcttct caaatatgct
+    22261 tcccagcctg cttttctgta acgttcaccc tctaccttag catcccttcc ctttgcaaat
+    22321 agtcctcttc caacaataat aatgtcagat cctgtagaga ccacatcatc cacggttcta
+    22381 tactgttgac ccaatgcgtc tcccttgtca tctaaaccca caccgggtgt cataatcaac
+    22441 caatcgtaac cttcatctct tccacccatg tctctttgag caataaagcc gataacaaaa
+    22501 tctttgtcgc tcttcgcaat gtcaacagta cccttagtat attctccagt agatagggag
+    22561 cccttgcatg acaattctgc taacatcaaa aggcctctag gttcctttgt tacttcttct
+    22621 gccgcctgct tcaaaccgct aacaatacct gggcccacca caccgtgtgc attcgtaatg
+    22681 tctgcccatt ctgctattct gtatacaccc gcagagtact gcaatttgac tgtattacca
+    22741 atgtcagcaa attttctgtc ttcgaagagt aaaaaattgt acttggcgga taatgccttt
+    22801 agcggcttaa ctgtgccctc catggaaaaa tcagtcaaaa tatccacatg tgtttttagt
+    22861 aaacaaattt tgggacctaa tgcttcaact aactccagta attccttggt ggtacgaaca
+    22921 tccaatgaag cacacaagtt tgtttgcttt tcgtgcatga tattaaatag cttggcagca
+    22981 acaggactag gatgagtagc agcacgttcc ttatatgtag ctttcgacat gatttatctt
+    23041 cgtttcctgc aggtttttgt tctgtgcagt tgggttaaga atactgggca atttcatgtt
+    23101 tcttcaacac tacatatgcg tatatatacc aatctaagtc tgtgctcctt ccttcgttct
+    23161 tccttctgtt cggagattac cgaatcaaaa aaatttcaaa gaaaccgaaa tcaaaaaaaa
+    23221 gaataaaaaa aaaatgatga attgaattga aaagctagct tatcgatgat aagctgtcaa
+    23281 agatgagaat taattccacg gactatagac tatactagat actccgtcta ctgtacgata
+    23341 cacttccgct caggtccttg tcctttaacg aggccttacc actcttttgt tactctattg
+    23401 atccagctca gcaaaggcag tgtgatctaa gattctatct tcgcgatgta gtaaaactag
+    23461 ctagaccgag aaagagacta gaaatgcaaa aggcacttct acaatggctg ccatcattat
+    23521 tatccgatgt gacgctgcag cttctcaatg atattcgaat acgctttgag gagatacagc
+    23581 ctaatatccg acaaactgtt ttacagattt acgatcgtac ttgttaccca tcattgaatt
+    23641 ttgaacatcc gaacctggga gttttccctg aaacagatag tatatttgaa cctgtataat
+    23701 aatatatagt ctagcgcttt acggaagaca atgtatgtat ttcggttcct ggagaaacta
+    23761 ttgcatctat tgcataggta atcttgcacg tcgcatcccc ggttcatttt ctgcgtttcc
+    23821 atcttgcact tcaatagcat atctttgtta acgaagcatc tgtgcttcat tttgtagaac
+    23881 aaaaatgcaa cgcgagagcg ctaatttttc aaacaaagaa tctgagctgc atttttacag
+    23941 aacagaaatg caacgcgaaa gcgctatttt accaacgaag aatctgtgct tcatttttgt
+    24001 aaaacaaaaa tgcaacgcga cgagagcgct aatttttcaa acaaagaatc tgagctgcat
+    24061 ttttacagaa cagaaatgca acgcgagagc gctattttac caacaaagaa tctatacttc
+    24121 ttttttgttc tacaaaaatg catcccgaga gcgctatttt tctaacaaag catcttagat
+    24181 tacttttttt ctcctttgtg cgctctataa tgcagtctct tgataacttt ttgcactgta
+    24241 ggtccgttaa ggttagaaga aggctacttt ggtgtctatt ttctcttcca taaaaaaagc
+    24301 ctgactccac ttcccgcgtt tactgattac tagcgaagct gcgggtgcat tttttcaaga
+    24361 taaaggcatc cccgattata ttctataccg atgtggattg cgcatacttt gtgaacagaa
+    24421 agtgatagcg ttgatgattc ttcattggtc agaaaattat gaacggtttc ttctattttg
+    24481 tctctatata ctacgtatag gaaatgttta cattttcgta ttgttttcga ttcactctat
+    24541 gaatagttct tactacaatt tttttgtcta aagagtaata ctagagataa acataaaaaa
+    24601 tgtagaggtc gagtttagat gcaagttcaa ggagcgaaag gtggatgggt aggttatata
+    24661 gggatatagc acagagatat atagcaaaga gatacttttg agcaatgttt gtggaagcgg
+    24721 tattcgcaat gggaagctcc accccggttg ataatcagaa aagccccaaa aacaggaaga
+    24781 ttattatcaa aaaggatctt cacctagatc cttttaaatt aaaaatgaag ttttaaatca
+    24841 atctaaagta tatatgagta aacttggtct gacagttacc aatgcttaat cagtgaggca
+    24901 cctatctcag cgatctgtct atttcgttca tccatagttg cctgactccc cgtcgtgtag
+    24961 ataactacga tacgggagcg cttaccatct ggccccagtg ctgcaatgat accgcgagac
+    25021 ccacgctcac cggctccaga tttatcagca ataaaccagc cagccggaag ggccgagcgc
+    25081 agaagtggtc ctgcaacttt atccgcctcc atccagtcta ttaattgttg ccgggaagct
+    25141 agagtaagta gttcgccagt taatagtttg cgcaacgttg ttggcattgc tacaggcatc
+    25201 gtggtgtcac tctcgtcgtt tggtatggct tcattcagct ccggttccca acgatcaagg
+    25261 cgagttacat gatcccccat gttgtgcaaa aaagcggtta gctccttcgg tcctccgatc
+    25321 gttgtcagaa gtaagttggc cgcagtgtta tcactcatgg ttatggcagc actgcataat
+    25381 tctcttactg tcatgccatc cgtaagatgc ttttctgtga ctggtgagta ctcaaccaag
+    25441 tcattctgag aatagtgtat gcggcgaccg agttgctctt gcccggcgtc aatacgggat
+    25501 aatagtgtat cacatagcag aactttaaaa gtgctcatca ttggaaaacg ttcttcgggg
+    25561 cgaaaactct caaggatctt accgctgttg agatccagtt cgatgtaacc cactcgtgca
+    25621 cccaactgat cttcagcatc ttttactttc accagcgttt ctgggtgagc aaaaacagga
+    25681 aggcaaaatg ccgcaaaaaa gggaataagg gcgacacgga aatgttgaat actcatactc
+    25741 ttcctttttc aatattattg aagcatttat cagggttatt gtctcatgag cggatacata
+    25801 tttgaatgta tttagaaaaa taaacaaata ggggttccgc gcacatttcc ccgaaaagtg
+    25861 ccacctgcta agaaaccatt attatcatga cattaaccta taaaaatagg cgtatcacga
+    25921 ggccctttcg tc
+//

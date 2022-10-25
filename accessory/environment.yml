@@ -3,6 +3,7 @@ channels:
 - conda-forge
 - defaults
 - BjornFJohansson
+- bioconda
 dependencies:
 - python=3.8
 - pydna
@@ -12,3 +13,4 @@ dependencies:
 - nbval
 - ipycache
 - joblib
+- dna_features_viewer

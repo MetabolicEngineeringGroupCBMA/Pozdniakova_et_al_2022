@@ -1,0 +1,32 @@
+>f1173 NM_126612.3
+actttctcactagtgacctgcagccgacAATGATGGCGGCTACAGC
+>r1173 NM_126612.3
+atcctgatgcgtttgtctgcacagatggCACCTAATTCTTGCTGTTAAGGTCTTT
+>f1173 NM_126612.3
+actttctcactagtgacctgcagccgacAATGATGGCGGCTACAG
+>r1173 NM_126612.3
+atcctgatgcgtttgtctgcacagatggCACCTAATTCTTGCTGTTAAGGT
+>f1173 NM_126612.3
+actttctcactagtgacctgcagccgacAATGATGGCGGCTACAG
+>r1173 NM_126612.3
+atcctgatgcgtttgtctgcacagatggCACCTAATTCTTGCTGTTAAGGT
+>f1173 NM_126612.3
+actttctcactagtgacctgcagccgacAATGATGGCGGCTACAG
+>r1173 NM_126612.3
+atcctgatgcgtttgtctgcacagatggCACCTAATTCTTGCTGTTAAGGT
+>f1173 NM_126612.3
+actttctcactagtgacctgcagccgacAATGATGGCGGCTACAG
+>r1173 NM_126612.3
+atcctgatgcgtttgtctgcacagatggCACCTAATTCTTGCTGTTAAGGT
+>f1173 NM_126612.3
+actttctcactagtgacctgcagccgacAATGATGGCGGCTACAG
+>r1173 NM_126612.3
+atcctgatgcgtttgtctgcacagatggCACCTAATTCTTGCTGTTAAGGT
+>f1173 NM_126612.3
+actttctcactagtgacctgcagccgacAATGATGGCGGCTACAG
+>r1173 NM_126612.3
+atcctgatgcgtttgtctgcacagatggCACCTAATTCTTGCTGTTAAGGT
+>f1173 NM_126612.3
+actttctcactagtgacctgcagccgacAATGATGGCGGCTACAG
+>r1173 NM_126612.3
+atcctgatgcgtttgtctgcacagatggCACCTAATTCTTGCTGTTAAGGT

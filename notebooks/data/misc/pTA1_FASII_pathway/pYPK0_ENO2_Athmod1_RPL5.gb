@@ -1,0 +1,371 @@
+LOCUS       pYPK0_tp_g_tp           7988 bp    DNA     circular UNK 01-JAN-1980
+DEFINITION  pYPK0_ENO2_Athmod1_RPL5
+            cSEGUID_2YY1POINb65gAwfjyhndL2ipGSw_2019-09-25T05:55:22.123418.
+ACCESSION   id
+VERSION     id
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     primer_bind     363..391
+                     /label="577"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(458..486)
+                     /note="865_pYPKpwR"
+                     /ApEinfo_revcolor="red"
+                     /ApEinfo_fwdcolor="green"
+     source          537..1056
+                     /organism="Saccharomyces cerevisiae S288C"
+                     /mol_type="genomic DNA"
+                     /strain="S288C"
+                     /db_xref="taxon:559292"
+                     /chromosome="VIII"
+     primer_bind     537..553
+                     /label="411_ScENO2tpf"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     gene            complement(545..883)
+                     /locus_tag="YHR173C"
+     mRNA            complement(545..883)
+                     /locus_tag="YHR173C"
+                     /product="hypothetical protein"
+     CDS             complement(545..883)
+                     /locus_tag="YHR173C"
+                     /note="hypothetical protein; expressed at both mRNA and
+                     protein levels; SWAT-GFP and mCherry fusion proteins
+                     localize to the vacuole; GO_component: GO:0000324 -
+                     fungal-type vacuole [Evidence IDA] [PMID 26928762];
+                     GO_function: GO:0003674 - molecular_function [Evidence ND];
+                     GO_process: GO:0008150 - biological_process [Evidence ND]"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="DAA35091.1"
+                     /db_xref="SGD:S000001216"
+                     /translation="MLFFFIYAWCHLSHTILQPSTKIQMIVRSKPESNGEKKLMNHDEP
+                     NDQYNQRNYPSEVYADLVSHFMNFAYGKVHESGLQKKGVRCVDVSISGCQFWNGIPLSA
+                     SWCTSLVT"
+     primer_bind     complement(1026..1056)
+                     /label="660_ScENO2tpr_PacI"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     1065..1089
+                     /label="468"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(1092..1112)
+                     /note="567_pCAPsAjiIF"
+                     /ApEinfo_fwdcolor="green"
+                     /ApEinfo_revcolor="red"
+     misc            complement(1092..1114)
+                     /label="567_pCAPsAjiIF"
+     primer_bind     complement(1092..1114)
+                     /label="567"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     source          1119..2291
+                     /organism="Arabidopsis thaliana"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:3702"
+                     /chromosome="2"
+                     /ecotype="Columbia"
+     gene            1119..2291
+                     /gene="MOD1"
+                     /locus_tag="AT2G05990"
+                     /gene_synonym="ENOYL-ACP REDUCTASE; ENOYL-ACP REDUCTASE 1;
+                     ENR1; MOSAIC DEATH 1; T6P5.19; T6P5_19"
+                     /note="Encodes enoyl-ACP reductase a component of the fatty
+                     acid synthase complex. A reduced function mutation in this
+                     gene, mod1, was found in a screen for premature cell death
+                     mutants. Mutant plants have reduced lipid level and
+                     pleiotropic morphological defects, including chlorotic and
+                     abnormally shaped leaves."
+                     /db_xref="Araport:AT2G05990"
+                     /db_xref="GeneID:815152"
+                     /db_xref="TAIR:AT2G05990"
+     CDS             1119..2291
+                     /gene="MOD1"
+                     /locus_tag="AT2G05990"
+                     /gene_synonym="ENOYL-ACP REDUCTASE; ENOYL-ACP REDUCTASE 1;
+                     ENR1; MOSAIC DEATH 1; T6P5.19; T6P5_19"
+                     /inference="Similar to RNA sequence,
+                     EST:INSD:EH880971.1,INSD:DR239538.1,INSD:DR239539.1,
+                     INSD:BP591342.1,INSD:DR234302.1,INSD:ES159416.1,
+                     INSD:ES114323.1,INSD:EL162899.1,INSD:BP596685.1,
+                     INSD:DR239528.1,INSD:DR239526.1,INSD:ES176406.1,
+                     INSD:BP602060.1,INSD:AV808373.1,INSD:ES135317.1,
+                     INSD:ES121111.1,INSD:DR239515.1,INSD:DR234313.1,
+                     INSD:ES085203.1,INSD:BP595304.1,INSD:EL072241.1,
+                     INSD:EL132221.1,INSD:AV441148.1,INSD:EL045368.1,
+                     INSD:ES054130.1,INSD:EL001784.1,INSD:BP602003.1,
+                     INSD:EH854607.1,INSD:DR234306.1,INSD:ES117850.1,
+                     INSD:EL157868.1,INSD:EH798096.1,INSD:DR239527.1,
+                     INSD:ES059360.1,INSD:AA598134.1,INSD:DR239536.1,
+                     INSD:DR239532.1,INSD:DR239535.1,INSD:EL227808.1,
+                     INSD:AV440053.1,INSD:DR239541.1,INSD:DR239537.1,
+                     INSD:DR239518.1,INSD:ES093122.1,INSD:ES168164.1,
+                     INSD:BP619670.1,INSD:BP817709.1,INSD:DR239531.1,
+                     INSD:CB264246.1,INSD:ES201752.1,INSD:EL232326.1,
+                     INSD:DR239522.1,INSD:AV536747.1,INSD:DR239523.1,
+                     INSD:EL094441.1,INSD:EL990831.1,INSD:EL162658.1,
+                     INSD:ES039758.1,INSD:DR239534.1,INSD:EL071522.1,
+                     INSD:DR239542.1,INSD:AA605458.1,INSD:AV536208.1,
+                     INSD:AV791027.1,INSD:DR239517.1,INSD:DR234303.1,
+                     INSD:BP671808.1,INSD:BP585566.1,INSD:ES112709.1,
+                     INSD:DR239525.1,INSD:BP649391.1,INSD:DR239521.1,
+                     INSD:EH941259.1,INSD:BP642673.1,INSD:EL161163.1,
+                     INSD:BP789996.1,INSD:DR239530.1,INSD:BP583226.1,
+                     INSD:DR234297.1,INSD:AV549884.1,INSD:EH818763.1,
+                     INSD:EL149698.1,INSD:CK121240.1,INSD:BP781336.1,
+                     INSD:ES081926.1,INSD:AV793210.1,INSD:EL136131.1,
+                     INSD:EL179709.1,INSD:EL272327.1,INSD:EL281790.1,
+                     INSD:AV537833.1,INSD:EL980262.1,INSD:DR375694.1,
+                     INSD:DR239533.1,INSD:EL016709.1,INSD:ES052054.1,
+                     INSD:BP598294.1,INSD:EH861740.1,INSD:EL322619.1,
+                     INSD:BP796010.1,INSD:DR239519.1,INSD:BP795936.1,
+                     INSD:ES189036.1,INSD:DR239520.1,INSD:DR239524.1,
+                     INSD:EL309513.1,INSD:BP788055.1"
+                     /inference="similar to RNA sequence, mRNA:INSD:BX819449.1"
+                     /note="MOSAIC DEATH 1 (MOD1); FUNCTIONS IN:
+                     enoyl-[acyl-carrier-protein] reductase (NADH) activity,
+                     oxidoreductase activity, enoyl-[acyl-carrier-protein]
+                     reductase activity, copper ion binding; INVOLVED IN: fatty
+                     acid biosynthetic process; LOCATED IN: fatty acid synthase
+                     complex, thylakoid, chloroplast stroma, chloroplast,
+                     chloroplast envelope; EXPRESSED IN: 24 plant structures;
+                     EXPRESSED DURING: 15 growth stages; CONTAINS InterPro
+                     DOMAIN/s: NAD(P)-binding domain (InterPro:IPR016040),
+                     Glucose/ribitol dehydrogenase (InterPro:IPR002347),
+                     Short-chain dehydrogenase/reductase SDR
+                     (InterPro:IPR002198), Enoyl-[acyl-carrier-protein]
+                     reductase (NADH) (InterPro:IPR014358); BEST Arabidopsis
+                     thaliana protein match is: NAD(P)-binding Rossmann-fold
+                     superfamily protein (TAIR:AT2G29260.1); Has 34697 Blast
+                     hits to 34681 proteins in 2732 species: Archae - 268;
+                     Bacteria - 25258; Metazoa - 667; Fungi - 643; Plants - 667;
+                     Viruses - 0; Other Eukaryotes - 7194 (source: NCBI BLink)."
+                     /codon_start=1
+                     /product="NAD(P)-binding Rossmann-fold superfamily protein"
+                     /protein_id="NP_565331.1"
+                     /db_xref="Araport:AT2G05990"
+                     /db_xref="GeneID:815152"
+                     /db_xref="TAIR:AT2G05990"
+                     /translation="MAATAASSLQIATRRPSMSSPSKILKAGTYIVGANPGNASWDKLS
+                     CTRQLSNLGCLRNHSAVPTCKRPFSFSTRAMSESSENKAPSGLPIDLRGKRAFIAGIAD
+                     DNGYGWAIAKSLAAAGAEILVGTWVPALNIFETSLRRGKFDQSRVLPDGSLMEIKKVYA
+                     LDAVFDNPEDVPEDVKTNKRYAGSSNWTVQEAAECVKKDFGSIDILVHSLANGPEVSKP
+                     LLETSRKGYLAAISASSYSFVSLLRHFLPIMNPGGASISLTYIASERIIPGYGGGMSSA
+                     KAALESDTRVLAYEAGRKSNIRVNTISAGPLGSRAAKAIGFIDTMIEYSYNNGPIQKTL
+                     TADEVGNAAAFLASPLASAITGATIYVDNGLNAMGVALDSPVFKDLNSKN"
+     primer_bind     1119..1132
+                     /label="f1173"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(2268..2291)
+                     /label="r1173"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     misc            2292..2313
+                     /label="568_pCAPsAjiIR"
+     primer_bind     2292..2313
+                     /label="568"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     2294..2313
+                     /note="568_pCAPsAjiIR"
+                     /ApEinfo_fwdcolor="green"
+                     /ApEinfo_revcolor="red"
+     primer_bind     complement(2298..2322)
+                     /label="467"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     source          2329..2830
+                     /organism="Saccharomyces cerevisiae S288C"
+                     /mol_type="genomic DNA"
+                     /strain="S288C"
+                     /db_xref="taxon:559292"
+                     /chromosome="XVI"
+     primer_bind     2329..2349
+                     /label="830_RPL5tpf"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(2814..2830)
+                     /label="829_RPL5tpr"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     2891..2920
+                     /note="866_pYPKpwF"
+                     /ApEinfo_revcolor="red"
+                     /ApEinfo_fwdcolor="green"
+     primer_bind     complement(3104..3132)
+                     /label="578"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     overlap         3505..4204
+                     /note="olp_lQPmXhrpcJP0VhkB1gXCrZVyjqA"
+                     /ApEinfo_fwdcolor="#C1F3B1"
+                     /chksum="lQPmXhrpcJP0VhkB1gXCrZVyjqA"
+                     /label="olp_lQPmXhrpcJP0VhkB1gXCrZVyjqA"
+                     /ApEinfo_revcolor="#FED2EA"
+     rep_origin      3539
+                     /ApEinfo_revcolor="red"
+                     /direction=BOTH
+                     /label="feat1"
+                     /ApEinfo_fwdcolor="cyan"
+     misc            complement(4283..5086)
+                     /ApEinfo_revcolor="red"
+                     /label="URA3"
+                     /ApEinfo_fwdcolor="cyan"
+     CDS             complement(6935..7593)
+                     /ApEinfo_revcolor="red"
+                     /label="AmpR"
+                     /ApEinfo_fwdcolor="cyan"
+     overlap         7036..7239
+                     /note="olp_KFRCKsb-YIAV0bzDHHxIssmW6qY"
+                     /ApEinfo_fwdcolor="#E0E3B5"
+                     /chksum="KFRCKsb-YIAV0bzDHHxIssmW6qY"
+                     /label="olp_KFRCKsb-YIAV0bzDHHxIssmW6qY"
+                     /ApEinfo_revcolor="#E9B4CC"
+     overlap         7567..7811
+                     /note="olp_PrH6fFQ_Xlj09X_ymVtJGXI9hx0"
+                     /ApEinfo_fwdcolor="#D3D0D8"
+                     /chksum="PrH6fFQ_Xlj09X_ymVtJGXI9hx0"
+                     /label="olp_PrH6fFQ_Xlj09X_ymVtJGXI9hx0"
+                     /ApEinfo_revcolor="#E7F7D0"
+ORIGIN
+        1 tcgcgcgttt cggtgatgac ggtgaaaacc tctgacacat gcagctcccg gagacggtca
+       61 cagcttgtct gtaagcggat gccgggagca gacaagcccg tcagggcgcg tcagcgggtg
+      121 ttggcgggtg tcggggctgg cttaactatg cggcatcaga gcagattgta ctgagagtgc
+      181 accatagatc ctgaggatcg gggtgataaa tcagtctgcg ccacatcggg ggaaacaaaa
+      241 tggcgcgaga tctaaaaaaa aaggctccaa aaggagcctt tcgcgctacc aggtaacgcg
+      301 ccactccgac gggattaacg agtgccgtaa acgacgatgg ttttaccgtg tgcggagatc
+      361 aggttctgat cctcgagcat cttaagaatt cgtcccacgg tttgtctaga gcagccgaca
+      421 atctggccaa tttcctgacg ggtaattttg atttgcatgc cgtccgggtg agtcatagcg
+      481 tctggttgtt ttgccagatt cagcagagtc tgtgcaatgc ggccgctgac ttaaatacgc
+      541 ggcgttatgt cactaacgac gtgcaccaac ttgcggaaag tggaatcccg ttccaaaact
+      601 ggcatccact aattgataca tctacacacc gcacgccttt tttctgaagc ccactttcgt
+      661 ggactttgcc atatgcaaaa ttcatgaagt gtgataccaa gtcagcatac acctcactag
+      721 ggtagtttct ttggttgtat tgatcatttg gttcatcgtg gttcattaat tttttttctc
+      781 cattgctttc tggctttgat cttactatca tttggatttt tgtcgaaggt tgtagaattg
+      841 tatgtgacaa gtggcaccaa gcatatataa aaaaaaaaag cattatcttc ctaccagagt
+      901 tgattgttaa aaacgtattt atagcaaacg caattgtaat taattcttat tttgtatctt
+      961 ttcttccctt gtctcaatct tttattttta ttttattttt cttttcttag tttctttcat
+     1021 aacaccaagc aactaatact ataacataca ataataatta attagtcgag gaacgccagg
+     1081 ttgcccactt tctcactagt gacctgcagc cgacaatgat ggcggctaca gcagcttcaa
+     1141 gcttacaaat tgctacacga aggccgagca tgtcttcgcc tagcaaaatt cttaaagcag
+     1201 gaacctacat tgttggtgcc aatcctggaa acgcttcatg ggataaactt tcatgcactc
+     1261 gccaattatc aaaccttgga tgtttgagaa accacagtgc tgttccaact tgtaagagac
+     1321 ccttttcttt ttccacaagg gcaatgtctg aatccagtga aaacaaggct ccttcagggc
+     1381 ttccaattga tttgagaggg aaaagagctt tcattgctgg tatagctgat gataatggct
+     1441 atggttgggc catagcaaaa tctcttgctg ctgctggagc tgaaatattg gttgggactt
+     1501 gggttcctgc acttaatata tttgagacaa gcttgagacg tggaaaattc gaccagtcac
+     1561 gagtgttgcc tgacgggtca ttgatggaga ttaagaaggt ttatgctttg gatgctgtgt
+     1621 ttgacaatcc tgaagatgtg cctgaagatg tgaaaacgaa taagcgatat gcaggatcgt
+     1681 caaactggac cgtacaggaa gctgctgaat gtgtgaaaaa agattttgga agcattgaca
+     1741 ttcttgtcca ttcccttgca aatggcccag aggttagcaa acctcttctg gagacatcaa
+     1801 ggaaaggcta tctcgctgct atctctgctt cgagttactc ctttgtttcc ttgctgaggc
+     1861 attttctgcc aattatgaac ccaggaggtg cttcaatatc tcttacttac attgcctctg
+     1921 aaagaatcat tcctgggtat ggtggaggta tgagttctgc caaagctgca ctagagagtg
+     1981 acacacgggt gcttgcatat gaagctggaa ggaaatcaaa cattagggtc aacaccatct
+     2041 ctgcgggtcc tttgggaagc cgagcagcaa aagccattgg gttcatagac accatgattg
+     2101 agtattccta caataatggg cctattcaga aaacactgac cgcagatgaa gttgggaatg
+     2161 cagcagcctt cttggcatct ccattggcct ctgccataac cggtgcaacc atatatgtgg
+     2221 acaatggttt gaatgcaatg ggcgttgcac tggacagccc ggtgttcaaa gaccttaaca
+     2281 gcaagaatta ggtgccatct gtgcagacaa acgcatcagg atttaaattt gtaaatacaa
+     2341 agtcattcaa tgtacataaa tactgttatg cttttgaatt aagtaaaaca ccatgacttc
+     2401 atattgagat gttttaagca tataatcacg gcaccgaact tcttgtaatc atcaaatctt
+     2461 tgttttctag ccgtcataga aatgaagaaa tgaagattct tgttcatgtg atacagcttt
+     2521 tctagacagc taacttgtac atccagacat cctaaaacac ccataaagca aaaaaaatta
+     2581 ttgaaatatt ctcttttttt tctttttttt ttttctggtg gctttcaatg cggaatcgct
+     2641 cacatccgaa aatttcagag gcttcactta gcgtcgcaga tcccagtagt cgccagatgc
+     2701 tttgaaaaaa aaaaaaataa atagaaaagt ttgtagacat atccgatgta gtatatttca
+     2761 gaggccaacc tttacttttg ttttctccta cacttcaaaa taaaagacac cgtcacaaat
+     2821 ctcagcaaca ttaattaatc cggatttacc tgaatcaatt ggcgaaattt tttgtacgaa
+     2881 atttcagcca cttcacaggc ggttttcgca cgtacccatg cgctacgttc ctggccctct
+     2941 tcaaacaggc ccagttcgcc aataaaatca ccctgattca gataggagag gatcatttct
+     3001 ttaccctctt cgtctttgat cagcactgcc acagagcctt taacgatgta gtacagcgtt
+     3061 tccgcttttt caccctggtg aataagcgtg ctcttggatg ggtacttatg aatgtggcaa
+     3121 tgagacaaga accattcgag agtaggatcc gtttgaggtt taccaagtac cataagatcc
+     3181 ttaaattttt attatctagc tagatgataa tattatatca agaattgtac ctgaaagcaa
+     3241 ataaattttt tatctggctt aactatgcgg catcagagca gattgtactg agagtgcacc
+     3301 atatgcggtg tgaaataccg cacagatgcg taaggagaaa ataccgcatc aggcgctctt
+     3361 ccgcttcctc gctcactgac tcgctgcgct cggtcgttcg gctgcggcga gcggtatcag
+     3421 ctcactcaaa ggcggtaata cggttatcca cagaatcagg ggataacgca ggaaagaaca
+     3481 tgtgagcaaa aggccagcaa aaggccagga accgtaaaaa ggccgcgttg ctggcgtttt
+     3541 tccataggct ccgcccccct gacgagcatc acaaaaatcg acgctcaagt cagaggtggc
+     3601 gaaacccgac aggactataa agataccagg cgtttccccc tggaagctcc ctcgtgcgct
+     3661 ctcctgttcc gaccctgccg cttaccggat acctgtccgc ctttctccct tcgggaagcg
+     3721 tggcgctttc tcatagctca cgctgtaggt atctcagttc ggtgtaggtc gttcgctcca
+     3781 agctgggctg tgtgcacgaa ccccccgttc agcccgaccg ctgcgcctta tccggtaact
+     3841 atcgtcttga gtccaacccg gtaagacacg acttatcgcc actggcagca gccactggta
+     3901 acaggattag cagagcgagg tatgtaggcg gtgctacaga gttcttgaag tggtggccta
+     3961 actacggcta cactagaagg acagtatttg gtatctgcgc tctgctgaag ccagttacct
+     4021 tcggaaaaag agttggtagc tcttgatccg gcaaacaaac caccgctggt agcggtggtt
+     4081 tttttgtttg caagcagcag attacgcgca gaaaaaaagg atctcaagaa gatcctttga
+     4141 tcttttctac ggggtctgac gctcagtgga acgaaaactc acgttaaggg attttggtca
+     4201 tgaggggtaa taactgatat aattaaattg aagctctaat ttgtgagttt agtatacatg
+     4261 catttactta taatacagtt ttttagtttt gctggccgca tcttctcaaa tatgcttccc
+     4321 agcctgcttt tctgtaacgt tcaccctcta ccttagcatc ccttcccttt gcaaatagtc
+     4381 ctcttccaac aataataatg tcagatcctg tagagaccac atcatccacg gttctatact
+     4441 gttgacccaa tgcgtctccc ttgtcatcta aacccacacc gggtgtcata atcaaccaat
+     4501 cgtaaccttc atctcttcca cccatgtctc tttgagcaat aaagccgata acaaaatctt
+     4561 tgtcgctctt cgcaatgtca acagtaccct tagtatattc tccagtagat agggagccct
+     4621 tgcatgacaa ttctgctaac atcaaaaggc ctctaggttc ctttgttact tcttctgccg
+     4681 cctgcttcaa accgctaaca atacctgggc ccaccacacc gtgtgcattc gtaatgtctg
+     4741 cccattctgc tattctgtat acacccgcag agtactgcaa tttgactgta ttaccaatgt
+     4801 cagcaaattt tctgtcttcg aagagtaaaa aattgtactt ggcggataat gcctttagcg
+     4861 gcttaactgt gccctccatg gaaaaatcag tcaaaatatc cacatgtgtt tttagtaaac
+     4921 aaattttggg acctaatgct tcaactaact ccagtaattc cttggtggta cgaacatcca
+     4981 atgaagcaca caagtttgtt tgcttttcgt gcatgatatt aaatagcttg gcagcaacag
+     5041 gactaggatg agtagcagca cgttccttat atgtagcttt cgacatgatt tatcttcgtt
+     5101 tcctgcaggt ttttgttctg tgcagttggg ttaagaatac tgggcaattt catgtttctt
+     5161 caacactaca tatgcgtata tataccaatc taagtctgtg ctccttcctt cgttcttcct
+     5221 tctgttcgga gattaccgaa tcaaaaaaat ttcaaagaaa ccgaaatcaa aaaaaagaat
+     5281 aaaaaaaaaa tgatgaattg aattgaaaag ctagcttatc gatgataagc tgtcaaagat
+     5341 gagaattaat tccacggact atagactata ctagatactc cgtctactgt acgatacact
+     5401 tccgctcagg tccttgtcct ttaacgaggc cttaccactc ttttgttact ctattgatcc
+     5461 agctcagcaa aggcagtgtg atctaagatt ctatcttcgc gatgtagtaa aactagctag
+     5521 accgagaaag agactagaaa tgcaaaaggc acttctacaa tggctgccat cattattatc
+     5581 cgatgtgacg ctgcagcttc tcaatgatat tcgaatacgc tttgaggaga tacagcctaa
+     5641 tatccgacaa actgttttac agatttacga tcgtacttgt tacccatcat tgaattttga
+     5701 acatccgaac ctgggagttt tccctgaaac agatagtata tttgaacctg tataataata
+     5761 tatagtctag cgctttacgg aagacaatgt atgtatttcg gttcctggag aaactattgc
+     5821 atctattgca taggtaatct tgcacgtcgc atccccggtt cattttctgc gtttccatct
+     5881 tgcacttcaa tagcatatct ttgttaacga agcatctgtg cttcattttg tagaacaaaa
+     5941 atgcaacgcg agagcgctaa tttttcaaac aaagaatctg agctgcattt ttacagaaca
+     6001 gaaatgcaac gcgaaagcgc tattttacca acgaagaatc tgtgcttcat ttttgtaaaa
+     6061 caaaaatgca acgcgacgag agcgctaatt tttcaaacaa agaatctgag ctgcattttt
+     6121 acagaacaga aatgcaacgc gagagcgcta ttttaccaac aaagaatcta tacttctttt
+     6181 ttgttctaca aaaatgcatc ccgagagcgc tatttttcta acaaagcatc ttagattact
+     6241 ttttttctcc tttgtgcgct ctataatgca gtctcttgat aactttttgc actgtaggtc
+     6301 cgttaaggtt agaagaaggc tactttggtg tctattttct cttccataaa aaaagcctga
+     6361 ctccacttcc cgcgtttact gattactagc gaagctgcgg gtgcattttt tcaagataaa
+     6421 ggcatccccg attatattct ataccgatgt ggattgcgca tactttgtga acagaaagtg
+     6481 atagcgttga tgattcttca ttggtcagaa aattatgaac ggtttcttct attttgtctc
+     6541 tatatactac gtataggaaa tgtttacatt ttcgtattgt tttcgattca ctctatgaat
+     6601 agttcttact acaatttttt tgtctaaaga gtaatactag agataaacat aaaaaatgta
+     6661 gaggtcgagt ttagatgcaa gttcaaggag cgaaaggtgg atgggtaggt tatataggga
+     6721 tatagcacag agatatatag caaagagata cttttgagca atgtttgtgg aagcggtatt
+     6781 cgcaatggga agctccaccc cggttgataa tcagaaaagc cccaaaaaca ggaagattat
+     6841 tatcaaaaag gatcttcacc tagatccttt taaattaaaa atgaagtttt aaatcaatct
+     6901 aaagtatata tgagtaaact tggtctgaca gttaccaatg cttaatcagt gaggcaccta
+     6961 tctcagcgat ctgtctattt cgttcatcca tagttgcctg actccccgtc gtgtagataa
+     7021 ctacgatacg ggagcgctta ccatctggcc ccagtgctgc aatgataccg cgagacccac
+     7081 gctcaccggc tccagattta tcagcaataa accagccagc cggaagggcc gagcgcagaa
+     7141 gtggtcctgc aactttatcc gcctccatcc agtctattaa ttgttgccgg gaagctagag
+     7201 taagtagttc gccagttaat agtttgcgca acgttgttgg cattgctaca ggcatcgtgg
+     7261 tgtcactctc gtcgtttggt atggcttcat tcagctccgg ttcccaacga tcaaggcgag
+     7321 ttacatgatc ccccatgttg tgcaaaaaag cggttagctc cttcggtcct ccgatcgttg
+     7381 tcagaagtaa gttggccgca gtgttatcac tcatggttat ggcagcactg cataattctc
+     7441 ttactgtcat gccatccgta agatgctttt ctgtgactgg tgagtactca accaagtcat
+     7501 tctgagaata gtgtatgcgg cgaccgagtt gctcttgccc ggcgtcaata cgggataata
+     7561 gtgtatcaca tagcagaact ttaaaagtgc tcatcattgg aaaacgttct tcggggcgaa
+     7621 aactctcaag gatcttaccg ctgttgagat ccagttcgat gtaacccact cgtgcaccca
+     7681 actgatcttc agcatctttt actttcacca gcgtttctgg gtgagcaaaa acaggaaggc
+     7741 aaaatgccgc aaaaaaggga ataagggcga cacggaaatg ttgaatactc atactcttcc
+     7801 tttttcaata ttattgaagc atttatcagg gttattgtct catgagcgga tacatatttg
+     7861 aatgtattta gaaaaataaa caaatagggg ttccgcgcac atttccccga aaagtgccac
+     7921 ctgctaagaa accattatta tcatgacatt aacctataaa aataggcgta tcacgaggcc
+     7981 ctttcgtc
+//
