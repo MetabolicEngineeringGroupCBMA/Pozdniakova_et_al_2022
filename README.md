@@ -95,3 +95,15 @@ This can be changed in the `.github/workflows/test_notebooks_workflow.yml file`.
 
 
 ![-----------------------------------------------------](accessory/line.png)
+
+
+## Funding
+
+We are grateful for funding from:
+
+[Fundação para a Ciência e Tecnologia](https://www.fct.pt) Portugal (FCT) through project
+FatVal PTDC/EAM-AMB/032506/2017 funded by national funds through the FCT I.P.
+and by the ERDF through the COMPETE2020 – Programa Operacional Competitividade e Internacionalizacão (POCI).
+
+
+CBMA was supported by the strategic program UIDB/04050/2020 funded by national funds through the FCT I.P.
