@@ -1,12 +1,12 @@
 LOCUS       pTA1                    6175 bp    DNA     circular UNK 01-JAN-1980
-DEFINITION  pTA1 = ampR pBR 2µ LEU2 CRPΔ µ828.
-ACCESSION   id_rc
-VERSION     id_rc
+DEFINITION  pTA1 = ampR pBR 2Âµ LEU2 CRPÎ Âµ828.
+ACCESSION   id
+VERSION     id
 KEYWORDS    .
 SOURCE      .
   ORGANISM  .
             .
-COMMENT     pydna cSEGUID _E-9A37sZOIs9RFYPb3ENzud6FI 2022-11-09T17:05:58
+COMMENT     pydna cSEGUID _E-9A37sZOIs9RFYPb3ENzud6FI 2022-11-08T17:12:15
 FEATURES             Location/Qualifiers
      primer_bind     1..29
                      /label="577_crp585-557"
@@ -32,89 +32,73 @@ FEATURES             Location/Qualifiers
                      /label="977_Crp.REV"
                      /ApEinfo_fwdcolor="#baffa3"
                      /ApEinfo_revcolor="#ffbaba"
-     primer_bind     446..470
-                     /label="1113_Amp.fw.nw"
-                     /ApEinfo_fwdcolor="#baffa3"
-                     /ApEinfo_revcolor="#ffbaba"
-     gene            547..1407
-                     /gene="AmpR"
-     CDS             547..1407
-                     /gene="AmpR"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="Protocol for ampicillin stock solution resistance
-                     protein"
-                     /protein_id="AAG34530.1"
-                     /db_xref="GI:11344891"
-                     /translation="MSIQHFRVALIPFFAAFCLPVFAHPETLVKVKDAEDQLGARVGYI
-                     ELDLNSGKILESFRPEERFPMMSTFKVLLCGAVLSRIDAGQEQLGRRIHYSQNDLVEYS
-                     PVTEKHLTDGMTVRELCSAAITMSDNTAANLLLTTIGGPKELTAFLHNMGDHVTRLDRW
-                     EPELNEAIPNDERDTTMPVAMATTLRKLLTGELLTLASRQQLIDWMEADKVAGPLLRSA
-                     LPAGWFIADKSGAGERGSRGIIAALGPDGKPSRIVVIYTTGSQATMDERNRQIAEIGAS
-                     LIKHW"
-     primer_bind     complement(1436..1457)
+     primer_bind     complement(414..435)
                      /label="987_Amp.REV"
                      /ApEinfo_fwdcolor="#baffa3"
                      /ApEinfo_revcolor="#ffbaba"
-     repeat_region   complement(1565..1602)
+     primer_bind     416..440
+                     /label="1113_Amp.fw.nw"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     1428..1446
+                     /label="1196_Pbr.FW"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     repeat_region   complement(1535..1572)
                      /note="corresponds to one of the 38bp repeats found in Tn3
                      (bp 1-38 and complement (4920-4957))"
                      /rpt_type=inverted
-     old_sequence    complement(2020..2021)
+     old_sequence    complement(1990..1991)
                      /note="revision according to (17)"
                      /citation=[2]
                      /citation=[17]
                      /replace="at"
-     old_sequence    complement(2020)
+     old_sequence    complement(1990)
                      /note="revision according to (16)"
                      /citation=[2]
                      /citation=[16]
                      /citation=[17]
                      /replace="t"
-     old_sequence    complement(2021)
+     old_sequence    complement(1991)
                      /citation=[17]
-     rep_origin      complement(2215)
-     misc_binding    complement(2303..2311)
+     rep_origin      complement(2185)
+     misc_binding    complement(2273..2281)
                      /bound_moiety="dnaA"
-     misc_feature    2336..2399
+     misc_feature    2306..2369
                      /note="L-strand Y effector site"
                      /citation=[5]
-     repeat_region   2501..2505
+     repeat_region   2471..2475
                      /note="gamma-delta insertion target sequence"
                      /rpt_type=direct
-     misc_feature    complement(2583..2739)
+     misc_feature    complement(2553..2709)
                      /note="H-strand Y effector site"
                      /citation=[5]
-     CDS             complement(2644..2835)
+     CDS             complement(2614..2805)
                      /codon_start=1
                      /transl_table=11
                      /product="ROP protein"
                      /protein_id="AAB59736.1"
                      /translation="MTKQEKTALNMARFIRSQTLTLLEKLNELDADEQADICESLHDHA
                      DELYRSCLARFGDDGENL"
-     old_sequence    complement(2835..2836)
+     old_sequence    complement(2805..2806)
                      /citation=[17]
-     misc_difference complement(2836..2837)
+     misc_difference complement(2806..2807)
                      /note="conflict"
                      /citation=[23]
                      /replace="caa"
-     regulatory      complement(2840..2845)
+     regulatory      complement(2810..2815)
                      /regulatory_class="ribosome_binding_site"
-     regulatory      complement(2841..2845)
+     regulatory      complement(2811..2815)
                      /regulatory_class="ribosome_binding_site"
                      /note="Shine-Dalgarno sequence"
-     old_sequence    complement(2857..2858)
+     old_sequence    complement(2827..2828)
                      /citation=[2]
                      /citation=[22]
-     misc_difference complement(2858..2859)
+     misc_difference complement(2828..2829)
                      /note="conflict"
                      /citation=[23]
                      /replace="att"
-     primer_bind     2875..2893
-                     /label="1196_Pbr.FW"
-                     /ApEinfo_fwdcolor="#baffa3"
-                     /ApEinfo_revcolor="#ffbaba"
-     primer_bind     complement(2881..2894)
+     primer_bind     complement(2851..2864)
                      /label="1195_Pbr.REV"
                      /ApEinfo_fwdcolor="#baffa3"
                      /ApEinfo_revcolor="#ffbaba"
