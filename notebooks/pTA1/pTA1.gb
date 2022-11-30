@@ -6,7 +6,7 @@ KEYWORDS    .
 SOURCE      .
   ORGANISM  .
             .
-COMMENT     pydna cSEGUID _E-9A37sZOIs9RFYPb3ENzud6FI 2022-11-09T17:05:58
+COMMENT     pydna cSEGUID _E-9A37sZOIs9RFYPb3ENzud6FI 2022-11-09T17:13:54
 FEATURES             Location/Qualifiers
      primer_bind     1..29
                      /label="577_crp585-557"

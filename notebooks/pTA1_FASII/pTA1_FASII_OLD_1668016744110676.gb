@@ -1,19 +1,16 @@
-LOCUS       pTA1_FASII             26279 bp    DNA     circular UNK 01-JAN-1980
+LOCUS       pTA1_FASII             26279 bp    DNA     circular SYN 01-JAN-1980
 DEFINITION  pTA1 PDC1 EcfabH TEF1 EcfabD FBA1 EcfabG RPL22A EcacpP TDH3 EcfabF
             UTR2 EcfabB TPI1 EcfabA PMP3 EcfabZ ENO2 Athmod1 RPL5 AthfatA1
             RPL16A AthfatB RPL17A EcacpH RPL16B EcacpS TMA19.
-ACCESSION   id
-VERSION     id
+ACCESSION   .
+VERSION     .
 KEYWORDS    .
-SOURCE      .
+SOURCE      
   ORGANISM  .
             .
-COMMENT     pydna cSEGUID pSEB06a7KhD-BDgV8zCp87GyWtw 2022-11-09T17:58:59
+COMMENT     Annotated with pLannotate v1.2.0. cSEGUID
+            GsaGCT5nmHM4ixNQocrG-EvFVAY 2022-03-17T17:30:15
 FEATURES             Location/Qualifiers
-     primer_bind     1..29
-                     /label="577_crp585-557"
-                     /ApEinfo_fwdcolor="#baffa3"
-                     /ApEinfo_revcolor="#ffbaba"
      primer_bind     1..16
                      /label="978_Crp.FW"
                      /ApEinfo_fwdcolor="#baffa3"
@@ -1314,10 +1311,6 @@ FEATURES             Location/Qualifiers
                      /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
                      -0.5} {} 0} width 5 offset 0"
      primer_bind     complement(20461..20489)
-                     /label="578_crp42-70"
-                     /ApEinfo_fwdcolor="#baffa3"
-                     /ApEinfo_revcolor="#ffbaba"
-     primer_bind     complement(20461..20489)
                      /label="578"
                      /ApEinfo_fwdcolor="#baffa3"
                      /ApEinfo_revcolor="#ffbaba"
@@ -1329,26 +1322,52 @@ FEATURES             Location/Qualifiers
                      /label="977_Crp.REV"
                      /ApEinfo_fwdcolor="#baffa3"
                      /ApEinfo_revcolor="#ffbaba"
+     promoter        20529..20620
+                     /note="pLannotate"
+                     /label="AmpR promoter"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="promoter"
      primer_bind     20550..20574
                      /label="1113_Amp.fw.nw"
                      /ApEinfo_fwdcolor="#baffa3"
                      /ApEinfo_revcolor="#ffbaba"
+     regulatory      20610..20616
+                     /regulatory_class="promoter"
+                     /note="promoter P3 (6)"
+     CDS             20621..21481
+                     /note="pLannotate"
+                     /label="AmpR"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="CDS"
+     regulatory      20639..20643
+                     /regulatory_class="ribosome_binding_site"
+                     /note="Shine-Dalgarno sequence"
      gene            20651..21511
-                     /gene="AmpR"
+                     /gene="bla"
      CDS             20651..21511
-                     /gene="AmpR"
+                     /gene="bla"
+                     /note="E-286"
                      /codon_start=1
                      /transl_table=11
-                     /product="Protocol for ampicillin stock solution resistance
-                     protein"
-                     /protein_id="AAG34530.1"
-                     /db_xref="GI:11344891"
+                     /product="beta-lactamase"
+                     /protein_id="AAB59737.1"
                      /translation="MSIQHFRVALIPFFAAFCLPVFAHPETLVKVKDAEDQLGARVGYI
-                     ELDLNSGKILESFRPEERFPMMSTFKVLLCGAVLSRIDAGQEQLGRRIHYSQNDLVEYS
+                     ELDLNSGKILESFRPEERFPMMSTFKVLLCGAVLSRVDAGQEQLGRRIHYSQNDLVEYS
                      PVTEKHLTDGMTVRELCSAAITMSDNTAANLLLTTIGGPKELTAFLHNMGDHVTRLDRW
-                     EPELNEAIPNDERDTTMPVAMATTLRKLLTGELLTLASRQQLIDWMEADKVAGPLLRSA
+                     EPELNEAIPNDERDTTMPAAMATTLRKLLTGELLTLASRQQLIDWMEADKVAGPLLRSA
                      LPAGWFIADKSGAGERGSRGIIAALGPDGKPSRIVVIYTTGSQATMDERNRQIAEIGAS
                      LIKHW"
+     sig_peptide     20651..20719
+                     /gene="bla"
+     mat_peptide     20720..21508
+                     /gene="bla"
+                     /product="beta-lactamase"
      primer_bind     complement(21540..21561)
                      /label="987_Amp.REV"
                      /ApEinfo_fwdcolor="#baffa3"
@@ -1357,6 +1376,22 @@ FEATURES             Location/Qualifiers
                      /note="corresponds to one of the 38bp repeats found in Tn3
                      (bp 1-38 and complement (4920-4957))"
                      /rpt_type=inverted
+     rep_origin      21732..22320
+                     /note="pLannotate"
+                     /label="ori"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="rep_origin"
+     ncRNA           complement(21771..21875)
+                     /note="pLannotate"
+                     /label="RNAI"
+                     /database="Rfam"
+                     /identity="100.0"
+                     /match_length="102.9"
+                     /fragment="False"
+                     /other="ncRNA"
      old_sequence    complement(22124..22125)
                      /note="revision according to (17)"
                      /citation=[2]
@@ -1376,6 +1411,14 @@ FEATURES             Location/Qualifiers
      misc_feature    22440..22503
                      /note="L-strand Y effector site"
                      /citation=[5]
+     misc_feature    complement(22506..22646)
+                     /note="pLannotate"
+                     /label="bom"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="misc_feature"
      repeat_region   22605..22609
                      /note="gamma-delta insertion target sequence"
                      /rpt_type=direct
@@ -1389,6 +1432,14 @@ FEATURES             Location/Qualifiers
                      /protein_id="AAB59736.1"
                      /translation="MTKQEKTALNMARFIRSQTLTLLEKLNELDADEQADICESLHDHA
                      DELYRSCLARFGDDGENL"
+     CDS             complement(22748..22939)
+                     /note="pLannotate"
+                     /label="rop"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="CDS"
      old_sequence    complement(22939..22940)
                      /citation=[17]
      misc_difference complement(22940..22941)
@@ -1411,91 +1462,336 @@ FEATURES             Location/Qualifiers
                      /label="1196_Pbr.FW"
                      /ApEinfo_fwdcolor="#baffa3"
                      /ApEinfo_revcolor="#ffbaba"
-     primer_bind     complement(22985..22998)
+     primer_bind     complement(22985..22999)
                      /label="1195_Pbr.REV"
                      /ApEinfo_fwdcolor="#baffa3"
                      /ApEinfo_revcolor="#ffbaba"
+     CDS             23023..23112
+                     /note="pLannotate"
+                     /label="RAF1 (fragment)"
+                     /database="swissprot"
+                     /identity="93.3"
+                     /match_length="16.6"
+                     /fragment="True"
+                     /other="CDS"
      primer_bind     23029..23047
                      /label="984_Micron.FW"
                      /ApEinfo_fwdcolor="#baffa3"
                      /ApEinfo_revcolor="#ffbaba"
+     rep_origin      complement(23266..24612)
+                     /note="pLannotate"
+                     /label="2μ ori"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="rep_origin"
+     protein_bind    complement(24251..24280)
+                     /note="pLannotate"
+                     /label="FRT (mutant) (fragment)"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="62.5"
+                     /fragment="True"
+                     /other="protein_bind"
+     CDS             complement(24433..24612)
+                     /note="pLannotate"
+                     /label="FLP (fragment)"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="14.2"
+                     /fragment="True"
+                     /other="CDS"
      primer_bind     complement(24595..24612)
                      /label="983_Micron.REV"
                      /ApEinfo_fwdcolor="#baffa3"
                      /ApEinfo_revcolor="#ffbaba"
+     misc_feature    24643..25052
+                     /label="leu2prom"
+                     /ApEinfo_fwdcolor="#a966ff"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    24643..24660
+                     /label="fp"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
      primer_bind     24643..24660
                      /label="980_Leu2.FW"
                      /ApEinfo_fwdcolor="#baffa3"
                      /ApEinfo_revcolor="#ffbaba"
      promoter        24645..25052
-                     /gene="S. cerevisiae LEU2"
-                     /locus_tag="LEU2 promoter"
-                     /label="LEU2 promoter"
-                     /ApEinfo_label="LEU2 promoter"
-                     /ApEinfo_fwdcolor="#00D0FA"
-                     /ApEinfo_revcolor="#00D0FA"
-                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
-                     -0.5} {} 0} width 5 offset 0"
-     promoter        24645..25052
                      /note="pLannotate"
+                     /label="LEU2 promoter"
                      /database="snapgene"
                      /identity="99.5"
                      /match_length="100.0"
                      /fragment="False"
                      /other="promoter"
-                     /locus_tag="LEU2 promoter(1)"
-                     /label="LEU2 promoter(1)"
-                     /ApEinfo_label="LEU2 promoter"
-                     /ApEinfo_fwdcolor="#7160FE"
-                     /ApEinfo_revcolor="#7160FE"
-                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
-                     -0.5} {} 0} width 5 offset 0"
-     variation       complement(24854..24855)
-                     /locus_tag="New Feature"
-                     /label="New Feature"
-                     /ApEinfo_label="New Feature"
+     misc_feature    25024..25049
+                     /label="dleu2f"
                      /ApEinfo_fwdcolor="cyan"
                      /ApEinfo_revcolor="green"
-                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
-                     -0.5} {} 0} width 5 offset 0"
-     CDS             25053..26147
-                     /codon_start=1
-                     /gene="S. cerevisiae LEU2"
-                     /product="3-isopropylmalate dehydrogenase, required for
-                     leucine biosynthesis"
-                     /note="yeast auxotrophic marker"
-                     /translation="MSAPKKIVVLPGDHVGQEITAEAIKVLKAISDVRSNVKFDFENHL
-                     IGGAAIDATGVPLPDEALEASKKVDAVLLGAVGGPKWGTGSVRPEQGLLKIRKELQLYA
-                     NLRPCNFASDSLLDLSPIKPQFAKGTDFVVVRELVGGIYFGKRKEDDGDGVAWDSEQYT
-                     VPEVQRITRMAAFMALQHEPPLPIWSLDKANVLASSRLWRKTVEETIKNEFPTLKVQHQ
-                     LIDSAAMILVKNPTHLNGIIITSNMFGDIISDEASVIPGSLGLLPSASLASLPDKNTAF
-                     GLYEPCHGSAPDLPKNKVNPIATILSAAMMLKLSLNLPEEGKAIEDAVKKVLDAGIRTG
-                     DLGGSNSTTEVGDAVAEEVKKILA"
-                     /locus_tag="LEU2"
-                     /label="LEU2"
-                     /ApEinfo_label="LEU2"
-                     /ApEinfo_fwdcolor="#00C6C3"
-                     /ApEinfo_revcolor="#00C6C3"
-                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
-                     -0.5} {} 0} width 5 offset 0"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    25053..26147
+                     /label="leu2"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
      CDS             25053..26147
                      /note="pLannotate"
+                     /label="LEU2"
                      /database="snapgene"
                      /identity="99.5"
                      /match_length="100.0"
                      /fragment="False"
                      /other="CDS"
-                     /locus_tag="LEU2(1)"
-                     /label="LEU2(1)"
-                     /ApEinfo_label="LEU2"
-                     /ApEinfo_fwdcolor="#4856FE"
-                     /ApEinfo_revcolor="#4856FE"
-                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
-                     -0.5} {} 0} width 5 offset 0"
      primer_bind     complement(26230..26250)
                      /label="979_Leu2.REV"
                      /ApEinfo_fwdcolor="#baffa3"
                      /ApEinfo_revcolor="#ffbaba"
+     misc_feature    26230..26249
+                     /label="revprimer"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     rep_origin      complement(23266..24612)
+                     /note="pLannotate"
+                     /label="2μ ori"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="rep_origin"
+     CDS             20621..21481
+                     /note="pLannotate"
+                     /label="AmpR"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="CDS"
+     promoter        6041..6707
+                     /note="pLannotate"
+                     /label="GAP promoter"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="promoter"
+     rep_origin      21732..22320
+                     /note="pLannotate"
+                     /label="ori"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="rep_origin"
+     promoter        2340..2747
+                     /note="pLannotate"
+                     /label="TEF1 promoter"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="promoter"
+     CDS             6767..8005
+                     /note="pLannotate"
+                     /label="fabF"
+                     /database="swissprot"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="CDS"
+     CDS             8726..9943
+                     /note="pLannotate"
+                     /label="fabB"
+                     /database="swissprot"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="CDS"
+     CDS             1190..2140
+                     /note="pLannotate"
+                     /label="fabH"
+                     /database="swissprot"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="CDS"
+     CDS             5735..5968
+                     /note="pLannotate"
+                     /label="ACP"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="CDS"
+     CDS             2820..3746
+                     /note="pLannotate"
+                     /label="fabD"
+                     /database="swissprot"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="CDS"
+     CDS             complement(22748..22939)
+                     /note="pLannotate"
+                     /label="rop"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="CDS"
+     CDS             4477..5208
+                     /note="pLannotate"
+                     /label="fabG"
+                     /database="swissprot"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="CDS"
+     CDS             17988..18566
+                     /note="pLannotate"
+                     /label="acpH"
+                     /database="swissprot"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="CDS"
+     misc_feature    complement(22506..22646)
+                     /note="pLannotate"
+                     /label="bom"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="misc_feature"
+     CDS             10626..11141
+                     /note="pLannotate"
+                     /label="fabA"
+                     /database="swissprot"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="CDS"
+     CDS             11998..12450
+                     /note="pLannotate"
+                     /label="fabZ"
+                     /database="swissprot"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="CDS"
+     CDS             25053..26147
+                     /note="pLannotate"
+                     /label="LEU2"
+                     /database="snapgene"
+                     /identity="99.5"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="CDS"
+     CDS             19365..19742
+                     /note="pLannotate"
+                     /label="acpS"
+                     /database="swissprot"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="CDS"
+     promoter        20529..20620
+                     /note="pLannotate"
+                     /label="AmpR promoter"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="promoter"
+     CDS             complement(12502..12837)
+                     /note="pLannotate"
+                     /label="YHX3_YEAST"
+                     /database="swissprot"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="CDS"
+     CDS             16134..17222
+                     /note="pLannotate"
+                     /label="FATB (fragment)"
+                     /database="swissprot"
+                     /identity="100.0"
+                     /match_length="88.1"
+                     /fragment="True"
+                     /other="CDS"
+     CDS             14621..15592
+                     /note="pLannotate"
+                     /label="FATA (fragment)"
+                     /database="swissprot"
+                     /identity="100.0"
+                     /match_length="89.5"
+                     /fragment="True"
+                     /other="CDS"
+     promoter        24645..25052
+                     /note="pLannotate"
+                     /label="LEU2 promoter"
+                     /database="snapgene"
+                     /identity="99.5"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="promoter"
+     CDS             13073..14020
+                     /note="pLannotate"
+                     /label="MOD1 (fragment)"
+                     /database="swissprot"
+                     /identity="100.0"
+                     /match_length="81.0"
+                     /fragment="True"
+                     /other="CDS"
+     CDS             complement(20195..20488)
+                     /note="pLannotate"
+                     /label="crp (fragment)"
+                     /database="swissprot"
+                     /identity="100.0"
+                     /match_length="46.7"
+                     /fragment="True"
+                     /other="CDS"
+     ncRNA           complement(21771..21875)
+                     /note="pLannotate"
+                     /label="RNAI"
+                     /database="Rfam"
+                     /identity="100.0"
+                     /match_length="102.9"
+                     /fragment="False"
+                     /other="ncRNA"
+     CDS             complement(24433..24612)
+                     /note="pLannotate"
+                     /label="FLP (fragment)"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="14.2"
+                     /fragment="True"
+                     /other="CDS"
+     protein_bind    complement(24251..24280)
+                     /note="pLannotate"
+                     /label="FRT (mutant) (fragment)"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="62.5"
+                     /fragment="True"
+                     /other="protein_bind"
+     CDS             23023..23112
+                     /note="pLannotate"
+                     /label="RAF1 (fragment)"
+                     /database="swissprot"
+                     /identity="93.3"
+                     /match_length="16.6"
+                     /fragment="True"
+                     /other="CDS"
 ORIGIN
         1 gttctgatcc tcgagcatct taagaattcg tcccacggtt tgtctagagc agccgacaat
        61 ctggccaatt tcctgacggg taattttgat ttgcatgccg tccgggtgag tcatagcgtc
@@ -1844,12 +2140,12 @@ ORIGIN
     20641 tgtcgccctt attccctttt ttgcggcatt ttgccttcct gtttttgctc acccagaaac
     20701 gctggtgaaa gtaaaagatg ctgaagatca gttgggtgca cgagtgggtt acatcgaact
     20761 ggatctcaac agcggtaaga tccttgagag ttttcgcccc gaagaacgtt ttccaatgat
-    20821 gagcactttt aaagttctgc tatgtggcgc ggtattatcc cgtattgacg ccgggcaaga
+    20821 gagcactttt aaagttctgc tatgtggcgc ggtattatcc cgtgttgacg ccgggcaaga
     20881 gcaactcggt cgccgcatac actattctca gaatgacttg gttgagtact caccagtcac
     20941 agaaaagcat cttacggatg gcatgacagt aagagaatta tgcagtgctg ccataaccat
     21001 gagtgataac actgcggcca acttacttct gacaacgatc ggaggaccga aggagctaac
     21061 cgcttttttg cacaacatgg gggatcatgt aactcgcctt gatcgttggg aaccggagct
-    21121 gaatgaagcc ataccaaacg acgagcgtga caccacgatg cctgtagcaa tggcaacaac
+    21121 gaatgaagcc ataccaaacg acgagcgtga caccacgatg cctgcagcaa tggcaacaac
     21181 gttgcgcaaa ctattaactg gcgaactact tactctagct tcccggcaac aattaataga
     21241 ctggatggag gcggataaag ttgcaggacc acttctgcgc tcggcccttc cggctggctg
     21301 gtttattgct gataaatctg gagccggtga gcgtgggtct cgcggtatca ttgcagcact
